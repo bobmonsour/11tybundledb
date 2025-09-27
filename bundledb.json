@@ -25262,5 +25262,17 @@
     "Categories": [
       "Remote Data"
     ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "File organisation in Eleventy: Filters",
+    "Link": "https://hamatti.org/posts/file-organisation-in-eleventy-filters/",
+    "Date": "2025-09-24",
+    "Author": "Juha-Matti Santala",
+    "Categories": [
+      "Configuration",
+      "Filters"
+    ]
   }
 ]
