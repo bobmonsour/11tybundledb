@@ -25251,5 +25251,16 @@
     "Title": "Natalie Rose",
     "Link": "https://nataliethistime.com/",
     "Date": "2025-09-22T09:13:14.000"
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Fetching a JSON file from GitHub at build time in Eleventy",
+    "Link": "https://bobmonsour.com/blog/fetch-raw-github/",
+    "Date": "2025-09-25",
+    "Author": "Bob Monsour",
+    "Categories": [
+      "Remote Data"
+    ]
   }
 ]
