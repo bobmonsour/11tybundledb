@@ -25415,5 +25415,49 @@
       "Deployment",
       "How to..."
     ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Yet Another Blog Rewrite",
+    "Link": "https://ashfurrow.com/blog/yet-another-blog-rewrite/",
+    "Date": "2025-08-26",
+    "Author": "Ash Furrow",
+    "Categories": [
+      "Blogging",
+      "Migrating to Eleventy",
+      "Why Eleventy?"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Eleventy Launch",
+    "Link": "https://ashfurrow.com/blog/eleventy-launch/",
+    "Date": "2025-10-08",
+    "Author": "Ash Furrow",
+    "Categories": [
+      "Blogging",
+      "Images",
+      "Performance",
+      "Plugins"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "11ty Hacks for Fun and Performance",
+    "Link": "https://infrequently.org/2025/10/11ty-hacks-for-fun-and-performance/",
+    "Date": "2025-10-04",
+    "Author": "Alex Russell",
+    "Categories": [
+      "Blogging",
+      "CSS/Sass",
+      "Images",
+      "Pagination",
+      "Performance",
+      "Plugins",
+      "Shortcodes"
+    ]
   }
 ]
