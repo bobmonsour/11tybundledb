@@ -25463,5 +25463,18 @@
       "Pagination",
       "Shortcodes"
     ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "An 11ty Site, Codeberg Pages, and Cron",
+    "Link": "https://my.stuffandthings.lol/blog/2025-10-08/an-11ty-site-codeberg-pages-and-cron.html",
+    "Date": "2025-10-08",
+    "Author": "Jason Moser",
+    "Categories": [
+      "Deployment",
+      "Scheduling",
+      "Social Media"
+    ]
   }
 ]
