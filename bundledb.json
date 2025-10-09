@@ -25221,5 +25221,199 @@
     "Title": "Shiv J.M.",
     "Link": "https://hire.shivjm.in/",
     "Date": "2025-10-07T11:13:49.000"
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "From Dotclear to Eleventy 3",
+    "Link": "https://alix.guillard.fr/notes/dotclear-to-eleventy/content-migration/",
+    "Date": "2025-09-18",
+    "Author": "Alix Guillard",
+    "Categories": [
+      "How to...",
+      "Images",
+      "Migrating to Eleventy"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "From Dotclear to Eleventy 4",
+    "Link": "https://alix.guillard.fr/notes/dotclear-to-eleventy/page-navigation/",
+    "Date": "2025-09-24",
+    "Author": "Alix Guillard",
+    "Categories": [
+      "Collections",
+      "Configuration",
+      "Global Data",
+      "Navigation",
+      "Pagination",
+      "Shortcodes"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "From Dotclear to Eleventy 5",
+    "Link": "https://alix.guillard.fr/notes/dotclear-to-eleventy/other-features/",
+    "Date": "2025-09-29",
+    "Author": "Alix Guillard",
+    "Categories": [
+      "Drafts",
+      "How to...",
+      "Plugins",
+      "Search"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Adding a custom filename to a code block in Elev­enty with markdown-it",
+    "Link": "https://chriskirknielsen.com/blog/custom-filename-in-code-blocks-in-eleventy-in-markdown-it/",
+    "Date": "2025-09-19",
+    "Author": "Christopher Kirk-Nielsen",
+    "Categories": [
+      "Configuration",
+      "How to...",
+      "Markdown"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "File organisation in Eleventy: Filters",
+    "Link": "https://hamatti.org/posts/file-organisation-in-eleventy-filters/",
+    "Date": "2025-09-24",
+    "Author": "Juha-Matti Santala",
+    "Categories": [
+      "Configuration",
+      "Filters",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Fetching a JSON file from GitHub at build time in Eleventy",
+    "Link": "https://bobmonsour.com/blog/fetch-raw-github/",
+    "Date": "2025-09-25",
+    "Author": "Bob Monsour",
+    "Categories": [
+      "How to...",
+      "Remote Data"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Building My New Archives Page",
+    "Link": "https://kpwags.com/posts/2025/09/25/building-my-new-archives-page/",
+    "Date": "2025-09-25",
+    "Author": "Keith Wagner",
+    "Categories": [
+      "Blogging",
+      "Collections",
+      "Configuration",
+      "Filters",
+      "Nunjucks/Macros"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "An Addendum to Building My New Archives Page",
+    "Link": "https://kpwags.com/posts/2025/10/01/an-addendum-to-building-my-new-archives-page/",
+    "Date": "2025-10-01",
+    "Author": "Keith Wagner",
+    "Categories": [
+      "Blogging",
+      "Configuration",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Introducing Brewventy: Your Coffee-Themed Eleventy Starter Kit",
+    "Link": "https://www.kylereddoch.me/blog/introducing-brewventy-your-coffee-themed-eleventy-starter-kit/",
+    "Date": "2025-10-01",
+    "Author": "Kyle Reddoch",
+    "Categories": [
+      "Deployment",
+      "Getting Started",
+      "Layouts",
+      "Netlify",
+      "Shortcodes"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "How We Built Web Awesome with 11ty (and Why It’s So Fast) on Podcast Awesome",
+    "Link": "https://www.zachleat.com/web/web-awesome-11ty/",
+    "Date": "2025-09-30",
+    "Author": "Zach Leatherman",
+    "Categories": [
+      "From the Source",
+      "Performance",
+      "YouTube"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "WhileDo",
+    "Link": "https://blog.martin-haehnel.de/2025/10/03/whiledo/",
+    "Date": "2025-10-03",
+    "Author": "Martin Hähnel",
+    "Categories": [
+      "Blogging",
+      "CSS/Sass",
+      "Configuration",
+      "Filters",
+      "How to...",
+      "Social Media"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "More Description",
+    "Link": "https://blog.martin-haehnel.de/2025/10/04/more-description/",
+    "Date": "2025-10-04",
+    "Author": "Martin Hähnel",
+    "Categories": [
+      "Blogging",
+      "Configuration",
+      "Markdown",
+      "Plugins"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Upgrading Eleventy After 5 Years",
+    "Link": "https://intertwingly.net/blog/2025/10/05/Upgrading-Eleventy-After-5-Years.html",
+    "Date": "2025-10-05",
+    "Author": "Sam Ruby",
+    "Categories": [
+      "Configuration",
+      "Drafts",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Creating Cloudflare redirects",
+    "Link": "https://www.simoncox.com/short-articles/2025-10-08-creating-cloudflare-redirects/",
+    "Date": "2025-10-08",
+    "Author": "Simon Cox",
+    "Categories": [
+      "Configuration",
+      "Debugging",
+      "Deployment",
+      "How to..."
+    ]
   }
 ]
