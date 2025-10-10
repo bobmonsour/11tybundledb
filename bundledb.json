@@ -25512,5 +25512,55 @@
     "Title": "Nicholas Clooney",
     "Link": "https://blog.nicholas.clooney.io/",
     "Date": "2025-10-10T13:20:11.000"
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Lighting Up GitHub Embeds in My Eleventy Blog",
+    "Link": "https://blog.nicholas.clooney.io/posts/github-code-embeds/",
+    "Date": "2025-10-03",
+    "Author": "Nicholas Clooney",
+    "Categories": [
+      "Blogging",
+      "Remote Data"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Preview production drafts locally",
+    "Link": "https://blog.nicholas.clooney.io/posts/hide-drafts-production/",
+    "Date": "2025-09-28",
+    "Author": "Nicholas Clooney",
+    "Categories": [
+      "Drafts",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Leveling Up Responsive Images with Eleventy Img",
+    "Link": "https://blog.nicholas.clooney.io/posts/responsive-images-eleventy-img/",
+    "Date": "2025-09-27",
+    "Author": "Nicholas Clooney",
+    "Categories": [
+      "CSS/Sass",
+      "How to...",
+      "Images"
+    ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "11ty Subspace Builder v1.0.0",
+    "Link": "https://blog.nicholas.clooney.io/posts/v1.0.0-release/",
+    "Date": "2025-09-25",
+    "Author": "Nicholas Clooney",
+    "Categories": [
+      "Blogging",
+      "Getting Started",
+      "How to..."
+    ]
   }
 ]
