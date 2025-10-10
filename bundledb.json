@@ -25476,5 +25476,20 @@
       "Scheduling",
       "Social Media"
     ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Font Subsetting in Eleventy",
+    "Link": "https://shivjm.blog/font-subsetting-in-eleventy/",
+    "Date": "2025-10-08",
+    "Author": "Shiv J.M.",
+    "Categories": [
+      "Asset Pipelines",
+      "CSS/Sass",
+      "Configuration",
+      "How to...",
+      "Plugins"
+    ]
   }
 ]
