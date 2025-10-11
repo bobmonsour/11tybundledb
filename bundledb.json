@@ -25562,5 +25562,18 @@
       "Getting Started",
       "How to..."
     ]
+  },
+  {
+    "Issue": "79",
+    "Type": "blog post",
+    "Title": "Obsidian bases work great with Eleventy",
+    "Link": "https://thetangent.space/2025/obsidian-bases/",
+    "Date": "2025-10-11T08:30:08.000",
+    "Author": "SamJC",
+    "Categories": [
+      "Blogging",
+      "Front Matter",
+      "Obsidian"
+    ]
   }
 ]
