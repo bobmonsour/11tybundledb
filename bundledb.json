@@ -25588,5 +25588,24 @@
       "Drafts",
       "How to..."
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "site",
+    "Title": "Annika Backstrom",
+    "Link": "https://sixohthree.com/",
+    "Date": "2025-10-12T18:58:55.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "11ty Meetup #25: Presentation of Kaj Kandler",
+    "Link": "https://kajkandler.github.io/eleventy-base-blog-with-schema/blog/eleventy_meetup_25/",
+    "Date": "2025-07-29",
+    "Author": "Kaj Kandler",
+    "Categories": [
+      "Blogging",
+      "How to..."
+    ]
   }
 ]
