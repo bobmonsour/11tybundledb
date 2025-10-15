@@ -25607,5 +25607,17 @@
       "Blogging",
       "How to..."
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Simple Lossless Image Compression",
+    "Link": "https://www.cantoni.org/2025/10/14/simple-lossless-image-compression/",
+    "Date": "2025-10-14",
+    "Author": "Brian Cantoni",
+    "Categories": [
+      "How to...",
+      "Images"
+    ]
   }
 ]
