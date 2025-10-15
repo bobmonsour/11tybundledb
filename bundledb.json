@@ -25619,5 +25619,19 @@
       "How to...",
       "Images"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Build 02/30: TypeScript Mini Apps in Eleventy",
+    "Link": "https://dsriseah.com/journal/2025/1014/",
+    "Date": "2025-10-14",
+    "Author": "DSri Seah",
+    "Categories": [
+      "Blogging",
+      "Configuration",
+      "How to...",
+      "Shortcodes"
+    ]
   }
 ]
