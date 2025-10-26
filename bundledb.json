@@ -25744,5 +25744,17 @@
     "Title": "Yaisiel (Yai) Torres",
     "Link": "https://www.yaitorr.me/",
     "Date": "2025-10-26T12:23:49.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "11tyCMS: THE Eleventy Meetup appearance, metadata improvements, more post and collection goodness",
+    "Link": "https://11tycms.com/blog/posts/11tycms-11ty-meetup-metadata-improvements-more-post-management-and-collections/",
+    "Date": "2025-10-26T16:50:02.000",
+    "Author": "11tyCMS",
+    "Categories": [
+      "CMS",
+      "Collections"
+    ]
   }
 ]
