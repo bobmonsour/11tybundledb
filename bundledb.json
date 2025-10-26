@@ -25716,5 +25716,33 @@
     "Title": "Germán Freixinós López",
     "Link": "https://germanfrelo.dev/",
     "Date": "2025-10-25T14:42:58.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "11ty OpenGraph & SEO",
+    "Link": "https://equk.co.uk/2025/10/25/11ty-opengraph-and-seo/",
+    "Date": "2025-10-26T09:16:45.000",
+    "Author": "equilibriumuk",
+    "Categories": [
+      "Blogging",
+      "Configuration",
+      "Nunjucks/Macros",
+      "Plugins"
+    ]
+  },
+  {
+    "Issue": "80",
+    "Type": "site",
+    "Title": "MyAlarm Security",
+    "Link": "https://www.myalarmsecurity.co.uk/",
+    "Date": "2025-10-26T12:23:08.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "site",
+    "Title": "Yaisiel (Yai) Torres",
+    "Link": "https://www.yaitorr.me/",
+    "Date": "2025-10-26T12:23:49.000"
   }
 ]
