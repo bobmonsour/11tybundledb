@@ -25756,5 +25756,18 @@
       "CMS",
       "Collections"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Creating a modular approach to json schema in an eleventy website",
+    "Link": "https://www.simoncox.com/post/2025-10-28-creating-a-modular-approach-to-json-schema-in-an-eleventy-website/",
+    "Date": "2025-10-28T11:01:10.000",
+    "Author": "Simon Cox",
+    "Categories": [
+      "Configuration",
+      "How to...",
+      "Nunjucks/Macros"
+    ]
   }
 ]
