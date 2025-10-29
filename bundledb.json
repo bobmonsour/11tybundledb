@@ -25769,5 +25769,32 @@
       "How to...",
       "Nunjucks/Macros"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Enhancing archives navigation, step 1",
+    "Link": "https://nicolas-hoizey.com/articles/2020/10/26/enhancing-archives-navigation-step-1/",
+    "Date": "2020-10-26",
+    "Author": "Nicolas Hoizey",
+    "Categories": [
+      "Blogging",
+      "Collections",
+      "How to...",
+      "Navigation"
+    ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Enhancing archives navigation, step 2",
+    "Link": "https://nicolas-hoizey.com/articles/2020/11/02/enhancing-archives-navigation-step-2/",
+    "Date": "2020-11-01",
+    "Author": "Nicolas Hoizey",
+    "Categories": [
+      "How to...",
+      "Navigation",
+      "Search"
+    ]
   }
 ]
