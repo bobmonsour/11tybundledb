@@ -25803,5 +25803,18 @@
     "Title": "DevPro",
     "Link": "https://devpro.fr/",
     "Date": "2025-10-29T15:08:10.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Embedding Mastodon Posts in Eleventy: My Journey",
+    "Link": "https://www.kylereddoch.me/blog/embedding-mastodon-posts-in-eleventy-my-journey/",
+    "Date": "2025-10-30T11:17:39.000",
+    "Author": "Kyle Reddoch",
+    "Categories": [
+      "How to...",
+      "Shortcodes",
+      "Social Media"
+    ]
   }
 ]
