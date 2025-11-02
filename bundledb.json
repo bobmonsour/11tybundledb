@@ -17921,7 +17921,7 @@
   {
     "Issue": "60",
     "Type": "blog post",
-    "Title": "Building a Blog with Eleventy (blind, any%)",
+    "Title": "Building a Blog with Eleventy",
     "Link": "https://blog.sebin-nyshkim.net/posts/building-a-blog-with-eleventy-blind-any/",
     "Date": "2024-10-19",
     "Author": "Sebin Nyshkim",
@@ -22861,19 +22861,6 @@
   },
   {
     "Issue": "73",
-    "Type": "blog post",
-    "Title": "Displaying Webmentions",
-    "Link": "https://reillyspitzfaden.com/posts/2025/01/displaying-webmentions/",
-    "Date": "2025-01-28",
-    "Author": "Reilly Spitzfaden",
-    "Categories": [
-      "How to...",
-      "Plugins",
-      "Webmentions"
-    ]
-  },
-  {
-    "Issue": "73",
     "Type": "release",
     "Title": "Eleventy Image v6.0.3",
     "Link": "https://github.com/11ty/eleventy-img/releases/tag/v6.0.3",
@@ -25281,19 +25268,6 @@
   {
     "Issue": "79",
     "Type": "blog post",
-    "Title": "File organisation in Eleventy: Filters",
-    "Link": "https://hamatti.org/posts/file-organisation-in-eleventy-filters/",
-    "Date": "2025-09-24",
-    "Author": "Juha-Matti Santala",
-    "Categories": [
-      "Configuration",
-      "Filters",
-      "How to..."
-    ]
-  },
-  {
-    "Issue": "79",
-    "Type": "blog post",
     "Title": "Building My New Archives Page",
     "Link": "https://kpwags.com/posts/2025/09/25/building-my-new-archives-page/",
     "Date": "2025-09-25",
@@ -25816,5 +25790,12 @@
       "Shortcodes",
       "Social Media"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "site",
+    "Title": "Berry House",
+    "Link": "https://berryhouse.ca/",
+    "Date": "2025-11-02T08:16:21.000"
   }
 ]
