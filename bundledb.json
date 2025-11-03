@@ -25797,5 +25797,43 @@
     "Title": "Berry House",
     "Link": "https://berryhouse.ca/",
     "Date": "2025-11-02T08:16:21.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Fixing Tags, Categories, and RSS in Our Eleventy Blog",
+    "Link": "https://berryhouse.ca/blog/fixing-tags-categories-feed/",
+    "Date": "2025-08-19",
+    "Author": "Brennan Kenneth Brown",
+    "Categories": [
+      "Debugging",
+      "RSS"
+    ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Building the IndieWeb Blog Template — A Technical Postmortem",
+    "Link": "https://berryhouse.ca/blog/building-the-template-postmortem/",
+    "Date": "2025-08-18",
+    "Author": "Brennan Kenneth Brown",
+    "Categories": [
+      "Accessibility",
+      "Blogging",
+      "Debugging"
+    ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Three Minor Releases, One Major Leap for Subspace Builder",
+    "Link": "https://blog.nicholas.clooney.io/posts/v1.10-1.12-roundup/",
+    "Date": "2025-10-29",
+    "Author": "Nicholas Clooney",
+    "Categories": [
+      "Blogging",
+      "Getting Started",
+      "Navigation"
+    ]
   }
 ]
