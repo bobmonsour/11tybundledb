@@ -25835,5 +25835,16 @@
       "Getting Started",
       "Navigation"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "How We Use GitHub Issues and How That’s Changing",
+    "Link": "https://www.11ty.dev/blog/github-issues/",
+    "Date": "2025-11-03T14:39:49.000",
+    "Author": "11ty",
+    "Categories": [
+      "From the Source"
+    ]
   }
 ]
