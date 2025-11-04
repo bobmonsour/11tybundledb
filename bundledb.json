@@ -25846,5 +25846,17 @@
     "Categories": [
       "From the Source"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "11tyCMS: Major refactoring, state management overhaul, routing, site history selection and site dashboard implementation",
+    "Link": "https://11tycms.com/blog/posts/11tycms-major-refactoring-better-state-management-and-site-history-selection/",
+    "Date": "2025-11-03T16:46:31.000",
+    "Author": "11tyCMS",
+    "Categories": [
+      "CMS",
+      "Deployment"
+    ]
   }
 ]
