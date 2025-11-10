@@ -25918,5 +25918,18 @@
     "Title": "Capital Brief",
     "Link": "https://www.capitalbrief.com/",
     "Date": "2025-11-09T17:57:08.000"
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Making a free image gallery with 11ty and Neocities.org",
+    "Link": "https://stefanbohacek.com/blog/making-a-free-image-gallery-with-11ty-and-neocities-org/",
+    "Date": "2025-11-10T09:52:26.000",
+    "Author": "Stefan Bohacek",
+    "Categories": [
+      "Deployment",
+      "How to...",
+      "Image Galleries"
+    ]
   }
 ]
