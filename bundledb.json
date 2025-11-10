@@ -25911,5 +25911,12 @@
       "Filters",
       "Nunjucks/Macros"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "site",
+    "Title": "Capital Brief",
+    "Link": "https://www.capitalbrief.com/",
+    "Date": "2025-11-09T17:57:08.000"
   }
 ]
