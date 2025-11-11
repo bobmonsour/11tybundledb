@@ -25931,5 +25931,17 @@
       "How to...",
       "Image Galleries"
     ]
+  },
+  {
+    "Issue": "80",
+    "Type": "blog post",
+    "Title": "Let it Snow: Adding a Falling-Snow Effect to Your Eleventy Website",
+    "Link": "https://nathanupchurch.com/blog/let-it-snow/",
+    "Date": "2025-11-10T21:14:14.000",
+    "Author": "Nathan Upchurch",
+    "Categories": [
+      "How to...",
+      "Layouts"
+    ]
   }
 ]
