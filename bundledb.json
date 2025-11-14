@@ -9222,13 +9222,6 @@
   },
   {
     "Issue": "27",
-    "Type": "site",
-    "Title": "Convrtr",
-    "Link": "https://www.convrtr.xyz/",
-    "Date": "2024-01-16"
-  },
-  {
-    "Issue": "27",
     "Type": "blog post",
     "Title": "Introduction to Eleventy, a Modern Static Website Generator",
     "Link": "https://thenewstack.io/introduction-to-eleventy-a-modern-static-website-generator/",
@@ -20545,7 +20538,8 @@
     "Type": "site",
     "Title": "Taksh Shah",
     "Link": "https://taksh.codes/",
-    "Date": "2025-09-12T08:42:24.000"
+    "Date": "2025-09-12T08:42:24.000",
+    "Skip": true
   },
   {
     "Issue": "79",
