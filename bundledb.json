@@ -732,7 +732,7 @@
     "Issue": "5",
     "Type": "blog post",
     "Title": "Moving my site from Jekyll to Eleventy - Part II",
-    "Link": "https://www.carteakey.dev/moving-my-site-from-jekyll-to-eleventy-part-ii/",
+    "Link": "https://www.carteakey.dev/blog/moving-my-site-from-jekyll-to-eleventy-part-ii/",
     "Date": "2023-02-14",
     "Author": "Kartikey",
     "Categories": ["Migrating to Eleventy"]
@@ -741,7 +741,7 @@
     "Issue": "5",
     "Type": "blog post",
     "Title": "Moving my site from Jekyll to Eleventy - Part I",
-    "Link": "https://www.carteakey.dev/moving-site-jekyll-to-eleventy/",
+    "Link": "https://www.carteakey.dev/blog/moving-site-jekyll-to-eleventy/",
     "Date": "2022-10-10",
     "Author": "Kartikey",
     "Categories": ["Migrating to Eleventy"]
@@ -2112,7 +2112,8 @@
     "Link": "https://www.aleksandrhovhannisyan.com/blog/design-mode-in-11ty/",
     "Date": "2022-05-05",
     "Author": "Aleksandr Hovhannisyan",
-    "Categories": ["How to..."]
+    "Categories": ["How to..."],
+    "Skip": true
   },
   {
     "Issue": "",
@@ -4247,7 +4248,7 @@
     "Issue": "",
     "Type": "blog post",
     "Title": "Getting started with eleventy",
-    "Link": "https://sombriks.com/blog/0042-getting-started-with-eleventy/",
+    "Link": "https://sombriks.com.br/blog/0042-getting-started-with-eleventy/",
     "Date": "2023-02-19",
     "Author": "Leonardo Silveira",
     "Categories": ["Getting Started"]
@@ -5198,7 +5199,7 @@
     "Issue": "",
     "Type": "blog post",
     "Title": "11ty and Rollup - a take on current build pipelines",
-    "Link": "https://www.hoeser.dev/blog/2021-02-28-11ty-and-rollup/",
+    "Link": "https://www.hoeser.dev/blog/2021-02-28-11ty-and-Rollup/",
     "Date": "2021-02-22",
     "Author": "Raphael Höser",
     "Categories": ["How to..."]
@@ -6939,7 +6940,7 @@
     "Issue": "3",
     "Type": "site",
     "Title": "Sombriks Has A Plan",
-    "Link": "https://sombriks.com/",
+    "Link": "https://sombriks.com.br/",
     "Date": "2023-04-11"
   },
   {
@@ -7816,7 +7817,7 @@
     "Issue": "21",
     "Type": "blog post",
     "Title": "Under the hood",
-    "Link": "https://lostinbrittany.dev/under-the-hood/",
+    "Link": "https://lostinbrittany.dev/en/under-the-hood/",
     "Date": "2023-10-09T07:00:00.000Z",
     "Author": "Horacio Gonzalez",
     "Categories": ["WebC", "Why Eleventy?"]
@@ -13592,7 +13593,8 @@
     "Type": "site",
     "Title": "NYEUT",
     "Link": "https://nyeut.fr/",
-    "Date": "2024-08-20"
+    "Date": "2024-08-20",
+    "Skip": true
   },
   {
     "Issue": "55",
@@ -14670,7 +14672,8 @@
     "Type": "site",
     "Title": "The Jolly Teapot",
     "Link": "https://thejollyteapot.xmit.dev/",
-    "Date": "2024-11-26"
+    "Date": "2024-11-26",
+    "Skip": true
   },
   {
     "Issue": "61",
@@ -16943,7 +16946,13 @@
     "Link": "https://heterl0.live/blog/build-personal-blog-with-eleventy/",
     "Date": "2025-01-14",
     "Author": "Hieu Le Van",
-    "Categories": ["Blogging", "Deployment", "Getting Started", "Why Eleventy?"]
+    "Categories": [
+      "Blogging",
+      "Deployment",
+      "Getting Started",
+      "Why Eleventy?"
+    ],
+    "Skip": true
   },
   {
     "Issue": "68",
@@ -18550,7 +18559,8 @@
     "Type": "site",
     "Title": "Jien Weng",
     "Link": "https://jienweng.com/",
-    "Date": "2025-05-05"
+    "Date": "2025-05-05",
+    "Skip": true
   },
   {
     "Issue": "73",
@@ -19105,7 +19115,8 @@
     "Type": "site",
     "Title": "Questadon",
     "Link": "https://questadon.com/",
-    "Date": "2025-06-03"
+    "Date": "2025-06-03",
+    "Skip": true
   },
   {
     "Issue": "75",
@@ -19938,7 +19949,8 @@
     "Type": "site",
     "Title": "UrbanFlow",
     "Link": "https://urbanflow.art/",
-    "Date": "2025-08-03T10:11:44.000"
+    "Date": "2025-08-03T10:11:44.000",
+    "Skip": true
   },
   {
     "Issue": "77",
