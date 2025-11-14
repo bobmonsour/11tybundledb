@@ -7067,7 +7067,8 @@
     "Type": "site",
     "Title": "Tom Roseveare",
     "Link": "https://www.tomroseveare.com/",
-    "Date": "2023-05-01"
+    "Date": "2023-05-01",
+    "Skip": true
   },
   {
     "Issue": "6",
@@ -17058,13 +17059,6 @@
   {
     "Issue": "68",
     "Type": "site",
-    "Title": "UrbanFlow",
-    "Link": "https://urbanflow.art/en/",
-    "Date": "2025-03-04"
-  },
-  {
-    "Issue": "68",
-    "Type": "site",
     "Title": "Chobble",
     "Link": "https://chobble.com/",
     "Date": "2025-03-04"
@@ -17659,7 +17653,8 @@
     "Type": "site",
     "Title": "Budkalon",
     "Link": "https://web3forms.com/pricing",
-    "Date": "2025-04-01"
+    "Date": "2025-04-01",
+    "Skip": true
   },
   {
     "Issue": "70",
@@ -17916,7 +17911,8 @@
     "Type": "site",
     "Title": "Convrtr",
     "Link": "https://www.convrtr.xyz/",
-    "Date": "2025-04-15"
+    "Date": "2025-04-15",
+    "Skip": true
   },
   {
     "Issue": "71",
@@ -19495,13 +19491,6 @@
     "Date": "2025-07-06",
     "Author": "Martin Hähnel",
     "Categories": ["Blogging", "How to...", "Obsidian", "Permalinks"]
-  },
-  {
-    "Issue": "76",
-    "Type": "site",
-    "Title": "ImpactVolT",
-    "Link": "https://impactvolt.nl/",
-    "Date": "2025-07-07"
   },
   {
     "Issue": "76",
