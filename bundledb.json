@@ -17902,14 +17902,6 @@
   {
     "Issue": "71",
     "Type": "site",
-    "Title": "Convrtr",
-    "Link": "https://www.convrtr.xyz/",
-    "Date": "2025-04-15",
-    "Skip": true
-  },
-  {
-    "Issue": "71",
-    "Type": "site",
     "Title": "BeFreaky",
     "Link": "https://www.befreaky.co/",
     "Date": "2025-04-15"
@@ -20532,14 +20524,6 @@
     "Title": "Pedro Rocha",
     "Link": "https://pedromelorocha.pt/",
     "Date": "2025-09-10T15:55:41.000"
-  },
-  {
-    "Issue": "79",
-    "Type": "site",
-    "Title": "Taksh Shah",
-    "Link": "https://taksh.codes/",
-    "Date": "2025-09-12T08:42:24.000",
-    "Skip": true
   },
   {
     "Issue": "79",
