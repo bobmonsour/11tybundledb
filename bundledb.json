@@ -25935,5 +25935,21 @@
     "Title": "Catraxx",
     "Link": "https://catraxx.de/",
     "Date": "2025-11-19T08:38:13.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Using esbuild in Eleventy",
+    "Link": "https://danburzo.ro/notes/eleventy-esbuild/",
+    "Date": "2025-11-19T14:59:18.000",
+    "Author": "Dan Cătălin Burzo",
+    "Categories": [
+      "Asset Pipelines",
+      "CSS/Sass",
+      "Configuration",
+      "Filters",
+      "How to...",
+      "Nunjucks/Macros"
+    ]
   }
 ]
