@@ -25965,5 +25965,17 @@
     "Title": "Jessie Heald",
     "Link": "http://jessieheald.com/",
     "Date": "2025-11-20T10:01:01.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Deploying an Eleventy Site to XMIT using GitHub Actions",
+    "Link": "https://www.adamdjbrett.com/blog/deploying-eleventy-xmit/",
+    "Date": "2025-11-20T10:05:37.000",
+    "Author": "Adam DJ Brett",
+    "Categories": [
+      "Deployment",
+      "How to..."
+    ]
   }
 ]
