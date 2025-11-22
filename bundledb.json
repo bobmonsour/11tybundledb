@@ -6886,14 +6886,15 @@
     "Type": "blog post",
     "Title": "CloudCannon",
     "Link": "https://cloudcannon.com/blog/cloudcannon-com-is-now-built-with-eleventy/",
-    "Date": "2023-03-28"
-  },
-  {
-    "Issue": "1",
-    "Type": "blog post",
-    "Title": "Keith J. Grant",
-    "Link": "https://keithjgrant.com/posts/2023/03/redesign-2023/",
-    "Date": "2023-03-28"
+    "Date": "2023-03-28",
+    "Author": "David Large",
+    "Categories": [
+      "Asset Pipelines",
+      "Blogging",
+      "Search",
+      "CSS",
+      "Performance"
+    ]
   },
   {
     "Issue": "2",
