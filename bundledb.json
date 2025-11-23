@@ -25862,5 +25862,24 @@
       "Deployment",
       "How to..."
     ]
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Migrating from WordPress to 11ty (Eleventy)",
+    "Link": "https://alfredbaudisch.com/blog/migrating-from-wordpress-to-11ty/",
+    "Date": "2025-11-22T18:26:00.000",
+    "Author": "Alfred Reinold Baudisch",
+    "Categories": [
+      "Blogging",
+      "Collections",
+      "Deployment",
+      "Front Matter",
+      "How to...",
+      "Markdown",
+      "Migrating to Eleventy",
+      "RSS",
+      "Why Eleventy?"
+    ]
   }
 ]
