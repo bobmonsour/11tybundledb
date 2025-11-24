@@ -25881,5 +25881,19 @@
       "RSS",
       "Why Eleventy?"
     ]
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "My New On-Demand Image Resizing Pipeline for Eleventy",
+    "Link": "https://blog.martin-haehnel.de/2025/11/23/my-new-on-demand-image-resizing-pipeline-for-eleventy/",
+    "Date": "2025-11-23T17:45:31.000",
+    "Author": "Martin Hähnel",
+    "Categories": [
+      "Asset Pipelines",
+      "How to...",
+      "Images",
+      "Performance"
+    ]
   }
 ]
