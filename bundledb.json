@@ -25916,5 +25916,19 @@
     "Title": "The Domination Chronicles",
     "Link": "https://dominationchronicles.com/",
     "Date": "2025-11-24T16:29:01.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Eleventy (11ty) string-based translation with i18next",
+    "Link": "https://blog.rubenwardy.com/2025/11/25/eleventy-translation/",
+    "Date": "2025-11-25T15:30:56.000",
+    "Author": "Ruben Wardy",
+    "Categories": [
+      "Configuration",
+      "Filters",
+      "How to...",
+      "Internationalization"
+    ]
   }
 ]
