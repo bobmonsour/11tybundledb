@@ -12657,7 +12657,8 @@
     "Type": "site",
     "Title": "Raphaëlle Kerbrat",
     "Link": "https://raphaellekerbrat.com/en/",
-    "Date": "2024-07-02"
+    "Date": "2024-07-02",
+    "Skip": true
   },
   {
     "Issue": "50",
