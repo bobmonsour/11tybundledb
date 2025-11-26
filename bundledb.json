@@ -6872,7 +6872,8 @@
     "Type": "site",
     "Title": "Delete Twitter",
     "Link": "https://deletetwitter.com/",
-    "Date": "2023-03-28"
+    "Date": "2023-03-28",
+    "Skip": true
   },
   {
     "Issue": "1",
@@ -7293,8 +7294,9 @@
     "Issue": "15",
     "Type": "site",
     "Title": "Jérôme Stephan (motion warning)",
-    "Link": "https://jeromestephan.de/Home/",
-    "Date": "2023-08-11"
+    "Link": "https://jeromestephan.de/",
+    "Date": "2023-08-11",
+    "Skip": true
   },
   {
     "Issue": "15",
@@ -7434,13 +7436,6 @@
     "Type": "site",
     "Title": "Joe Sahlsa",
     "Link": "https://joesahlsa.dev/",
-    "Date": "2023-10-11"
-  },
-  {
-    "Issue": "18",
-    "Type": "site",
-    "Title": "Eventually",
-    "Link": "https://eventua11y.com/",
     "Date": "2023-10-11"
   },
   {
@@ -7984,7 +7979,8 @@
     "Type": "site",
     "Title": "Runaway Racing",
     "Link": "https://runawayracing.com/",
-    "Date": "2023-11-21"
+    "Date": "2023-11-21",
+    "Skip": true
   },
   {
     "Issue": "22",
@@ -11351,7 +11347,7 @@
     "Issue": "43",
     "Type": "site",
     "Title": "Jak2k",
-    "Link": "https://jak2k.schwanenberg.name/",
+    "Link": "https://jak2k.eu/",
     "Date": "2024-05-14"
   },
   {
@@ -13319,7 +13315,8 @@
     "Type": "site",
     "Title": "Evans Theatre",
     "Link": "https://evans.patj.ca/",
-    "Date": "2024-08-06"
+    "Date": "2024-08-06",
+    "Skip": true
   },
   {
     "Issue": "54",
@@ -14521,7 +14518,8 @@
     "Type": "site",
     "Title": "Alan Quirk Design",
     "Link": "https://alanquirk.com/",
-    "Date": "2024-10-29"
+    "Date": "2024-10-29",
+    "Skip": true
   },
   {
     "Issue": "60",
@@ -15726,7 +15724,8 @@
     "Type": "site",
     "Title": "FutureScale",
     "Link": "https://futurescale.com/",
-    "Date": "2025-01-07"
+    "Date": "2025-01-07",
+    "Skip": true
   },
   {
     "Issue": "64",
@@ -17118,13 +17117,6 @@
     "Date": "2025-02-01",
     "Author": "Schalk Neethling",
     "Categories": ["Getting Started", "YouTube"]
-  },
-  {
-    "Issue": "68",
-    "Type": "site",
-    "Title": "Damian Walsh",
-    "Link": "https://damianwalsh.co.uk/",
-    "Date": "2025-03-04"
   },
   {
     "Issue": "69",
@@ -20219,7 +20211,8 @@
     "Type": "site",
     "Title": "Delyo Dobrev",
     "Link": "https://www.delyo.be/",
-    "Date": "2025-08-29T09:17:08.000"
+    "Date": "2025-08-29T09:17:08.000",
+    "Skip": true
   },
   {
     "Issue": "78",
