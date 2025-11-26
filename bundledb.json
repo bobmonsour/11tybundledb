@@ -13706,7 +13706,8 @@
     "Type": "site",
     "Title": "Evans Theatre",
     "Link": "https://evanstheatre.ca/",
-    "Date": "2024-09-13"
+    "Date": "2024-09-13",
+    "Skip": true
   },
   {
     "Issue": "57",
