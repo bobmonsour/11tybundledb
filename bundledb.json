@@ -13696,7 +13696,8 @@
     "Type": "site",
     "Title": "Agiletto",
     "Link": "https://agiletto.se/",
-    "Date": "2024-09-03"
+    "Date": "2024-09-03",
+    "Skip": true
   },
   {
     "Issue": "57",
