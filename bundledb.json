@@ -10955,7 +10955,8 @@
     "Type": "site",
     "Title": "C^2",
     "Link": "https://www.conor.zone/en/",
-    "Date": "2024-04-09"
+    "Date": "2024-04-09",
+    "Skip": true
   },
   {
     "Issue": "38",
