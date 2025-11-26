@@ -7183,7 +7183,8 @@
     "Type": "site",
     "Title": "wilks.co",
     "Link": "https://wilks.co/",
-    "Date": "2023-06-20"
+    "Date": "2023-06-20",
+    "Skip": true
   },
   {
     "Issue": "11",
@@ -7260,7 +7261,8 @@
     "Type": "site",
     "Title": "Andreia Ramos",
     "Link": "https://andreiaramos.pt/",
-    "Date": "2023-07-31"
+    "Date": "2023-07-31",
+    "Skip": true
   },
   {
     "Issue": "14",
@@ -14227,7 +14229,8 @@
     "Type": "site",
     "Title": "eblu",
     "Link": "https://eblu.space/",
-    "Date": "2024-10-15"
+    "Date": "2024-10-15",
+    "Skip": true
   },
   {
     "Issue": "59",
