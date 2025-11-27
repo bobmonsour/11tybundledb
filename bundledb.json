@@ -25944,5 +25944,18 @@
       "CMS",
       "CSS/Sass"
     ]
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Using JavaScript and Eleventy to display headlines from multiple RSS feeds",
+    "Link": "https://gregoryhammond.ca/blog/display-headlines-from-rss/",
+    "Date": "2025-11-27T10:06:34.000",
+    "Author": "Gregory Hammond",
+    "Categories": [
+      "Blogging",
+      "How to...",
+      "RSS"
+    ]
   }
 ]
