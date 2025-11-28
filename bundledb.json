@@ -25957,5 +25957,17 @@
       "How to...",
       "RSS"
     ]
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Eleventy: How to Set Up Effective HTML Minification (in 24 Seconds)",
+    "Link": "https://meiert.com/blog/eleventy-html-minification/",
+    "Date": "2025-11-28T10:08:36.000",
+    "Author": "Jens Oliver Meiert",
+    "Categories": [
+      "Configuration",
+      "How to..."
+    ]
   }
 ]
