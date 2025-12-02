@@ -25976,5 +25976,60 @@
     "Title": "Luna Bee",
     "Link": "https://lunabee.dev/",
     "Date": "2025-12-01T21:57:23.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Eleventy Fetch v5.1.1",
+    "Link": "https://github.com/11ty/eleventy-fetch/releases/tag/v5.1.1",
+    "Date": "2025-12-02T10:03:31.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "site",
+    "Title": "Samuel Huth",
+    "Link": "https://samhuth.com/",
+    "Date": "2025-12-02T10:03:59.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "I built a tiny RSS generator for my Advent of Code solutions",
+    "Link": "https://hamatti.org/posts/i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions/",
+    "Date": "2025-12-02T10:05:09.000",
+    "Author": "Juha-Matti Santala",
+    "Categories": [
+      "Global Data",
+      "How to...",
+      "RSS"
+    ]
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Eleventy RSS v3.0.0-alpha.3",
+    "Link": "https://github.com/11ty/eleventy-plugin-rss/releases/tag/v3.0.0-alpha.3",
+    "Date": "2025-12-02T12:43:13.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Eleventy Dev Server v3.0.0-alpha.4",
+    "Link": "https://github.com/11ty/eleventy-dev-server/releases/tag/v3.0.0-alpha.4",
+    "Date": "2025-12-02T12:43:43.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Navigation v1.0.5",
+    "Link": "https://github.com/11ty/eleventy-navigation/releases/tag/v1.0.5",
+    "Date": "2025-12-02T14:48:15.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Eleventy Upgrade Help v3.0.2",
+    "Link": "https://github.com/11ty/eleventy-upgrade-help/releases/tag/v3.0.2",
+    "Date": "2025-12-02T14:48:42.000"
   }
 ]
