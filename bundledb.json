@@ -5104,7 +5104,8 @@
     "Link": "https://www.hawksworx.com/blog/adding-search-to-a-jamstack-site/",
     "Date": "2018-10-18",
     "Author": "Phil Hawksworth",
-    "Categories": ["How to...", "Search"]
+    "Categories": ["How to...", "Search"],
+    "Skip": true
   },
   {
     "Issue": "",
@@ -5122,7 +5123,8 @@
     "Link": "https://www.hawksworx.com/blog/eleventail-a-helper-for-tailwindcss-and-eleventy/",
     "Date": "2020-01-02",
     "Author": "Phil Hawksworth",
-    "Categories": ["How to...", "CSS/Sass"]
+    "Categories": ["How to...", "CSS/Sass"],
+    "Skip": true
   },
   {
     "Issue": "",
@@ -5131,7 +5133,8 @@
     "Link": "https://www.hawksworx.com/blog/keeping-sass-simple-and-speedy-on-eleventy/",
     "Date": "2018-12-12",
     "Author": "Phil Hawksworth",
-    "Categories": ["CSS/Sass"]
+    "Categories": ["CSS/Sass"],
+    "Skip": true
   },
   {
     "Issue": "",
@@ -11335,7 +11338,8 @@
     "Link": "https://jak2k.eu/post/11ty/",
     "Date": "2024-05-08T07:00:00.000Z",
     "Author": "Jakob Schwanenberg",
-    "Categories": ["Migrating to Eleventy", "Why Eleventy?"]
+    "Categories": ["Migrating to Eleventy", "Why Eleventy?"],
+    "Skip": true
   },
   {
     "Issue": "43",
@@ -11351,7 +11355,8 @@
     "Type": "site",
     "Title": "Jak2k",
     "Link": "https://jak2k.eu/",
-    "Date": "2024-05-14"
+    "Date": "2024-05-14",
+    "Skip": true
   },
   {
     "Issue": "",
@@ -14140,7 +14145,8 @@
     "Type": "site",
     "Title": "Crash the Arcade",
     "Link": "https://crashthearcade.com/",
-    "Date": "2024-10-15"
+    "Date": "2024-10-15",
+    "Skip": true
   },
   {
     "Issue": "59",
@@ -17387,7 +17393,8 @@
     "Type": "site",
     "Title": "Working Draft",
     "Link": "https://workingdraft.de/",
-    "Date": "2025-04-01"
+    "Date": "2025-04-01",
+    "Skip": true
   },
   {
     "Issue": "70",
