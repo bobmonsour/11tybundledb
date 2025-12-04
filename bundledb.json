@@ -21322,5 +21322,14 @@
     "Title": "Eleventy Upgrade Help v3.0.2",
     "Link": "https://github.com/11ty/eleventy-upgrade-help/releases/tag/v3.0.2",
     "Date": "2025-12-02T14:48:42.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Building a Lightweight Optimizely SaaS CMS Solution with 11ty",
+    "Link": "https://world.optimizely.com/blogs/Minesh-Shah/Dates/2025/12/building-a-lightweight-optimizely-saas-cms-solution-with-11ty/",
+    "Date": "2025-12-04T10:05:09.000",
+    "Author": "Minesh Shah",
+    "Categories": ["CMS", "Performance", "Pagination", "Why Eleventy?"]
   }
 ]
