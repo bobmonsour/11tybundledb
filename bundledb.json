@@ -21113,15 +21113,6 @@
   },
   {
     "Issue": "81",
-    "Type": "blog post",
-    "Title": "Wrapper Elements around Code Blocks in Markdown",
-    "Link": "https://www.zachleat.com/web/markdown-code-wrapper/",
-    "Date": "2025-11-18T21:37:33.000",
-    "Author": "Zach Leatherman",
-    "Categories": ["Debugging", "How to...", "Markdown"]
-  },
-  {
-    "Issue": "81",
     "Type": "site",
     "Title": "Catraxx",
     "Link": "https://catraxx.de/",
