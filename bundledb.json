@@ -26065,5 +26065,12 @@
     "Title": "Eleventy Dev Server v3.0.0-alpha.5",
     "Link": "https://github.com/11ty/eleventy-dev-server/releases/tag/v3.0.0-alpha.5",
     "Date": "2025-12-05T12:17:18.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "site",
+    "Title": "Swordfight.me",
+    "Link": "https://swordfight.me/",
+    "Date": "2025-12-05T14:17:21.000"
   }
 ]
