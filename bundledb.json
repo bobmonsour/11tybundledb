@@ -26072,5 +26072,19 @@
     "Title": "Swordfight.me",
     "Link": "https://swordfight.me/",
     "Date": "2025-12-05T14:17:21.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "site",
+    "Title": "SwordFight API",
+    "Link": "https://api.swordfight.me/",
+    "Date": "2025-12-05T14:17:56.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Pre-release: Eleventy v4.0.0-alpha.5",
+    "Link": "https://github.com/11ty/eleventy/releases/tag/v4.0.0-alpha.5",
+    "Date": "2025-12-05T16:01:50.000"
   }
 ]
