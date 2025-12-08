@@ -26093,5 +26093,19 @@
     "Title": "lprry",
     "Link": "https://l.prry.uk/",
     "Date": "2025-12-07T17:08:02.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Eleventy - today’s date as a global variable",
+    "Link": "https://www.roboleary.net/blog/eleventy-today/",
+    "Date": "2025-12-08T10:43:36.000",
+    "Author": "Rob O'Leary",
+    "Categories": [
+      "Dates",
+      "Global Data",
+      "How to...",
+      "Nunjucks/Macros"
+    ]
   }
 ]
