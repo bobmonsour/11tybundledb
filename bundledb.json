@@ -10586,7 +10586,7 @@
   {
     "Issue": "23",
     "Type": "release",
-    "Title": "",
+    "Title": "api-indieweb-avatar",
     "Link": "https://github.com/11ty/api-indieweb-avatar",
     "Date": "2023-11-28"
   },
@@ -26107,5 +26107,12 @@
       "How to...",
       "Nunjucks/Macros"
     ]
+  },
+  {
+    "Issue": "81",
+    "Type": "site",
+    "Title": "Pedro Netto",
+    "Link": "https://pnetto.com/",
+    "Date": "2025-12-08T17:48:30.000"
   }
 ]
