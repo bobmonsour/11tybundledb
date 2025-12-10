@@ -26142,5 +26142,19 @@
     "Title": "Bruno Pulis",
     "Link": "https://brunopulis.com/",
     "Date": "2025-12-10T12:36:30.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "blog post",
+    "Title": "Cooling Down the Servers by Adding a Little Snow",
+    "Link": "https://www.kylereddoch.me/blog/cooling-down-the-servers-by-adding-a-little-snow/",
+    "Date": "2025-12-10T12:40:55.000",
+    "Author": "Kyle Reddoch",
+    "Categories": [
+      "CSS",
+      "Configuration",
+      "How to...",
+      "Layouts"
+    ]
   }
 ]
