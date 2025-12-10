@@ -26128,5 +26128,12 @@
     "Title": "strangers, by spring",
     "Link": "https://strangersbyspring.com/",
     "Date": "2025-12-09T09:59:16.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Nunjucks v4.0.0-alpha.1",
+    "Link": "https://github.com/11ty/nunjucks/releases/tag/v4.0.0-alpha.1",
+    "Date": "2025-12-10T08:19:30.000"
   }
 ]
