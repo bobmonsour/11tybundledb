@@ -26135,5 +26135,12 @@
     "Title": "Nunjucks v4.0.0-alpha.1",
     "Link": "https://github.com/11ty/nunjucks/releases/tag/v4.0.0-alpha.1",
     "Date": "2025-12-10T08:19:30.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "site",
+    "Title": "Bruno Pulis",
+    "Link": "https://brunopulis.com/",
+    "Date": "2025-12-10T12:36:30.000"
   }
 ]
