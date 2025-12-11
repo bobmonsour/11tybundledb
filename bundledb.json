@@ -26163,5 +26163,12 @@
     "Title": "Jason White",
     "Link": "https://jasonwhite.us/",
     "Date": "2025-12-10T13:34:03.000"
+  },
+  {
+    "Issue": "81",
+    "Type": "release",
+    "Title": "Eleventy Dev Server v3.0.0-alpha.6",
+    "Link": "https://github.com/11ty/eleventy-dev-server/releases/tag/v3.0.0-alpha.6",
+    "Date": "2025-12-10T16:18:26.000"
   }
 ]
