@@ -26189,5 +26189,16 @@
     "Title": "Regular",
     "Link": "https://regular.events/",
     "Date": "2025-12-12T09:24:08.000"
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Eleventy Core Dependency Watch (2025 Edition)",
+    "Link": "https://www.11ty.dev/blog/dependency-watch/",
+    "Date": "2025-12-12T10:23:58.000",
+    "Author": "11ty",
+    "Categories": [
+      "From the Source"
+    ]
   }
 ]
