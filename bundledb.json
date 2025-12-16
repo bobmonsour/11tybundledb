@@ -26227,5 +26227,16 @@
       "CMS",
       "How to..."
     ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Sunsets eleventy-plugin-img2picture",
+    "Link": "https://saneef.com/blog/sunsets-eleventy-plugin-img2picture/",
+    "Date": "2025-12-16T10:08:28.000",
+    "Author": "Saneef H. Ansari",
+    "Categories": [
+      "Images"
+    ]
   }
 ]
