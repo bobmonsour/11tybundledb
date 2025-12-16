@@ -26200,5 +26200,32 @@
     "Categories": [
       "From the Source"
     ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "How I fixed an 11ty performance error that caused my build time to be seven minutes",
+    "Link": "https://www.adamdjbrett.com/blog/2025-12-16-eleventy-build-times/",
+    "Date": "2025-12-15T21:10:36.000",
+    "Author": "Adam DJ Brett",
+    "Categories": [
+      "Blogging",
+      "Debugging",
+      "How to...",
+      "RSS",
+      "Remote Data"
+    ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Announcing a new 11ty Shortlink and QR Code Generator purl.im",
+    "Link": "https://www.adamdjbrett.com/blog/2025-12-15-eleventy-shortlinks-qr-code-purl/",
+    "Date": "2025-12-15T21:13:16.000",
+    "Author": "Adam DJ Brett",
+    "Categories": [
+      "CMS",
+      "How to..."
+    ]
   }
 ]
