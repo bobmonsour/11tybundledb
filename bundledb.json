@@ -26236,7 +26236,15 @@
     "Date": "2025-12-16T10:08:28.000",
     "Author": "Saneef H. Ansari",
     "Categories": [
-      "Images"
+      "Images",
+      "Plugins"
     ]
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "ReallySimpleDocs",
+    "Link": "https://reallysimpledocs.com/",
+    "Date": "2025-12-17T12:14:08.000"
   }
 ]
