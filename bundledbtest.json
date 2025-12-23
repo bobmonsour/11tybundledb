@@ -12126,7 +12126,7 @@
     ],
     "slugifiedTitle": "scratch-thatuse-the-google-sheets-api",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2023-10-30T07:00:00.000Z"
+    "formattedDate": "Oct 30, 2023"
   },
   {
     "Issue": "21",
@@ -12141,7 +12141,7 @@
     ],
     "slugifiedTitle": "eleventy-date-only-filter",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-10-31T07:00:00.000Z"
+    "formattedDate": "Oct 31, 2023"
   },
   {
     "Issue": "21",
@@ -12156,7 +12156,7 @@
     ],
     "slugifiedTitle": "pagination-in-a-javacsript-template-with-eleventy",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2023-10-31T07:00:00.000Z"
+    "formattedDate": "Oct 31, 2023"
   },
   {
     "Issue": "21",
@@ -12171,7 +12171,7 @@
     ],
     "slugifiedTitle": "under-the-hood",
     "slugifiedAuthor": "horacio-gonzalez",
-    "formattedDate": "2023-10-09T07:00:00.000Z"
+    "formattedDate": "Oct 09, 2023"
   },
   {
     "Issue": "",
@@ -12186,7 +12186,7 @@
     ],
     "slugifiedTitle": "eleventy-and-storyblok-my-perfect-combination",
     "slugifiedAuthor": "estela-franco",
-    "formattedDate": "2023-10-11T07:00:00.000Z"
+    "formattedDate": "Oct 11, 2023"
   },
   {
     "Issue": "",
@@ -12204,7 +12204,7 @@
     ],
     "slugifiedTitle": "making-a-simple-eleventy-blog-template",
     "slugifiedAuthor": "tomek-poniatowicz",
-    "formattedDate": "2023-10-03T07:00:00.000Z"
+    "formattedDate": "Oct 03, 2023"
   },
   {
     "Issue": "",
@@ -12218,7 +12218,7 @@
     ],
     "slugifiedTitle": "eleventy-components-woes",
     "slugifiedAuthor": "tomek-poniatowicz",
-    "formattedDate": "2023-10-03T07:00:00.000Z"
+    "formattedDate": "Oct 03, 2023"
   },
   {
     "Issue": "",
@@ -12233,7 +12233,7 @@
     ],
     "slugifiedTitle": "setting-active-state-on-navigation-with-eleventy",
     "slugifiedAuthor": "adam-jolicoeur",
-    "formattedDate": "2023-09-21T07:00:00.000Z"
+    "formattedDate": "Sep 21, 2023"
   },
   {
     "Issue": "21",
@@ -12256,7 +12256,7 @@
     ],
     "slugifiedTitle": "eleventy-excellent-demo-branches",
     "slugifiedAuthor": "lene-saile",
-    "formattedDate": "2023-10-30T07:00:00.000Z"
+    "formattedDate": "Oct 30, 2023"
   },
   {
     "Issue": "21",
@@ -12272,7 +12272,7 @@
     ],
     "slugifiedTitle": "how-to-setup-agit-cms-with-your-11ty-website",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-11-02T07:00:00.000Z"
+    "formattedDate": "Nov 02, 2023"
   },
   {
     "Issue": "21",
@@ -12291,7 +12291,7 @@
     ],
     "slugifiedTitle": "using-wordpress-as-a-headless-cms-for-eleventy",
     "slugifiedAuthor": "mike-aparicio",
-    "formattedDate": "2023-11-07T08:00:00.000Z"
+    "formattedDate": "Nov 07, 2023"
   },
   {
     "Issue": "21",
@@ -12333,7 +12333,7 @@
     ],
     "slugifiedTitle": "from-jason-20-is-an-11ty-powered-digital-garden-with-multiple-plots",
     "slugifiedAuthor": "jason-velazquez",
-    "formattedDate": "2023-11-06T08:00:00.000Z"
+    "formattedDate": "Nov 06, 2023"
   },
   {
     "Issue": "22",
@@ -12348,7 +12348,7 @@
     ],
     "slugifiedTitle": "highlighting-the-current-category-in-eleventy",
     "slugifiedAuthor": "eystein-mack-alnaes",
-    "formattedDate": "2023-11-10T08:00:00.000Z"
+    "formattedDate": "Nov 10, 2023"
   },
   {
     "Issue": "22",
@@ -12363,7 +12363,7 @@
     ],
     "slugifiedTitle": "11ty-and-observable",
     "slugifiedAuthor": "harris-lapiroff",
-    "formattedDate": "2023-11-11T08:00:00.000Z"
+    "formattedDate": "Nov 11, 2023"
   },
   {
     "Issue": "22",
@@ -12379,7 +12379,7 @@
     ],
     "slugifiedTitle": "making-a-privacy-respecting-hit-counter-with-plausible-analytics",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-11-15T08:00:00.000Z"
+    "formattedDate": "Nov 15, 2023"
   },
   {
     "Issue": "22",
@@ -12445,7 +12445,7 @@
     ],
     "slugifiedTitle": "migrating-to-eleventy",
     "slugifiedAuthor": "renkon",
-    "formattedDate": "2023-11-15T08:00:00.000Z"
+    "formattedDate": "Nov 15, 2023"
   },
   {
     "Issue": "22",
@@ -12462,7 +12462,7 @@
     ],
     "slugifiedTitle": "a-new-technique-for-image-optimization-svg-short-circuiting",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-11-15T08:00:00.000Z"
+    "formattedDate": "Nov 15, 2023"
   },
   {
     "Issue": "22",
@@ -12480,7 +12480,7 @@
     ],
     "slugifiedTitle": "automatically-optimize-your-images-with-eleventy-image-and-cloudcannon",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-11-14T08:00:00.000Z"
+    "formattedDate": "Nov 14, 2023"
   },
   {
     "Issue": "22",
@@ -12509,7 +12509,7 @@
     ],
     "slugifiedTitle": "hacking-together-a-tweeklyfm-replacement",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2023-11-15T08:00:00.000Z"
+    "formattedDate": "Nov 15, 2023"
   },
   {
     "Issue": "22",
@@ -12525,7 +12525,7 @@
     ],
     "slugifiedTitle": "using-11ty-to-bring-back-tag-clouds",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-11-16T08:00:00.000Z"
+    "formattedDate": "Nov 16, 2023"
   },
   {
     "Issue": "22",
@@ -12541,7 +12541,7 @@
     ],
     "slugifiedTitle": "feedbin-is-rendering-my-rss-feed-wrong-lets-fix-it",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-10-31T07:00:00.000Z"
+    "formattedDate": "Oct 31, 2023"
   },
   {
     "Issue": "22",
@@ -12556,7 +12556,7 @@
     ],
     "slugifiedTitle": "what-i-learned-making-top-leveldev",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-10-18T07:00:00.000Z"
+    "formattedDate": "Oct 18, 2023"
   },
   {
     "Issue": "",
@@ -12571,7 +12571,7 @@
     ],
     "slugifiedTitle": "deploying-an-11ty-site-to-github-pages-using-github-actions",
     "slugifiedAuthor": "jonathan-snook",
-    "formattedDate": "2023-07-27T07:00:00.000Z"
+    "formattedDate": "Jul 27, 2023"
   },
   {
     "Issue": "",
@@ -12586,7 +12586,7 @@
     ],
     "slugifiedTitle": "deploying-an-11ty-site-to-github-pages",
     "slugifiedAuthor": "jonathan-snook",
-    "formattedDate": "2019-01-06T08:00:00.000Z"
+    "formattedDate": "Jan 06, 2019"
   },
   {
     "Issue": "",
@@ -12601,7 +12601,7 @@
     ],
     "slugifiedTitle": "deploying-an-11ty-site-to-azure-static-web-apps",
     "slugifiedAuthor": "chad-schulz",
-    "formattedDate": "2021-05-13T07:00:00.000Z"
+    "formattedDate": "May 13, 2021"
   },
   {
     "Issue": "",
@@ -12615,7 +12615,7 @@
     ],
     "slugifiedTitle": "static-site-delivery-automation-with-eleventy-buddy",
     "slugifiedAuthor": "buddy",
-    "formattedDate": "2022-06-08T07:00:00.000Z"
+    "formattedDate": "Jun 08, 2022"
   },
   {
     "Issue": "22",
@@ -12630,7 +12630,7 @@
     ],
     "slugifiedTitle": "eleventy-splitting-category-data-across-two-table-columns",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-11-18T08:00:00.000Z"
+    "formattedDate": "Nov 18, 2023"
   },
   {
     "Issue": "22",
@@ -12648,7 +12648,7 @@
     ],
     "slugifiedTitle": "building-post-types-and-category-rss-feeds-in-eleventy",
     "slugifiedAuthor": "sophie-koonin",
-    "formattedDate": "2023-11-19T08:00:00.000Z"
+    "formattedDate": "Nov 19, 2023"
   },
   {
     "Issue": "",
@@ -12664,7 +12664,7 @@
     ],
     "slugifiedTitle": "a-running-log-garmin-connect-and-eleventy",
     "slugifiedAuthor": "josh-crain",
-    "formattedDate": "2021-08-09T07:00:00.000Z"
+    "formattedDate": "Aug 09, 2021"
   },
   {
     "Issue": "",
@@ -12681,7 +12681,7 @@
     ],
     "slugifiedTitle": "build-your-own-blog-from-scratch-using-eleventy",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2018-12-26T08:00:00.000Z"
+    "formattedDate": "Dec 26, 2018"
   },
   {
     "Issue": "22",
@@ -12718,7 +12718,7 @@
     ],
     "slugifiedTitle": "excluding-livestreams-from-the-youtube-data-api-in-javascript",
     "slugifiedAuthor": "josh-vickerson",
-    "formattedDate": "2023-11-20T08:00:00.000Z"
+    "formattedDate": "Nov 20, 2023"
   },
   {
     "Issue": "",
@@ -12733,7 +12733,7 @@
     ],
     "slugifiedTitle": "why-i-built-my-own-vue-plugin-for-eleventy",
     "slugifiedAuthor": "fynn-becker",
-    "formattedDate": "2022-10-22T07:00:00.000Z"
+    "formattedDate": "Oct 22, 2022"
   },
   {
     "Issue": "",
@@ -12749,7 +12749,7 @@
     ],
     "slugifiedTitle": "eleventy-vue-3",
     "slugifiedAuthor": "fynn-becker",
-    "formattedDate": "2022-03-20T07:00:00.000Z"
+    "formattedDate": "Mar 20, 2022"
   },
   {
     "Issue": "22",
@@ -12767,7 +12767,7 @@
     ],
     "slugifiedTitle": "how-to-schedule-posts-in-eleventy",
     "slugifiedAuthor": "sophie-koonin",
-    "formattedDate": "2023-11-21T08:00:00.000Z"
+    "formattedDate": "Nov 21, 2023"
   },
   {
     "Issue": "23",
@@ -12797,7 +12797,7 @@
     ],
     "slugifiedTitle": "generating-the-firehose-page-on-the-11tybundle-site",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2023-11-21T08:00:00.000Z"
+    "formattedDate": "Nov 21, 2023"
   },
   {
     "Issue": "23",
@@ -12814,7 +12814,7 @@
     ],
     "slugifiedTitle": "vscode-pasting-11ty-images",
     "slugifiedAuthor": "jeff-sheets",
-    "formattedDate": "2023-11-21T08:00:00.000Z"
+    "formattedDate": "Nov 21, 2023"
   },
   {
     "Issue": "23",
@@ -12829,7 +12829,7 @@
     ],
     "slugifiedTitle": "automating-my-site-update-with-gitlab-cicd",
     "slugifiedAuthor": "grigør",
-    "formattedDate": "2023-11-23T08:00:00.000Z"
+    "formattedDate": "Nov 23, 2023"
   },
   {
     "Issue": "23",
@@ -12847,7 +12847,7 @@
     ],
     "slugifiedTitle": "grouping-posts-by-year-with-nunjucks-in-eleventy",
     "slugifiedAuthor": "christopher-kirk-nielsen",
-    "formattedDate": "2023-11-24T08:00:00.000Z"
+    "formattedDate": "Nov 24, 2023"
   },
   {
     "Issue": "23",
@@ -12865,7 +12865,7 @@
     ],
     "slugifiedTitle": "popular-pages-with-eleventy-and-fathom-analytics",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2023-11-23T08:00:00.000Z"
+    "formattedDate": "Nov 23, 2023"
   },
   {
     "Issue": "23",
@@ -12880,7 +12880,7 @@
     ],
     "slugifiedTitle": "updating-my-eleventy-plugin-tagcloud",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-11-26T08:00:00.000Z"
+    "formattedDate": "Nov 26, 2023"
   },
   {
     "Issue": "23",
@@ -12895,7 +12895,7 @@
     ],
     "slugifiedTitle": "lets-update-the-11ty-edge-dark-mode-toggle",
     "slugifiedAuthor": "ginger",
-    "formattedDate": "2023-11-30T08:00:00.000Z"
+    "formattedDate": "Nov 30, 2023"
   },
   {
     "Issue": "23",
@@ -12917,7 +12917,7 @@
     ],
     "slugifiedTitle": "doubleshift",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2023-11-27T08:00:00.000Z"
+    "formattedDate": "Nov 27, 2023"
   },
   {
     "Issue": "23",
@@ -12940,7 +12940,7 @@
     ],
     "slugifiedTitle": "automating-eleventy-server-with-visual-studio-code-tasks",
     "slugifiedAuthor": "dan-ryan",
-    "formattedDate": "2023-11-28T08:00:00.000Z"
+    "formattedDate": "Nov 28, 2023"
   },
   {
     "Issue": "23",
@@ -12955,7 +12955,7 @@
     ],
     "slugifiedTitle": "adding-music-previews-to-my-now-page",
     "slugifiedAuthor": "raymond-camden",
-    "formattedDate": "2023-11-29T08:00:00.000Z"
+    "formattedDate": "Nov 29, 2023"
   },
   {
     "Issue": "23",
@@ -12985,7 +12985,7 @@
     ],
     "slugifiedTitle": "live-editing-an-eleventy-project-in-cloudcannon-with-bookshop",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-11-30T08:00:00.000Z"
+    "formattedDate": "Nov 30, 2023"
   },
   {
     "Issue": "23",
@@ -13001,7 +13001,7 @@
     ],
     "slugifiedTitle": "static-feedback-11-all-about-eleventy",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-11-29T08:00:00.000Z"
+    "formattedDate": "Nov 29, 2023"
   },
   {
     "Issue": "23",
@@ -13016,7 +13016,7 @@
     ],
     "slugifiedTitle": "the-tension-and-future-of-jamstack",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-11-21T08:00:00.000Z"
+    "formattedDate": "Nov 21, 2023"
   },
   {
     "Issue": "23",
@@ -13032,7 +13032,7 @@
     ],
     "slugifiedTitle": "pagefind-search-web-component",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-12-01T08:00:00.000Z"
+    "formattedDate": "Dec 01, 2023"
   },
   {
     "Issue": "23",
@@ -13056,7 +13056,7 @@
     ],
     "slugifiedTitle": "eleventy-webc-in-a-nutshell",
     "slugifiedAuthor": "rob-anderson",
-    "formattedDate": "2023-12-02T08:00:00.000Z"
+    "formattedDate": "Dec 02, 2023"
   },
   {
     "Issue": "24",
@@ -13073,7 +13073,7 @@
     ],
     "slugifiedTitle": "programmatically-importing-your-lastfm-listening-data-to-listenbrainz",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2023-12-05T08:00:00.000Z"
+    "formattedDate": "Dec 05, 2023"
   },
   {
     "Issue": "24",
@@ -13088,7 +13088,7 @@
     ],
     "slugifiedTitle": "adding-pagefind-to-my-eleventy-personal-site",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2023-12-06T08:00:00.000Z"
+    "formattedDate": "Dec 06, 2023"
   },
   {
     "Issue": "24",
@@ -13113,7 +13113,7 @@
     ],
     "slugifiedTitle": "lets-create-a-microblog-with-visual-editing-using-bookshop-and-eleventy",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-12-07T08:00:00.000Z"
+    "formattedDate": "Dec 07, 2023"
   },
   {
     "Issue": "",
@@ -13129,7 +13129,7 @@
     ],
     "slugifiedTitle": "formatting-obsidian-markdown-to-render-in-eleventy",
     "slugifiedAuthor": "thomas-rigby",
-    "formattedDate": "2023-07-28T07:00:00.000Z"
+    "formattedDate": "Jul 28, 2023"
   },
   {
     "Issue": "",
@@ -13145,7 +13145,7 @@
     ],
     "slugifiedTitle": "creating-a-category-filter-in-eleventy",
     "slugifiedAuthor": "thomas-rigby",
-    "formattedDate": "2023-09-09T07:00:00.000Z"
+    "formattedDate": "Sep 09, 2023"
   },
   {
     "Issue": "24",
@@ -13193,7 +13193,7 @@
     ],
     "slugifiedTitle": "eleventy-brings-me-joy",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2023-12-14T08:00:00.000Z"
+    "formattedDate": "Dec 14, 2023"
   },
   {
     "Issue": "24",
@@ -13223,7 +13223,7 @@
     ],
     "slugifiedTitle": "syntax-highlighting-code-in-eleventy-posts",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2023-12-16T08:00:00.000Z"
+    "formattedDate": "Dec 16, 2023"
   },
   {
     "Issue": "24",
@@ -13239,7 +13239,7 @@
     ],
     "slugifiedTitle": "migrating-my-site-from-nextjs-to-eleventy",
     "slugifiedAuthor": "sandro-roth",
-    "formattedDate": "2023-12-17T08:00:00.000Z"
+    "formattedDate": "Dec 17, 2023"
   },
   {
     "Issue": "24",
@@ -13263,7 +13263,7 @@
     ],
     "slugifiedTitle": "generating-open-graph-images-in-eleventy",
     "slugifiedAuthor": "nonnullish",
-    "formattedDate": "2023-12-17T08:00:00.000Z"
+    "formattedDate": "Dec 17, 2023"
   },
   {
     "Issue": "25",
@@ -13280,7 +13280,7 @@
     ],
     "slugifiedTitle": "eleventy-v3-with-esm-support-now-on-the-canary-channel",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-12-18T08:00:00.000Z"
+    "formattedDate": "Dec 18, 2023"
   },
   {
     "Issue": "25",
@@ -13295,7 +13295,7 @@
     ],
     "slugifiedTitle": "maintaining-working-local-links-in-eleventy",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2023-12-18T08:00:00.000Z"
+    "formattedDate": "Dec 18, 2023"
   },
   {
     "Issue": "25",
@@ -13311,7 +13311,7 @@
     ],
     "slugifiedTitle": "adding-a-git-based-changelog-in-11ty",
     "slugifiedAuthor": "james-doc",
-    "formattedDate": "2023-12-19T08:00:00.000Z"
+    "formattedDate": "Dec 19, 2023"
   },
   {
     "Issue": "25",
@@ -13327,7 +13327,7 @@
     ],
     "slugifiedTitle": "eleventy-post-graph-plugin",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2023-12-19T08:00:00.000Z"
+    "formattedDate": "Dec 19, 2023"
   },
   {
     "Issue": "25",
@@ -13379,7 +13379,7 @@
     ],
     "slugifiedTitle": "integrating-wordpress-posts-with-11ty",
     "slugifiedAuthor": "kevin-gimbel",
-    "formattedDate": "2023-11-02T07:00:00.000Z"
+    "formattedDate": "Nov 02, 2023"
   },
   {
     "Issue": "25",
@@ -13405,7 +13405,7 @@
     ],
     "slugifiedTitle": "building-a-multi-language-taylor-swift-fan-site-with-cloudcannon-and-eleventy-zachs-version",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-12-22T08:00:00.000Z"
+    "formattedDate": "Dec 22, 2023"
   },
   {
     "Issue": "25",
@@ -13420,7 +13420,7 @@
     ],
     "slugifiedTitle": "adding-a-github-repository-list-to-an-eleventy-site",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-12-22T08:00:00.000Z"
+    "formattedDate": "Dec 22, 2023"
   },
   {
     "Issue": "25",
@@ -13435,7 +13435,7 @@
     ],
     "slugifiedTitle": "adding-a-github-repository-list-to-an-eleventy-site-part-2",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-12-23T08:00:00.000Z"
+    "formattedDate": "Dec 23, 2023"
   },
   {
     "Issue": "25",
@@ -13449,7 +13449,7 @@
     ],
     "slugifiedTitle": "december-updates-to-eleventy-plugin-stats",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-12-23T08:00:00.000Z"
+    "formattedDate": "Dec 23, 2023"
   },
   {
     "Issue": "25",
@@ -13465,7 +13465,7 @@
     ],
     "slugifiedTitle": "generating-og-images-in-eleventy",
     "slugifiedAuthor": "kilian-finger",
-    "formattedDate": "2023-12-23T08:00:00.000Z"
+    "formattedDate": "Dec 23, 2023"
   },
   {
     "Issue": "25",
@@ -13483,7 +13483,7 @@
     ],
     "slugifiedTitle": "generating-and-caching-open-graph-images-with-eleventy",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2023-12-24T08:00:00.000Z"
+    "formattedDate": "Dec 24, 2023"
   },
   {
     "Issue": "25",
@@ -13505,7 +13505,7 @@
     ],
     "slugifiedTitle": "eleventy-file-list-plugin",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-12-27T08:00:00.000Z"
+    "formattedDate": "Dec 27, 2023"
   },
   {
     "Issue": "25",
@@ -13520,7 +13520,7 @@
     ],
     "slugifiedTitle": "eleventy-github-repositories-plugin",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-12-27T08:00:00.000Z"
+    "formattedDate": "Dec 27, 2023"
   },
   {
     "Issue": "25",
@@ -13535,7 +13535,7 @@
     ],
     "slugifiedTitle": "customizing-external-links-with-eleventy",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2023-12-26T08:00:00.000Z"
+    "formattedDate": "Dec 26, 2023"
   },
   {
     "Issue": "25",
@@ -13552,7 +13552,7 @@
     ],
     "slugifiedTitle": "automatic-pre-processing-of-post-images-in-eleventy",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2023-12-29T08:00:00.000Z"
+    "formattedDate": "Dec 29, 2023"
   },
   {
     "Issue": "",
@@ -13567,7 +13567,7 @@
     ],
     "slugifiedTitle": "automated-workflows-for-websites",
     "slugifiedAuthor": "lea-rosema",
-    "formattedDate": "2023-04-20T07:00:00.000Z"
+    "formattedDate": "Apr 20, 2023"
   },
   {
     "Issue": "25",
@@ -13589,7 +13589,7 @@
     ],
     "slugifiedTitle": "updated-my-eleventy-new-post-module",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2023-12-30T08:00:00.000Z"
+    "formattedDate": "Dec 30, 2023"
   },
   {
     "Issue": "26",
@@ -13607,7 +13607,7 @@
     ],
     "slugifiedTitle": "generating-a-static-blog-with-eleventy",
     "slugifiedAuthor": "tobias-fedder",
-    "formattedDate": "2023-12-23T08:00:00.000Z"
+    "formattedDate": "Dec 23, 2023"
   },
   {
     "Issue": "26",
@@ -13622,7 +13622,7 @@
     ],
     "slugifiedTitle": "deploying-my-website",
     "slugifiedAuthor": "tobias-fedder",
-    "formattedDate": "2023-12-30T08:00:00.000Z"
+    "formattedDate": "Dec 30, 2023"
   },
   {
     "Issue": "26",
@@ -13638,7 +13638,7 @@
     ],
     "slugifiedTitle": "building-robotstxt-from-a-simple-api-endpoint",
     "slugifiedAuthor": "ashur-cabrera",
-    "formattedDate": "2023-12-31T08:00:00.000Z"
+    "formattedDate": "Dec 31, 2023"
   },
   {
     "Issue": "",
@@ -13654,7 +13654,7 @@
     ],
     "slugifiedTitle": "default-layouts-in-11ty",
     "slugifiedAuthor": "remy-sharp",
-    "formattedDate": "2023-11-06T08:00:00.000Z"
+    "formattedDate": "Nov 06, 2023"
   },
   {
     "Issue": "",
@@ -13672,7 +13672,7 @@
     ],
     "slugifiedTitle": "scheduled-and-draft-11ty-posts",
     "slugifiedAuthor": "remy-sharp",
-    "formattedDate": "2019-06-19T07:00:00.000Z"
+    "formattedDate": "Jun 19, 2019"
   },
   {
     "Issue": "26",
@@ -13687,7 +13687,7 @@
     ],
     "slugifiedTitle": "addition-of-post-graphs-to-stats-page",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-12-20T08:00:00.000Z"
+    "formattedDate": "Dec 20, 2023"
   },
   {
     "Issue": "26",
@@ -13703,7 +13703,7 @@
     ],
     "slugifiedTitle": "alphabetising-glossary-terms",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-03-14T07:00:00.000Z"
+    "formattedDate": "Mar 14, 2023"
   },
   {
     "Issue": "",
@@ -13720,7 +13720,7 @@
     ],
     "slugifiedTitle": "font-subsetting-with-eleventyjs",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-03-03T08:00:00.000Z"
+    "formattedDate": "Mar 03, 2023"
   },
   {
     "Issue": "",
@@ -13738,7 +13738,7 @@
     ],
     "slugifiedTitle": "how-to-programmatically-add-tags-to-posts-in-11ty",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-01-30T08:00:00.000Z"
+    "formattedDate": "Jan 30, 2023"
   },
   {
     "Issue": "",
@@ -13755,7 +13755,7 @@
     ],
     "slugifiedTitle": "11ty-aliases-the-right-way",
     "slugifiedAuthor": "evan-boehs",
-    "formattedDate": "2022-03-20T07:00:00.000Z"
+    "formattedDate": "Mar 20, 2022"
   },
   {
     "Issue": "",
@@ -13770,7 +13770,7 @@
     ],
     "slugifiedTitle": "adding-stub-posts",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-01-27T08:00:00.000Z"
+    "formattedDate": "Jan 27, 2023"
   },
   {
     "Issue": "",
@@ -13787,7 +13787,7 @@
     ],
     "slugifiedTitle": "adding-wiki-links-to-11ty",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-01-25T08:00:00.000Z"
+    "formattedDate": "Jan 25, 2023"
   },
   {
     "Issue": "",
@@ -13802,7 +13802,7 @@
     ],
     "slugifiedTitle": "adding-statistics-to-11ty",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2023-01-20T08:00:00.000Z"
+    "formattedDate": "Jan 20, 2023"
   },
   {
     "Issue": "",
@@ -13819,7 +13819,7 @@
     ],
     "slugifiedTitle": "using-puppeteer-with-11ty-to-automate-generating-social-share-images",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2022-09-14T07:00:00.000Z"
+    "formattedDate": "Sep 14, 2022"
   },
   {
     "Issue": "",
@@ -13838,7 +13838,7 @@
     ],
     "slugifiedTitle": "creating-a-now-page-archive-with-11ty",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2022-05-17T07:00:00.000Z"
+    "formattedDate": "May 17, 2022"
   },
   {
     "Issue": "",
@@ -13853,7 +13853,7 @@
     ],
     "slugifiedTitle": "a-11ty-reading-time-plugin-quest",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2022-03-16T07:00:00.000Z"
+    "formattedDate": "Mar 16, 2022"
   },
   {
     "Issue": "",
@@ -13869,7 +13869,7 @@
     ],
     "slugifiedTitle": "generate-social-image-covers-with-eleventy-and-node-canvas",
     "slugifiedAuthor": "rik-schennink",
-    "formattedDate": "2022-03-17T07:00:00.000Z"
+    "formattedDate": "Mar 17, 2022"
   },
   {
     "Issue": "26",
@@ -13898,7 +13898,7 @@
     ],
     "slugifiedTitle": "my-11ty-plugins",
     "slugifiedAuthor": "simon-dann",
-    "formattedDate": "2024-01-05T08:00:00.000Z"
+    "formattedDate": "Jan 05, 2024"
   },
   {
     "Issue": "",
@@ -13913,7 +13913,7 @@
     ],
     "slugifiedTitle": "i-rebuilt-my-blog-and-didnt-write-about-it",
     "slugifiedAuthor": "chris-mcleod",
-    "formattedDate": "2023-08-20T07:00:00.000Z"
+    "formattedDate": "Aug 20, 2023"
   },
   {
     "Issue": "26",
@@ -13929,7 +13929,7 @@
     ],
     "slugifiedTitle": "11ty-or-bust",
     "slugifiedAuthor": "josh-ghent",
-    "formattedDate": "2024-01-03T08:00:00.000Z"
+    "formattedDate": "Jan 03, 2024"
   },
   {
     "Issue": "26",
@@ -13945,7 +13945,7 @@
     ],
     "slugifiedTitle": "eleventy-resume-builder",
     "slugifiedAuthor": "gurpreet-singh",
-    "formattedDate": "2024-01-05T08:00:00.000Z"
+    "formattedDate": "Jan 05, 2024"
   },
   {
     "Issue": "26",
@@ -13960,7 +13960,7 @@
     ],
     "slugifiedTitle": "deploy-11ty-site-using-rsync",
     "slugifiedAuthor": "moritz-giessmann",
-    "formattedDate": "2024-01-04T08:00:00.000Z"
+    "formattedDate": "Jan 04, 2024"
   },
   {
     "Issue": "26",
@@ -13978,7 +13978,7 @@
     ],
     "slugifiedTitle": "eleventy-photo-gallery",
     "slugifiedAuthor": "evan-sheehan",
-    "formattedDate": "2024-01-05T08:00:00.000Z"
+    "formattedDate": "Jan 05, 2024"
   },
   {
     "Issue": "26",
@@ -13994,7 +13994,7 @@
     ],
     "slugifiedTitle": "minifying-and-compressing-text-files-to-reduce-load",
     "slugifiedAuthor": "tobias-fedder",
-    "formattedDate": "2024-01-05T08:00:00.000Z"
+    "formattedDate": "Jan 05, 2024"
   },
   {
     "Issue": "26",
@@ -14009,7 +14009,7 @@
     ],
     "slugifiedTitle": "i-changed-my-mind-my-cms-adventure",
     "slugifiedAuthor": "steve-abraham",
-    "formattedDate": "2024-01-04T08:00:00.000Z"
+    "formattedDate": "Jan 04, 2024"
   },
   {
     "Issue": "26",
@@ -14039,7 +14039,7 @@
     ],
     "slugifiedTitle": "webmentions-in-eleventy",
     "slugifiedAuthor": "david-hayes",
-    "formattedDate": "2023-09-01T07:00:00.000Z"
+    "formattedDate": "Sep 01, 2023"
   },
   {
     "Issue": "26",
@@ -14063,7 +14063,7 @@
     ],
     "slugifiedTitle": "adding-site-search-to-eleventy-with-pagefind-search",
     "slugifiedAuthor": "chris-mcleod",
-    "formattedDate": "2024-01-07T08:00:00.000Z"
+    "formattedDate": "Jan 07, 2024"
   },
   {
     "Issue": "26",
@@ -14081,7 +14081,7 @@
     ],
     "slugifiedTitle": "right-here-right-now",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2024-01-07T08:00:00.000Z"
+    "formattedDate": "Jan 07, 2024"
   },
   {
     "Issue": "26",
@@ -14103,7 +14103,7 @@
     ],
     "slugifiedTitle": "my-journey-with-11ty-and-tailwind-css-building-a-personal-website",
     "slugifiedAuthor": "dipesh-kumar",
-    "formattedDate": "2024-01-07T08:00:00.000Z"
+    "formattedDate": "Jan 07, 2024"
   },
   {
     "Issue": "26",
@@ -14133,7 +14133,7 @@
     ],
     "slugifiedTitle": "detecting-markdown-titles-with-eleventy",
     "slugifiedAuthor": "lewis-dale",
-    "formattedDate": "2024-01-10T08:00:00.000Z"
+    "formattedDate": "Jan 10, 2024"
   },
   {
     "Issue": "",
@@ -14149,7 +14149,7 @@
     ],
     "slugifiedTitle": "adding-social-preview-images-to-our-11ty-blog",
     "slugifiedAuthor": "matthew-lettini",
-    "formattedDate": "2023-10-17T07:00:00.000Z"
+    "formattedDate": "Oct 17, 2023"
   },
   {
     "Issue": "27",
@@ -14165,7 +14165,7 @@
     ],
     "slugifiedTitle": "updated-eleventy-future-post-plugin",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-01-11T08:00:00.000Z"
+    "formattedDate": "Jan 11, 2024"
   },
   {
     "Issue": "27",
@@ -14183,7 +14183,7 @@
     ],
     "slugifiedTitle": "hiding-future-posts-in-eleventy",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-01-10T08:00:00.000Z"
+    "formattedDate": "Jan 10, 2024"
   },
   {
     "Issue": "27",
@@ -14201,7 +14201,7 @@
     ],
     "slugifiedTitle": "a-simple-guide-to-redirects-on-neocities-with-eleventy",
     "slugifiedAuthor": "flamed",
-    "formattedDate": "2024-01-12T08:00:00.000Z"
+    "formattedDate": "Jan 12, 2024"
   },
   {
     "Issue": "27",
@@ -14215,7 +14215,7 @@
     ],
     "slugifiedTitle": "introduction-to-eleventy-a-modern-static-website-generator",
     "slugifiedAuthor": "david-eastman",
-    "formattedDate": "2024-01-13T08:00:00.000Z"
+    "formattedDate": "Jan 13, 2024"
   },
   {
     "Issue": "27",
@@ -14230,7 +14230,7 @@
     ],
     "slugifiedTitle": "eleventy-migration",
     "slugifiedAuthor": "alistair-deneys",
-    "formattedDate": "2024-01-13T08:00:00.000Z"
+    "formattedDate": "Jan 13, 2024"
   },
   {
     "Issue": "",
@@ -14247,7 +14247,7 @@
     ],
     "slugifiedTitle": "five-critical-things-to-do-before-working-with-11ty",
     "slugifiedAuthor": "khalid-abuhakmeh",
-    "formattedDate": "2020-04-02T07:00:00.000Z"
+    "formattedDate": "Apr 02, 2020"
   },
   {
     "Issue": "",
@@ -14262,7 +14262,7 @@
     ],
     "slugifiedTitle": "unit-test-11ty-pages-with-vitest-and-typescript",
     "slugifiedAuthor": "khalid-abuhakmeh",
-    "formattedDate": "2023-04-25T07:00:00.000Z"
+    "formattedDate": "Apr 25, 2023"
   },
   {
     "Issue": "",
@@ -14277,7 +14277,7 @@
     ],
     "slugifiedTitle": "combining-11ty-static-site-generator-with-aspnet-core",
     "slugifiedAuthor": "khalid-abuhakmeh",
-    "formattedDate": "2023-02-21T08:00:00.000Z"
+    "formattedDate": "Feb 21, 2023"
   },
   {
     "Issue": "",
@@ -14292,7 +14292,7 @@
     ],
     "slugifiedTitle": "using-webmentions-in-eleventy",
     "slugifiedAuthor": "max-böck",
-    "formattedDate": "2019-01-10T08:00:00.000Z"
+    "formattedDate": "Jan 10, 2019"
   },
   {
     "Issue": "27",
@@ -14310,7 +14310,7 @@
     ],
     "slugifiedTitle": "adding-webmentions-to-my-site",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2024-01-13T08:00:00.000Z"
+    "formattedDate": "Jan 13, 2024"
   },
   {
     "Issue": "27",
@@ -14328,7 +14328,7 @@
     ],
     "slugifiedTitle": "adding-decap-cms-to-11ty",
     "slugifiedAuthor": "cassey-lottman",
-    "formattedDate": "2024-01-13T08:00:00.000Z"
+    "formattedDate": "Jan 13, 2024"
   },
   {
     "Issue": "27",
@@ -14342,7 +14342,7 @@
     ],
     "slugifiedTitle": "added-monthly-posts-heatmap-to-the-site",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-01-15T08:00:00.000Z"
+    "formattedDate": "Jan 15, 2024"
   },
   {
     "Issue": "27",
@@ -14356,7 +14356,7 @@
     ],
     "slugifiedTitle": "pokédex-plugin-for-eleventy",
     "slugifiedAuthor": "florian-eckerstorfer",
-    "formattedDate": "2024-01-14T08:00:00.000Z"
+    "formattedDate": "Jan 14, 2024"
   },
   {
     "Issue": "27",
@@ -14372,7 +14372,7 @@
     ],
     "slugifiedTitle": "cloudflare-_redirects",
     "slugifiedAuthor": "jeff-sheets",
-    "formattedDate": "2024-01-14T08:00:00.000Z"
+    "formattedDate": "Jan 14, 2024"
   },
   {
     "Issue": "27",
@@ -14389,7 +14389,7 @@
     ],
     "slugifiedTitle": "cloudflare-pages-cron-deploys",
     "slugifiedAuthor": "jeff-sheets",
-    "formattedDate": "2024-01-15T08:00:00.000Z"
+    "formattedDate": "Jan 15, 2024"
   },
   {
     "Issue": "27",
@@ -14404,7 +14404,7 @@
     ],
     "slugifiedTitle": "frontmatter-templates-for-new-blog-posts",
     "slugifiedAuthor": "cassey-lottman",
-    "formattedDate": "2024-01-13T08:00:00.000Z"
+    "formattedDate": "Jan 13, 2024"
   },
   {
     "Issue": "27",
@@ -14421,7 +14421,7 @@
     ],
     "slugifiedTitle": "update-tags-are-back",
     "slugifiedAuthor": "tom-doe",
-    "formattedDate": "2024-01-16T08:00:00.000Z"
+    "formattedDate": "Jan 16, 2024"
   },
   {
     "Issue": "",
@@ -14436,7 +14436,7 @@
     ],
     "slugifiedTitle": "the-need-for-speed-why-eleventy-leaves-bundlers-behind",
     "slugifiedAuthor": "loraine-lawson",
-    "formattedDate": "2023-05-10T07:00:00.000Z"
+    "formattedDate": "May 10, 2023"
   },
   {
     "Issue": "28",
@@ -14451,7 +14451,7 @@
     ],
     "slugifiedTitle": "addremotedata",
     "slugifiedAuthor": "ashur-cabrera",
-    "formattedDate": "2024-01-16T08:00:00.000Z"
+    "formattedDate": "Jan 16, 2024"
   },
   {
     "Issue": "28",
@@ -14467,7 +14467,7 @@
     ],
     "slugifiedTitle": "fetching-package-dependents-from-github",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2024-01-16T08:00:00.000Z"
+    "formattedDate": "Jan 16, 2024"
   },
   {
     "Issue": "28",
@@ -14484,7 +14484,7 @@
     ],
     "slugifiedTitle": "super-fast-responsive-image-loading-in-eleventy",
     "slugifiedAuthor": "eystein-mack-alnaes",
-    "formattedDate": "2024-01-17T08:00:00.000Z"
+    "formattedDate": "Jan 17, 2024"
   },
   {
     "Issue": "28",
@@ -14513,7 +14513,7 @@
     ],
     "slugifiedTitle": "how-to-access-post-content-in-template-listing-files",
     "slugifiedAuthor": "al-power",
-    "formattedDate": "2022-11-06T07:00:00.000Z"
+    "formattedDate": "Nov 06, 2022"
   },
   {
     "Issue": "28",
@@ -14529,7 +14529,7 @@
     ],
     "slugifiedTitle": "getting-up-to-speed-with-eleventy-config-and-collections",
     "slugifiedAuthor": "david-eastman",
-    "formattedDate": "2024-01-20T08:00:00.000Z"
+    "formattedDate": "Jan 20, 2024"
   },
   {
     "Issue": "28",
@@ -14544,7 +14544,7 @@
     ],
     "slugifiedTitle": "how-i-deploy-my-eleventy-site-to-neocities",
     "slugifiedAuthor": "sophie-koonin",
-    "formattedDate": "2024-01-20T08:00:00.000Z"
+    "formattedDate": "Jan 20, 2024"
   },
   {
     "Issue": "28",
@@ -14559,7 +14559,7 @@
     ],
     "slugifiedTitle": "sending-webmentions-from-a-static-site",
     "slugifiedAuthor": "sophie-koonin",
-    "formattedDate": "2024-01-20T08:00:00.000Z"
+    "formattedDate": "Jan 20, 2024"
   },
   {
     "Issue": "28",
@@ -14576,7 +14576,7 @@
     ],
     "slugifiedTitle": "creating-an-opml-file-for-my-blogroll",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2024-01-21T08:00:00.000Z"
+    "formattedDate": "Jan 21, 2024"
   },
   {
     "Issue": "28",
@@ -14591,7 +14591,7 @@
     ],
     "slugifiedTitle": "sending-webmentions-after-deploying-to-azure-static-web-apps",
     "slugifiedAuthor": "chris-mcleod",
-    "formattedDate": "2024-01-21T08:00:00.000Z"
+    "formattedDate": "Jan 21, 2024"
   },
   {
     "Issue": "28",
@@ -14606,7 +14606,7 @@
     ],
     "slugifiedTitle": "learning-new-tricks",
     "slugifiedAuthor": "antonio-rodrigues",
-    "formattedDate": "2024-01-21T08:00:00.000Z"
+    "formattedDate": "Jan 21, 2024"
   },
   {
     "Issue": "",
@@ -14623,7 +14623,7 @@
     ],
     "slugifiedTitle": "from-figma-to-browser-with-eleventy-part-1",
     "slugifiedAuthor": "thoughtbot",
-    "formattedDate": "2023-11-15T08:00:00.000Z"
+    "formattedDate": "Nov 15, 2023"
   },
   {
     "Issue": "",
@@ -14640,7 +14640,7 @@
     ],
     "slugifiedTitle": "implementing-a-figma-design-in-eleventy-part-2",
     "slugifiedAuthor": "thoughtbot",
-    "formattedDate": "2023-12-06T08:00:00.000Z"
+    "formattedDate": "Dec 06, 2023"
   },
   {
     "Issue": "28",
@@ -14657,7 +14657,7 @@
     ],
     "slugifiedTitle": "from-figma-to-browser-with-eleventy-part-3",
     "slugifiedAuthor": "thoughtbot",
-    "formattedDate": "2024-01-17T08:00:00.000Z"
+    "formattedDate": "Jan 17, 2024"
   },
   {
     "Issue": "28",
@@ -14671,7 +14671,7 @@
     ],
     "slugifiedTitle": "performance-tales-part-1-why-so-performant",
     "slugifiedAuthor": "ryan-cao",
-    "formattedDate": "2024-01-22T08:00:00.000Z"
+    "formattedDate": "Jan 22, 2024"
   },
   {
     "Issue": "28",
@@ -14689,7 +14689,7 @@
     ],
     "slugifiedTitle": "automated-weekly-links-posts-with-raindropio-and-eleventy",
     "slugifiedAuthor": "sophie-koonin",
-    "formattedDate": "2024-01-22T08:00:00.000Z"
+    "formattedDate": "Jan 22, 2024"
   },
   {
     "Issue": "29",
@@ -14713,7 +14713,7 @@
     ],
     "slugifiedTitle": "community-websites-with-eleventy",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2024-01-24T08:00:00.000Z"
+    "formattedDate": "Jan 24, 2024"
   },
   {
     "Issue": "29",
@@ -14730,7 +14730,7 @@
     ],
     "slugifiedTitle": "eleventy-create-a-global-production-flag",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2024-01-24T08:00:00.000Z"
+    "formattedDate": "Jan 24, 2024"
   },
   {
     "Issue": "29",
@@ -14752,7 +14752,7 @@
     ],
     "slugifiedTitle": "buttondown-with-11ty-on-netlify-with-github",
     "slugifiedAuthor": "jay-cuthrell",
-    "formattedDate": "2024-01-21T08:00:00.000Z"
+    "formattedDate": "Jan 21, 2024"
   },
   {
     "Issue": "29",
@@ -14778,7 +14778,7 @@
     ],
     "slugifiedTitle": "low-tech-eleventy-categories",
     "slugifiedAuthor": "andy-bell",
-    "formattedDate": "2024-01-26T08:00:00.000Z"
+    "formattedDate": "Jan 26, 2024"
   },
   {
     "Issue": "29",
@@ -14794,7 +14794,7 @@
     ],
     "slugifiedTitle": "mastering-eleventy-folder-structures-from-default-setups-to-real-world-best-practices",
     "slugifiedAuthor": "s-amir-mohammad-najafi",
-    "formattedDate": "2024-01-24T08:00:00.000Z"
+    "formattedDate": "Jan 24, 2024"
   },
   {
     "Issue": "29",
@@ -14823,7 +14823,7 @@
     ],
     "slugifiedTitle": "why-i-migrated-my-newsletter-from-substack-to-eleventy-and-buttondown",
     "slugifiedAuthor": "richard-macmanus",
-    "formattedDate": "2024-01-26T08:00:00.000Z"
+    "formattedDate": "Jan 26, 2024"
   },
   {
     "Issue": "29",
@@ -14838,7 +14838,7 @@
     ],
     "slugifiedTitle": "emoji-urls-and-11ty-webmentions",
     "slugifiedAuthor": "jeff-sheets",
-    "formattedDate": "2024-01-25T08:00:00.000Z"
+    "formattedDate": "Jan 25, 2024"
   },
   {
     "Issue": "29",
@@ -14853,7 +14853,7 @@
     ],
     "slugifiedTitle": "eleventy-get-autocompletion-and-doc-info-in-your-eleventy-config-in-vs-code",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2024-01-27T08:00:00.000Z"
+    "formattedDate": "Jan 27, 2024"
   },
   {
     "Issue": "",
@@ -14870,7 +14870,7 @@
     ],
     "slugifiedTitle": "accessible-anchor-permalinks",
     "slugifiedAuthor": "jan-de-wilde",
-    "formattedDate": "2023-04-08T07:00:00.000Z"
+    "formattedDate": "Apr 08, 2023"
   },
   {
     "Issue": "",
@@ -14885,7 +14885,7 @@
     ],
     "slugifiedTitle": "more-easily-use-design-tokens-in-eleventy",
     "slugifiedAuthor": "jan-de-wilde",
-    "formattedDate": "2023-12-12T08:00:00.000Z"
+    "formattedDate": "Dec 12, 2023"
   },
   {
     "Issue": "29",
@@ -14922,7 +14922,7 @@
     ],
     "slugifiedTitle": "different-favicon-for-development-build",
     "slugifiedAuthor": "nikita-dubko",
-    "formattedDate": "2024-01-30T08:00:00.000Z"
+    "formattedDate": "Jan 30, 2024"
   },
   {
     "Issue": "30",
@@ -14937,7 +14937,7 @@
     ],
     "slugifiedTitle": "eleventy-filter-to-turn-a-url-into-a-domain-name",
     "slugifiedAuthor": "marcel-appleman",
-    "formattedDate": "2024-01-31T08:00:00.000Z"
+    "formattedDate": "Jan 31, 2024"
   },
   {
     "Issue": "30",
@@ -14953,7 +14953,7 @@
     ],
     "slugifiedTitle": "slashing-by-caching",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2024-01-31T08:00:00.000Z"
+    "formattedDate": "Jan 31, 2024"
   },
   {
     "Issue": "30",
@@ -14968,7 +14968,7 @@
     ],
     "slugifiedTitle": "the-good-the-bad-the-web-components",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-01-31T08:00:00.000Z"
+    "formattedDate": "Jan 31, 2024"
   },
   {
     "Issue": "",
@@ -14984,7 +14984,7 @@
     ],
     "slugifiedTitle": "the-eleventy-community-survey-results-2023",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-07-17T07:00:00.000Z"
+    "formattedDate": "Jul 17, 2023"
   },
   {
     "Issue": "",
@@ -15000,7 +15000,7 @@
     ],
     "slugifiedTitle": "big-announcement-eleventy-and-cloudcannon",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-07-25T07:00:00.000Z"
+    "formattedDate": "Jul 25, 2023"
   },
   {
     "Issue": "",
@@ -15017,7 +15017,7 @@
     ],
     "slugifiedTitle": "static-feedback-11-all-about-eleventy",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-11-29T08:00:00.000Z"
+    "formattedDate": "Nov 29, 2023"
   },
   {
     "Issue": "30",
@@ -15034,7 +15034,7 @@
     ],
     "slugifiedTitle": "were-running-an-11ty-conference",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-01-30T08:00:00.000Z"
+    "formattedDate": "Jan 30, 2024"
   },
   {
     "Issue": "",
@@ -15051,7 +15051,7 @@
     ],
     "slugifiedTitle": "calling-all-courageous-canary-testers-for-eleventy-30",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-12-17T08:00:00.000Z"
+    "formattedDate": "Dec 17, 2023"
   },
   {
     "Issue": "",
@@ -15067,7 +15067,7 @@
     ],
     "slugifiedTitle": "setup-gitlab-review-apps-with-eleventy",
     "slugifiedAuthor": "aaron-goldenthal",
-    "formattedDate": "2023-02-09T08:00:00.000Z"
+    "formattedDate": "Feb 09, 2023"
   },
   {
     "Issue": "",
@@ -15082,7 +15082,7 @@
     ],
     "slugifiedTitle": "syntax-highlighting-for-asciidoc-with-eleventy",
     "slugifiedAuthor": "saneef-h-ansari",
-    "formattedDate": "2022-04-12T07:00:00.000Z"
+    "formattedDate": "Apr 12, 2022"
   },
   {
     "Issue": "",
@@ -15099,7 +15099,7 @@
     ],
     "slugifiedTitle": "fix-dates-on-eleventy-rss-feeds",
     "slugifiedAuthor": "saneef-h-ansari",
-    "formattedDate": "2021-08-20T07:00:00.000Z"
+    "formattedDate": "Aug 20, 2021"
   },
   {
     "Issue": "",
@@ -15115,7 +15115,7 @@
     ],
     "slugifiedTitle": "hiding-posts-with-future-dates-in-eleventy",
     "slugifiedAuthor": "saneef-h-ansari",
-    "formattedDate": "2021-05-24T07:00:00.000Z"
+    "formattedDate": "May 24, 2021"
   },
   {
     "Issue": "",
@@ -15130,7 +15130,7 @@
     ],
     "slugifiedTitle": "table-of-contents-in-eleventy",
     "slugifiedAuthor": "anh",
-    "formattedDate": "2021-10-10T07:00:00.000Z"
+    "formattedDate": "Oct 10, 2021"
   },
   {
     "Issue": "",
@@ -15146,7 +15146,7 @@
     ],
     "slugifiedTitle": "media-diary-with-eleventy",
     "slugifiedAuthor": "anh",
-    "formattedDate": "2021-09-21T07:00:00.000Z"
+    "formattedDate": "Sep 21, 2021"
   },
   {
     "Issue": "",
@@ -15161,7 +15161,7 @@
     ],
     "slugifiedTitle": "how-to-generate-id-attributes-in-headings-using-eleventy",
     "slugifiedAuthor": "nicholas-c-zakas",
-    "formattedDate": "2020-07-28T07:00:00.000Z"
+    "formattedDate": "Jul 28, 2020"
   },
   {
     "Issue": "",
@@ -15175,7 +15175,7 @@
     ],
     "slugifiedTitle": "how-to-add-npm-packages-for-client-side-use-in-eleventy",
     "slugifiedAuthor": "nicholas-c-zakas",
-    "formattedDate": "2022-02-17T08:00:00.000Z"
+    "formattedDate": "Feb 17, 2022"
   },
   {
     "Issue": "",
@@ -15191,7 +15191,7 @@
     ],
     "slugifiedTitle": "migrating-from-wordpress-to-eleventy-part-1",
     "slugifiedAuthor": "carlos-araya",
-    "formattedDate": "2023-11-06T08:00:00.000Z"
+    "formattedDate": "Nov 06, 2023"
   },
   {
     "Issue": "",
@@ -15208,7 +15208,7 @@
     ],
     "slugifiedTitle": "migrating-from-wordpress-to-eleventy-part-2",
     "slugifiedAuthor": "carlos-araya",
-    "formattedDate": "2023-11-08T08:00:00.000Z"
+    "formattedDate": "Nov 08, 2023"
   },
   {
     "Issue": "",
@@ -15225,7 +15225,7 @@
     ],
     "slugifiedTitle": "migrating-from-wordpress-to-eleventy-part-3",
     "slugifiedAuthor": "carlos-araya",
-    "formattedDate": "2023-11-20T08:00:00.000Z"
+    "formattedDate": "Nov 20, 2023"
   },
   {
     "Issue": "",
@@ -15242,7 +15242,7 @@
     ],
     "slugifiedTitle": "migrating-from-wordpress-to-eleventy-part-4",
     "slugifiedAuthor": "carlos-araya",
-    "formattedDate": "2023-11-22T08:00:00.000Z"
+    "formattedDate": "Nov 22, 2023"
   },
   {
     "Issue": "",
@@ -15259,7 +15259,7 @@
     ],
     "slugifiedTitle": "using-eleventy",
     "slugifiedAuthor": "carlos-araya",
-    "formattedDate": "2019-05-01T07:00:00.000Z"
+    "formattedDate": "May 01, 2019"
   },
   {
     "Issue": "",
@@ -15276,7 +15276,7 @@
     ],
     "slugifiedTitle": "using-rmarkdown-with-eleventy",
     "slugifiedAuthor": "michael-schmidt",
-    "formattedDate": "2023-02-09T08:00:00.000Z"
+    "formattedDate": "Feb 09, 2023"
   },
   {
     "Issue": "",
@@ -15290,7 +15290,7 @@
     ],
     "slugifiedTitle": "a-new-schmidtynotes",
     "slugifiedAuthor": "michael-schmidt",
-    "formattedDate": "2022-07-17T07:00:00.000Z"
+    "formattedDate": "Jul 17, 2022"
   },
   {
     "Issue": "30",
@@ -15306,7 +15306,7 @@
     ],
     "slugifiedTitle": "check-if-images-are-available-before-optimizing-in-eleventy",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-02-05T08:00:00.000Z"
+    "formattedDate": "Feb 05, 2024"
   },
   {
     "Issue": "30",
@@ -15331,7 +15331,7 @@
     ],
     "slugifiedTitle": "lessons-learned-moving-eleventy-from-commonjs-to-esm",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-02-07T08:00:00.000Z"
+    "formattedDate": "Feb 07, 2024"
   },
   {
     "Issue": "31",
@@ -15348,7 +15348,7 @@
     ],
     "slugifiedTitle": "eleventy-fetch-data-from-the-github-rest-api-to-populate-a-projects-page",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2024-02-07T08:00:00.000Z"
+    "formattedDate": "Feb 07, 2024"
   },
   {
     "Issue": "31",
@@ -15363,7 +15363,7 @@
     ],
     "slugifiedTitle": "added-folder-selection-to-my-new-post-utility",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-02-06T08:00:00.000Z"
+    "formattedDate": "Feb 06, 2024"
   },
   {
     "Issue": "31",
@@ -15380,7 +15380,7 @@
     ],
     "slugifiedTitle": "how-to-connect-eleventy-and-storyblok",
     "slugifiedAuthor": "estela-franco",
-    "formattedDate": "2024-02-08T08:00:00.000Z"
+    "formattedDate": "Feb 08, 2024"
   },
   {
     "Issue": "",
@@ -15395,7 +15395,7 @@
     ],
     "slugifiedTitle": "another-approach-to-webmentions-in-eleventy",
     "slugifiedAuthor": "michael-bishop",
-    "formattedDate": "2023-12-26T08:00:00.000Z"
+    "formattedDate": "Dec 26, 2023"
   },
   {
     "Issue": "",
@@ -15410,7 +15410,7 @@
     ],
     "slugifiedTitle": "lastfm-recently-played-with-eleventy",
     "slugifiedAuthor": "michael-bishop",
-    "formattedDate": "2023-12-26T08:00:00.000Z"
+    "formattedDate": "Dec 26, 2023"
   },
   {
     "Issue": "31",
@@ -15434,7 +15434,7 @@
     ],
     "slugifiedTitle": "building-an-11ty-plugin-to-output-the-transcription-of-a-youtube-video-zach-and-mike",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-02-08T08:00:00.000Z"
+    "formattedDate": "Feb 08, 2024"
   },
   {
     "Issue": "31",
@@ -15470,7 +15470,7 @@
     ],
     "slugifiedTitle": "11ty-rss-activepieces",
     "slugifiedAuthor": "jay-cuthrell",
-    "formattedDate": "2024-02-11T08:00:00.000Z"
+    "formattedDate": "Feb 11, 2024"
   },
   {
     "Issue": "31",
@@ -15485,7 +15485,7 @@
     ],
     "slugifiedTitle": "css-in-real-life-eleventy-starter-project-updates",
     "slugifiedAuthor": "michelle-barker",
-    "formattedDate": "2024-02-11T08:00:00.000Z"
+    "formattedDate": "Feb 11, 2024"
   },
   {
     "Issue": "31",
@@ -15502,7 +15502,7 @@
     ],
     "slugifiedTitle": "eleventy-immich",
     "slugifiedAuthor": "chris-burgess",
-    "formattedDate": "2024-02-12T08:00:00.000Z"
+    "formattedDate": "Feb 12, 2024"
   },
   {
     "Issue": "",
@@ -15517,7 +15517,7 @@
     ],
     "slugifiedTitle": "from-jekyll-hugo-to-eleventy",
     "slugifiedAuthor": "chris-burgess",
-    "formattedDate": "2023-03-06T08:00:00.000Z"
+    "formattedDate": "Mar 06, 2023"
   },
   {
     "Issue": "31",
@@ -15540,7 +15540,7 @@
     ],
     "slugifiedTitle": "keeping-your-algolia-search-index-up-to-date",
     "slugifiedAuthor": "jaden-baptista",
-    "formattedDate": "2024-02-12T08:00:00.000Z"
+    "formattedDate": "Feb 12, 2024"
   },
   {
     "Issue": "32",
@@ -15577,7 +15577,7 @@
     ],
     "slugifiedTitle": "local-links-in-eleventy-part-2",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2024-02-14T08:00:00.000Z"
+    "formattedDate": "Feb 14, 2024"
   },
   {
     "Issue": "32",
@@ -15593,7 +15593,7 @@
     ],
     "slugifiedTitle": "setting-up-image-transforms-in-eleventy",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-02-14T08:00:00.000Z"
+    "formattedDate": "Feb 14, 2024"
   },
   {
     "Issue": "32",
@@ -15615,7 +15615,7 @@
     ],
     "slugifiedTitle": "update-bookmarks-are-back",
     "slugifiedAuthor": "tom-doe",
-    "formattedDate": "2024-02-15T08:00:00.000Z"
+    "formattedDate": "Feb 15, 2024"
   },
   {
     "Issue": "32",
@@ -15631,7 +15631,7 @@
     ],
     "slugifiedTitle": "adding-typescript-tooling-and-jsx-to-eleventy-strongly-hyped",
     "slugifiedAuthor": "khalid-abuhakmeh",
-    "formattedDate": "2024-02-14T08:00:00.000Z"
+    "formattedDate": "Feb 14, 2024"
   },
   {
     "Issue": "32",
@@ -15648,7 +15648,7 @@
     ],
     "slugifiedTitle": "eleventy-differentiate-between-dev-and-production-builds-with-unique-favicons",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2024-02-15T08:00:00.000Z"
+    "formattedDate": "Feb 15, 2024"
   },
   {
     "Issue": "",
@@ -15662,7 +15662,7 @@
     ],
     "slugifiedTitle": "new-year-new-blog",
     "slugifiedAuthor": "jeremy-daly",
-    "formattedDate": "2024-01-05T08:00:00.000Z"
+    "formattedDate": "Jan 05, 2024"
   },
   {
     "Issue": "32",
@@ -15685,7 +15685,7 @@
     ],
     "slugifiedTitle": "top-11-free-eleventy-themes-for-2024",
     "slugifiedAuthor": "jaimie-mcmahon",
-    "formattedDate": "2024-01-30T08:00:00.000Z"
+    "formattedDate": "Jan 30, 2024"
   },
   {
     "Issue": "32",
@@ -15701,7 +15701,7 @@
     ],
     "slugifiedTitle": "feceleventy-plugin-asset-pipeline-better-cache-busting-with-eleventy",
     "slugifiedAuthor": "florian-eckerstorfer",
-    "formattedDate": "2024-02-18T08:00:00.000Z"
+    "formattedDate": "Feb 18, 2024"
   },
   {
     "Issue": "32",
@@ -15725,7 +15725,7 @@
     ],
     "slugifiedTitle": "using-b2-as-a-json-data-store",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-02-19T08:00:00.000Z"
+    "formattedDate": "Feb 19, 2024"
   },
   {
     "Issue": "32",
@@ -15756,7 +15756,7 @@
     ],
     "slugifiedTitle": "refactor-by-shortcode",
     "slugifiedAuthor": "bob-monsour",
-    "formattedDate": "2024-02-20T08:00:00.000Z"
+    "formattedDate": "Feb 20, 2024"
   },
   {
     "Issue": "32",
@@ -15775,7 +15775,7 @@
     ],
     "slugifiedTitle": "using-eleventy-to-gobble-up-everything-i-do-online",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2024-02-20T08:00:00.000Z"
+    "formattedDate": "Feb 20, 2024"
   },
   {
     "Issue": "32",
@@ -15792,7 +15792,7 @@
     ],
     "slugifiedTitle": "building-a-meetup-community-site-using-global-data-files",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2024-02-20T08:00:00.000Z"
+    "formattedDate": "Feb 20, 2024"
   },
   {
     "Issue": "32",
@@ -15808,7 +15808,7 @@
     ],
     "slugifiedTitle": "automatic-mastodon-post-embeds",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-02-20T08:00:00.000Z"
+    "formattedDate": "Feb 20, 2024"
   },
   {
     "Issue": "33",
@@ -15825,7 +15825,7 @@
     ],
     "slugifiedTitle": "intro-bukmarkclub",
     "slugifiedAuthor": "tom-doe",
-    "formattedDate": "2024-02-21T08:00:00.000Z"
+    "formattedDate": "Feb 21, 2024"
   },
   {
     "Issue": "33",
@@ -15843,7 +15843,7 @@
     ],
     "slugifiedTitle": "using-eleventy-to-gobble-up-everything-i-do-online",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2024-02-21T08:00:00.000Z"
+    "formattedDate": "Feb 21, 2024"
   },
   {
     "Issue": "33",
@@ -15859,7 +15859,7 @@
     ],
     "slugifiedTitle": "building-a-bespoke-now-playing-web-component",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-02-21T08:00:00.000Z"
+    "formattedDate": "Feb 21, 2024"
   },
   {
     "Issue": "33",
@@ -15875,7 +15875,7 @@
     ],
     "slugifiedTitle": "weaving-music-data-in-and-out-of-my-personal-website",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-02-22T08:00:00.000Z"
+    "formattedDate": "Feb 22, 2024"
   },
   {
     "Issue": "27",
@@ -15891,7 +15891,7 @@
     ],
     "slugifiedTitle": "link-blogging-using-readwise-reader",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-01-10T08:00:00.000Z"
+    "formattedDate": "Jan 10, 2024"
   },
   {
     "Issue": "33",
@@ -15914,7 +15914,7 @@
     ],
     "slugifiedTitle": "eleventy-custom-markup-alongside-item-contents",
     "slugifiedAuthor": "łukasz-wójcik",
-    "formattedDate": "2024-02-23T08:00:00.000Z"
+    "formattedDate": "Feb 23, 2024"
   },
   {
     "Issue": "33",
@@ -15930,7 +15930,7 @@
     ],
     "slugifiedTitle": "eight-million-npm-downloads",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-02-23T08:00:00.000Z"
+    "formattedDate": "Feb 23, 2024"
   },
   {
     "Issue": "33",
@@ -15948,7 +15948,7 @@
     ],
     "slugifiedTitle": "elevating-video-transcripts-as-searchable-content",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-02-27T08:00:00.000Z"
+    "formattedDate": "Feb 27, 2024"
   },
   {
     "Issue": "33",
@@ -15966,7 +15966,7 @@
     ],
     "slugifiedTitle": "a-roundup-of-recent-updates-to-my-website",
     "slugifiedAuthor": "grigør",
-    "formattedDate": "2024-02-27T08:00:00.000Z"
+    "formattedDate": "Feb 27, 2024"
   },
   {
     "Issue": "33",
@@ -15981,7 +15981,7 @@
     ],
     "slugifiedTitle": "updating-11ty-to-enjoy-esm",
     "slugifiedAuthor": "tobias-fedder",
-    "formattedDate": "2024-02-26T08:00:00.000Z"
+    "formattedDate": "Feb 26, 2024"
   },
   {
     "Issue": "33",
@@ -15997,7 +15997,7 @@
     ],
     "slugifiedTitle": "the-eleventy-meetup-feb-20th",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2024-02-26T08:00:00.000Z"
+    "formattedDate": "Feb 26, 2024"
   },
   {
     "Issue": "33",
@@ -16018,7 +16018,7 @@
     ],
     "slugifiedTitle": "inexactly-benchmarking-eleventy-vs-astro-build-times",
     "slugifiedAuthor": "piper-haywood",
-    "formattedDate": "2024-02-28T08:00:00.000Z"
+    "formattedDate": "Feb 28, 2024"
   },
   {
     "Issue": "33",
@@ -16034,7 +16034,7 @@
     ],
     "slugifiedTitle": "search-webmentions-and-microformats",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2024-02-28T08:00:00.000Z"
+    "formattedDate": "Feb 28, 2024"
   },
   {
     "Issue": "33",
@@ -16056,7 +16056,7 @@
     ],
     "slugifiedTitle": "building-my-comics-page",
     "slugifiedAuthor": "flamed",
-    "formattedDate": "2024-02-29T08:00:00.000Z"
+    "formattedDate": "Feb 29, 2024"
   },
   {
     "Issue": "34",
@@ -16071,7 +16071,7 @@
     ],
     "slugifiedTitle": "deploy-an-eleventy-site-to-cloudflare-pages-efficiently-with-githubs-action-cache",
     "slugifiedAuthor": "jonas-brusman",
-    "formattedDate": "2024-02-29T08:00:00.000Z"
+    "formattedDate": "Feb 29, 2024"
   },
   {
     "Issue": "34",
@@ -16087,7 +16087,7 @@
     ],
     "slugifiedTitle": "unveiling-the-marvels-of-11tys-webc",
     "slugifiedAuthor": "ryan-gittings",
-    "formattedDate": "2024-02-29T08:00:00.000Z"
+    "formattedDate": "Feb 29, 2024"
   },
   {
     "Issue": "34",
@@ -16112,7 +16112,7 @@
     ],
     "slugifiedTitle": "eleventy-group-posts-by-year",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2024-03-01T08:00:00.000Z"
+    "formattedDate": "Mar 01, 2024"
   },
   {
     "Issue": "34",
@@ -16150,7 +16150,7 @@
     ],
     "slugifiedTitle": "build-a-blog-with-eleventy-11ty-and-webiny-headless-cms",
     "slugifiedAuthor": "maurice-king",
-    "formattedDate": "2023-07-18T07:00:00.000Z"
+    "formattedDate": "Jul 18, 2023"
   },
   {
     "Issue": "34",
@@ -16180,7 +16180,7 @@
     ],
     "slugifiedTitle": "adding-inline-svgs-to-eleventyjs",
     "slugifiedAuthor": "jordan-kohl",
-    "formattedDate": "2024-03-03T08:00:00.000Z"
+    "formattedDate": "Mar 03, 2024"
   },
   {
     "Issue": "34",
@@ -16196,7 +16196,7 @@
     ],
     "slugifiedTitle": "eleventy-pathprefix-and-github-pages",
     "slugifiedAuthor": "łukasz-wójcik",
-    "formattedDate": "2024-03-03T08:00:00.000Z"
+    "formattedDate": "Mar 03, 2024"
   },
   {
     "Issue": "34",
@@ -16211,7 +16211,7 @@
     ],
     "slugifiedTitle": "how-to-build-a-serverless-guestbook",
     "slugifiedAuthor": "tom-doe",
-    "formattedDate": "2024-03-04T08:00:00.000Z"
+    "formattedDate": "Mar 04, 2024"
   },
   {
     "Issue": "34",
@@ -16230,7 +16230,7 @@
     ],
     "slugifiedTitle": "my-eleventy-site-setup",
     "slugifiedAuthor": "anh",
-    "formattedDate": "2024-03-03T08:00:00.000Z"
+    "formattedDate": "Mar 03, 2024"
   },
   {
     "Issue": "34",
@@ -16248,7 +16248,7 @@
     ],
     "slugifiedTitle": "version-3",
     "slugifiedAuthor": "devin-haska",
-    "formattedDate": "2024-03-02T08:00:00.000Z"
+    "formattedDate": "Mar 02, 2024"
   },
   {
     "Issue": "",
@@ -16265,7 +16265,7 @@
     ],
     "slugifiedTitle": "crash-course-in-eleventys-new-webc-plugin",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2022-09-27T07:00:00.000Z"
+    "formattedDate": "Sep 27, 2022"
   },
   {
     "Issue": "",
@@ -16282,7 +16282,7 @@
     ],
     "slugifiedTitle": "the-webc-episode-with-a-bonus-server-rendered-image-comparison-component-on-eleventy",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2022-10-20T07:00:00.000Z"
+    "formattedDate": "Oct 20, 2022"
   },
   {
     "Issue": "",
@@ -16299,7 +16299,7 @@
     ],
     "slugifiedTitle": "webc-is-neat-with-zach-leatherman-web-developer",
     "slugifiedAuthor": "nick-taylor",
-    "formattedDate": "2023-11-03T07:00:00.000Z"
+    "formattedDate": "Nov 03, 2023"
   },
   {
     "Issue": "",
@@ -16316,7 +16316,7 @@
     ],
     "slugifiedTitle": "rewriting-the-eleventy-home-page-in-webc",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2023-03-08T08:00:00.000Z"
+    "formattedDate": "Mar 08, 2023"
   },
   {
     "Issue": "",
@@ -16333,7 +16333,7 @@
     ],
     "slugifiedTitle": "interactive-progressively-enhanced-web-components-with-webc",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2022-09-29T07:00:00.000Z"
+    "formattedDate": "Sep 29, 2022"
   },
   {
     "Issue": "34",
@@ -16356,7 +16356,7 @@
     ],
     "slugifiedTitle": "surfacing-most-used-tags-in-eleventy",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-03-09T08:00:00.000Z"
+    "formattedDate": "Mar 09, 2024"
   },
   {
     "Issue": "35",
@@ -16386,7 +16386,7 @@
     ],
     "slugifiedTitle": "using-an-eleventy-event-to-optimize-component-javascrip",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-03-10T08:00:00.000Z"
+    "formattedDate": "Mar 10, 2024"
   },
   {
     "Issue": "",
@@ -16405,7 +16405,7 @@
     ],
     "slugifiedTitle": "turn-static-htmlcss-into-a-blog-with-cms-using-the-jamstack",
     "slugifiedAuthor": "kevin-powell",
-    "formattedDate": "2021-06-24T07:00:00.000Z"
+    "formattedDate": "Jun 24, 2021"
   },
   {
     "Issue": "35",
@@ -16421,7 +16421,7 @@
     ],
     "slugifiedTitle": "i-archived-my-tweets",
     "slugifiedAuthor": "lynn-fisher",
-    "formattedDate": "2024-03-11T07:00:00.000Z"
+    "formattedDate": "Mar 11, 2024"
   },
   {
     "Issue": "35",
@@ -16445,7 +16445,7 @@
     ],
     "slugifiedTitle": "group-posts-by-year-in-eleventyjs",
     "slugifiedAuthor": "jordan-kohl",
-    "formattedDate": "2024-03-13T07:00:00.000Z"
+    "formattedDate": "Mar 13, 2024"
   },
   {
     "Issue": "35",
@@ -16461,7 +16461,7 @@
     ],
     "slugifiedTitle": "automatic-image-pre-processing-in-eleventy-part-2",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2024-03-13T07:00:00.000Z"
+    "formattedDate": "Mar 13, 2024"
   },
   {
     "Issue": "36",
@@ -16476,7 +16476,7 @@
     ],
     "slugifiedTitle": "i-have-a-problem-with-build-times",
     "slugifiedAuthor": "chris-mcleod",
-    "formattedDate": "2024-03-13T07:00:00.000Z"
+    "formattedDate": "Mar 13, 2024"
   },
   {
     "Issue": "36",
@@ -16491,7 +16491,7 @@
     ],
     "slugifiedTitle": "we-need-to-talk-about-your-eleventy-post-dates",
     "slugifiedAuthor": "robb-knight",
-    "formattedDate": "2024-03-14T07:00:00.000Z"
+    "formattedDate": "Mar 14, 2024"
   },
   {
     "Issue": "36",
@@ -16507,7 +16507,7 @@
     ],
     "slugifiedTitle": "the-indieweb-feels-like-coming-home",
     "slugifiedAuthor": "nathaniel-daught",
-    "formattedDate": "2024-03-14T07:00:00.000Z"
+    "formattedDate": "Mar 14, 2024"
   },
   {
     "Issue": "36",
@@ -16551,7 +16551,7 @@
     ],
     "slugifiedTitle": "eleventy-excerpts",
     "slugifiedAuthor": "martin-gunnarsson",
-    "formattedDate": "2024-03-15T07:00:00.000Z"
+    "formattedDate": "Mar 15, 2024"
   },
   {
     "Issue": "36",
@@ -16570,7 +16570,7 @@
     ],
     "slugifiedTitle": "how-i-eleventy",
     "slugifiedAuthor": "declan-byrd",
-    "formattedDate": "2024-03-13T07:00:00.000Z"
+    "formattedDate": "Mar 13, 2024"
   },
   {
     "Issue": "",
@@ -16585,7 +16585,7 @@
     ],
     "slugifiedTitle": "syndicating-blog-posts-from-an-11ty-site-to-devto-using-rss",
     "slugifiedAuthor": "declan-byrd",
-    "formattedDate": "2021-04-02T07:00:00.000Z"
+    "formattedDate": "Apr 02, 2021"
   },
   {
     "Issue": "36",
@@ -16600,7 +16600,7 @@
     ],
     "slugifiedTitle": "11ty-collections-tag-links",
     "slugifiedAuthor": "simon-cox",
-    "formattedDate": "2024-03-17T07:00:00.000Z"
+    "formattedDate": "Mar 17, 2024"
   },
   {
     "Issue": "36",
@@ -16625,7 +16625,7 @@
     ],
     "slugifiedTitle": "automate-your-static-site-rebuilds-with-netlify-scheduled-functions",
     "slugifiedAuthor": "marc-littlemore",
-    "formattedDate": "2024-03-17T07:00:00.000Z"
+    "formattedDate": "Mar 17, 2024"
   },
   {
     "Issue": "36",
@@ -16654,7 +16654,7 @@
     ],
     "slugifiedTitle": "lightweight-search-in-eleventy",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-03-18T07:00:00.000Z"
+    "formattedDate": "Mar 18, 2024"
   },
   {
     "Issue": "36",
@@ -16670,7 +16670,7 @@
     ],
     "slugifiedTitle": "generating-eleventy-post-descriptions-using-generative-ai",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-03-18T07:00:00.000Z"
+    "formattedDate": "Mar 18, 2024"
   },
   {
     "Issue": "36",
@@ -16684,7 +16684,7 @@
     ],
     "slugifiedTitle": "10-reasons-why-static-site-generators-are-perfect-for-modern-web-development",
     "slugifiedAuthor": "ryan-gittings",
-    "formattedDate": "2024-02-24T08:00:00.000Z"
+    "formattedDate": "Feb 24, 2024"
   },
   {
     "Issue": "37",
@@ -16701,7 +16701,7 @@
     ],
     "slugifiedTitle": "creating-a-reading-list-with-eleventy-and-omnivore",
     "slugifiedAuthor": "tom-doe",
-    "formattedDate": "2024-03-20T07:00:00.000Z"
+    "formattedDate": "Mar 20, 2024"
   },
   {
     "Issue": "37",
@@ -16726,7 +16726,7 @@
     ],
     "slugifiedTitle": "building-a-live-preview-with-eleventy-contentful-and-liquid-templating",
     "slugifiedAuthor": "silvestar-bistrović",
-    "formattedDate": "2024-03-22T07:00:00.000Z"
+    "formattedDate": "Mar 22, 2024"
   },
   {
     "Issue": "37",
@@ -16741,7 +16741,7 @@
     ],
     "slugifiedTitle": "webmentions-web-component",
     "slugifiedAuthor": "troy-v",
-    "formattedDate": "2024-03-22T07:00:00.000Z"
+    "formattedDate": "Mar 22, 2024"
   },
   {
     "Issue": "37",
@@ -16757,7 +16757,7 @@
     ],
     "slugifiedTitle": "eleventy-navigation-set-url-to-first-item-in-collection",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-03-24T07:00:00.000Z"
+    "formattedDate": "Mar 24, 2024"
   },
   {
     "Issue": "37",
@@ -16774,7 +16774,7 @@
     ],
     "slugifiedTitle": "how-i-shaved-15-minutes-off-my-eleventy-build-time",
     "slugifiedAuthor": "chris-burnell",
-    "formattedDate": "2024-03-24T07:00:00.000Z"
+    "formattedDate": "Mar 24, 2024"
   },
   {
     "Issue": "37",
@@ -16810,7 +16810,7 @@
     ],
     "slugifiedTitle": "thirteenth-place-on-eleventy-leaderboards",
     "slugifiedAuthor": "silvestar-bistrović",
-    "formattedDate": "2024-03-27T07:00:00.000Z"
+    "formattedDate": "Mar 27, 2024"
   },
   {
     "Issue": "38",
@@ -16874,7 +16874,7 @@
     ],
     "slugifiedTitle": "added-timestamp-to-my-eleventy-new-post-utility",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-04-06T07:00:00.000Z"
+    "formattedDate": "Apr 06, 2024"
   },
   {
     "Issue": "38",
@@ -16889,7 +16889,7 @@
     ],
     "slugifiedTitle": "enhancing-pagination-with-a-page-selector",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-04-05T07:00:00.000Z"
+    "formattedDate": "Apr 05, 2024"
   },
   {
     "Issue": "38",
@@ -16914,7 +16914,7 @@
     ],
     "slugifiedTitle": "added-timestamp-to-posts",
     "slugifiedAuthor": "john-m-wargo",
-    "formattedDate": "2024-04-07T07:00:00.000Z"
+    "formattedDate": "Apr 07, 2024"
   },
   {
     "Issue": "38",
@@ -16937,7 +16937,7 @@
     ],
     "slugifiedTitle": "2024-redesign",
     "slugifiedAuthor": "christopher-kirk-nielsen",
-    "formattedDate": "2024-04-04T07:00:00.000Z"
+    "formattedDate": "Apr 04, 2024"
   },
   {
     "Issue": "39",
@@ -16953,7 +16953,7 @@
     ],
     "slugifiedTitle": "notifications-for-new-eleventy-posts-in-gitlab-part-1",
     "slugifiedAuthor": "aaron-goldenthal",
-    "formattedDate": "2024-04-08T07:00:00.000Z"
+    "formattedDate": "Apr 08, 2024"
   },
   {
     "Issue": "39",
@@ -16970,7 +16970,7 @@
     ],
     "slugifiedTitle": "fixing-a-typo-shaved-4-minutes-off-my-netlify-build-time",
     "slugifiedAuthor": "thomas-rigby",
-    "formattedDate": "2024-04-10T07:00:00.000Z"
+    "formattedDate": "Apr 10, 2024"
   },
   {
     "Issue": "39",
@@ -16999,7 +16999,7 @@
     ],
     "slugifiedTitle": "indexmd-is-a-valid-eleventy-project",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2024-04-13T07:00:00.000Z"
+    "formattedDate": "Apr 13, 2024"
   },
   {
     "Issue": "39",
@@ -17022,7 +17022,7 @@
     ],
     "slugifiedTitle": "assigning-an-active-page-in-eleventy-navigation",
     "slugifiedAuthor": "anita-cheng",
-    "formattedDate": "2024-02-03T08:00:00.000Z"
+    "formattedDate": "Feb 03, 2024"
   },
   {
     "Issue": "40",
@@ -17037,7 +17037,7 @@
     ],
     "slugifiedTitle": "deploy-a-static-website-to-aws-s3-with-official-github-actions",
     "slugifiedAuthor": "lucas-cantor",
-    "formattedDate": "2024-04-15T07:00:00.000Z"
+    "formattedDate": "Apr 15, 2024"
   },
   {
     "Issue": "40",
@@ -17065,7 +17065,7 @@
     ],
     "slugifiedTitle": "migrating-from-wordpress-to-eleventy",
     "slugifiedAuthor": "dave-slusher",
-    "formattedDate": "2024-04-12T07:00:00.000Z"
+    "formattedDate": "Apr 12, 2024"
   },
   {
     "Issue": "40",
@@ -17080,7 +17080,7 @@
     ],
     "slugifiedTitle": "blockin-bots-with-eleventy",
     "slugifiedAuthor": "dave-slusher",
-    "formattedDate": "2024-04-15T07:00:00.000Z"
+    "formattedDate": "Apr 15, 2024"
   },
   {
     "Issue": "40",
@@ -17096,7 +17096,7 @@
     ],
     "slugifiedTitle": "eleventy-nested-pagination",
     "slugifiedAuthor": "alistair-deneys",
-    "formattedDate": "2024-04-17T07:00:00.000Z"
+    "formattedDate": "Apr 17, 2024"
   },
   {
     "Issue": "",
@@ -17113,7 +17113,7 @@
     ],
     "slugifiedTitle": "automatically-generate-open-graph-images-in-eleventy",
     "slugifiedAuthor": "bernard-nijenhuis",
-    "formattedDate": "2021-05-10T07:00:00.000Z"
+    "formattedDate": "May 10, 2021"
   },
   {
     "Issue": "40",
@@ -17129,7 +17129,7 @@
     ],
     "slugifiedTitle": "improving-page-load-times-with-pagination-in-eleventy",
     "slugifiedAuthor": "thomas-rigby",
-    "formattedDate": "2024-04-19T07:00:00.000Z"
+    "formattedDate": "Apr 19, 2024"
   },
   {
     "Issue": "40",
@@ -17179,7 +17179,7 @@
     ],
     "slugifiedTitle": "deploying-an-11ty-project-to-shared-hosting",
     "slugifiedAuthor": "flamed",
-    "formattedDate": "2024-04-25T07:00:00.000Z"
+    "formattedDate": "Apr 25, 2024"
   },
   {
     "Issue": "41",
@@ -17231,7 +17231,7 @@
     ],
     "slugifiedTitle": "notifications-for-new-eleventy-posts-in-gitlab-part-2",
     "slugifiedAuthor": "aaron-goldenthal",
-    "formattedDate": "2024-04-29T07:00:00.000Z"
+    "formattedDate": "Apr 29, 2024"
   },
   {
     "Issue": "41",
@@ -17249,7 +17249,7 @@
     ],
     "slugifiedTitle": "surfing-the-web-and-sharing-what-i-find",
     "slugifiedAuthor": "flamed",
-    "formattedDate": "2024-04-30T07:00:00.000Z"
+    "formattedDate": "Apr 30, 2024"
   },
   {
     "Issue": "42",
@@ -17264,7 +17264,7 @@
     ],
     "slugifiedTitle": "handling-images-with-b2-netlifys-image-cdn-hazel-and-mountain-duck",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-05-01T07:00:00.000Z"
+    "formattedDate": "May 01, 2024"
   },
   {
     "Issue": "42",
@@ -17302,7 +17302,7 @@
     ],
     "slugifiedTitle": "upgrading-to-eleventy-101",
     "slugifiedAuthor": "mark-llobrera",
-    "formattedDate": "2024-05-01T07:00:00.000Z"
+    "formattedDate": "May 01, 2024"
   },
   {
     "Issue": "42",
@@ -17320,7 +17320,7 @@
     ],
     "slugifiedTitle": "leveraging-apis-like-notion-with-a-nice-caching-system",
     "slugifiedAuthor": "christopher-kirk-nielsen",
-    "formattedDate": "2024-05-03T07:00:00.000Z"
+    "formattedDate": "May 03, 2024"
   },
   {
     "Issue": "42",
@@ -17336,7 +17336,7 @@
     ],
     "slugifiedTitle": "building-a-localised-site-with-11ty-sanity-netlify",
     "slugifiedAuthor": "ryan-gittings",
-    "formattedDate": "2024-05-03T07:00:00.000Z"
+    "formattedDate": "May 03, 2024"
   },
   {
     "Issue": "42",
@@ -17373,7 +17373,7 @@
     ],
     "slugifiedTitle": "eleventy-adoption-guide-overview-examples-and-alternatives",
     "slugifiedAuthor": "nelson-michael",
-    "formattedDate": "2024-05-07T07:00:00.000Z"
+    "formattedDate": "May 07, 2024"
   },
   {
     "Issue": "",
@@ -17390,7 +17390,7 @@
     ],
     "slugifiedTitle": "eleventy-vs-nextjs-for-static-site-generation",
     "slugifiedAuthor": "nelson-michael",
-    "formattedDate": "2023-12-07T08:00:00.000Z"
+    "formattedDate": "Dec 07, 2023"
   },
   {
     "Issue": "42",
@@ -17406,7 +17406,7 @@
     ],
     "slugifiedTitle": "better-11ty-development-with-tooling",
     "slugifiedAuthor": "paul-everitt",
-    "formattedDate": "2024-04-21T07:00:00.000Z"
+    "formattedDate": "Apr 21, 2024"
   },
   {
     "Issue": "43",
@@ -17428,7 +17428,7 @@
     ],
     "slugifiedTitle": "why-im-leaving-astro-for-11ty",
     "slugifiedAuthor": "jakob-schwanenberg",
-    "formattedDate": "2024-05-08T07:00:00.000Z",
+    "formattedDate": "May 08, 2024",
     "Skip": true
   },
   {
@@ -17445,7 +17445,7 @@
     ],
     "slugifiedTitle": "supporting-a-full-text-rss-feed",
     "slugifiedAuthor": "dustin-whisman",
-    "formattedDate": "2024-05-08T07:00:00.000Z"
+    "formattedDate": "May 08, 2024"
   },
   {
     "Issue": "43",
@@ -17469,7 +17469,7 @@
     ],
     "slugifiedTitle": "using-storybook-with-11ty",
     "slugifiedAuthor": "paul-everitt",
-    "formattedDate": "2022-04-06T07:00:00.000Z"
+    "formattedDate": "Apr 06, 2022"
   },
   {
     "Issue": "43",
@@ -17486,7 +17486,7 @@
     ],
     "slugifiedTitle": "rebuilding-my-website-with-eleventy",
     "slugifiedAuthor": "blake-watson",
-    "formattedDate": "2024-05-09T07:00:00.000Z"
+    "formattedDate": "May 09, 2024"
   },
   {
     "Issue": "43",
@@ -17503,7 +17503,7 @@
     ],
     "slugifiedTitle": "controlling-whitespace-in-11ty-with-nunjucks",
     "slugifiedAuthor": "al-power",
-    "formattedDate": "2024-05-11T07:00:00.000Z"
+    "formattedDate": "May 11, 2024"
   },
   {
     "Issue": "43",
@@ -17520,7 +17520,7 @@
     ],
     "slugifiedTitle": "scheduling-posts-with-a-static-site",
     "slugifiedAuthor": "alex-hyett",
-    "formattedDate": "2024-05-12T07:00:00.000Z"
+    "formattedDate": "May 12, 2024"
   },
   {
     "Issue": "43",
@@ -17573,7 +17573,7 @@
     ],
     "slugifiedTitle": "a-custom-collection-to-sort-events-with-eleventy",
     "slugifiedAuthor": "sami-määttä",
-    "formattedDate": "2024-05-09T07:00:00.000Z"
+    "formattedDate": "May 09, 2024"
   },
   {
     "Issue": "43",
@@ -17589,7 +17589,7 @@
     ],
     "slugifiedTitle": "eleventy-image-problem-with-netlifys-build",
     "slugifiedAuthor": "sami-määttä",
-    "formattedDate": "2024-05-04T07:00:00.000Z"
+    "formattedDate": "May 04, 2024"
   },
   {
     "Issue": "",
@@ -17604,7 +17604,7 @@
     ],
     "slugifiedTitle": "math-equations-with-eleventy-using-texzilla",
     "slugifiedAuthor": "sami-määttä",
-    "formattedDate": "2024-03-01T08:00:00.000Z"
+    "formattedDate": "Mar 01, 2024"
   },
   {
     "Issue": "",
@@ -17620,7 +17620,7 @@
     ],
     "slugifiedTitle": "getting-tailwind-to-work-with-eleventy",
     "slugifiedAuthor": "sami-määttä",
-    "formattedDate": "2022-06-11T07:00:00.000Z"
+    "formattedDate": "Jun 11, 2022"
   },
   {
     "Issue": "",
@@ -17641,7 +17641,7 @@
     ],
     "slugifiedTitle": "building-blocks-for-my-first-eleventy-site",
     "slugifiedAuthor": "sami-määttä",
-    "formattedDate": "2022-03-08T08:00:00.000Z"
+    "formattedDate": "Mar 08, 2022"
   },
   {
     "Issue": "43",
@@ -17659,7 +17659,7 @@
     ],
     "slugifiedTitle": "create-a-blog-with-eleventy-and-storyblok",
     "slugifiedAuthor": "estela-franco",
-    "formattedDate": "2024-05-13T07:00:00.000Z"
+    "formattedDate": "May 13, 2024"
   },
   {
     "Issue": "43",
@@ -17673,7 +17673,7 @@
     ],
     "slugifiedTitle": "building-a-town-that-doesnt-exist",
     "slugifiedAuthor": "dan-sinker",
-    "formattedDate": "2024-05-10T07:00:00.000Z"
+    "formattedDate": "May 10, 2024"
   },
   {
     "Issue": "43",
@@ -17687,7 +17687,7 @@
     ],
     "slugifiedTitle": "11ty-conference-thoughts",
     "slugifiedAuthor": "alex-ward",
-    "formattedDate": "2024-05-10T07:00:00.000Z"
+    "formattedDate": "May 10, 2024"
   },
   {
     "Issue": "43",
@@ -17701,7 +17701,7 @@
     ],
     "slugifiedTitle": "oppossum-symposium",
     "slugifiedAuthor": "brian-baldock",
-    "formattedDate": "2024-05-14T07:00:00.000Z"
+    "formattedDate": "May 14, 2024"
   },
   {
     "Issue": "43",
@@ -17715,7 +17715,7 @@
     ],
     "slugifiedTitle": "weekly-roundup-3-possum-edition",
     "slugifiedAuthor": "ryan-trimble",
-    "formattedDate": "2024-05-11T07:00:00.000Z"
+    "formattedDate": "May 11, 2024"
   },
   {
     "Issue": "43",
@@ -17729,7 +17729,7 @@
     ],
     "slugifiedTitle": "static-sites-do-scale-eleventy-vs-nextjs-at-11ty-event",
     "slugifiedAuthor": "richard-macmanus",
-    "formattedDate": "2024-05-13T07:00:00.000Z"
+    "formattedDate": "May 13, 2024"
   },
   {
     "Issue": "43",
@@ -17744,7 +17744,7 @@
     ],
     "slugifiedTitle": "an-organizers-retrospective-on-the-11ty-conference",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-05-13T07:00:00.000Z"
+    "formattedDate": "May 13, 2024"
   },
   {
     "Issue": "43",
@@ -17758,7 +17758,7 @@
     ],
     "slugifiedTitle": "my-impressions-on-the-11ty-international-symposium-on-making-web-sites-real-good",
     "slugifiedAuthor": "tobias-fedder",
-    "formattedDate": "2024-05-13T07:00:00.000Z"
+    "formattedDate": "May 13, 2024"
   },
   {
     "Issue": "43",
@@ -17780,7 +17780,7 @@
     ],
     "slugifiedTitle": "eleventy-reading-time-plugin",
     "slugifiedAuthor": "max-boll",
-    "formattedDate": "2024-05-13T07:00:00.000Z"
+    "formattedDate": "May 13, 2024"
   },
   {
     "Issue": "43",
@@ -17801,7 +17801,7 @@
     ],
     "slugifiedTitle": "recap-of-11ty-international-symposium-on-making-web-sites-real-good",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2024-05-15T07:00:00.000Z"
+    "formattedDate": "May 15, 2024"
   },
   {
     "Issue": "44",
@@ -17818,7 +17818,7 @@
     ],
     "slugifiedTitle": "11ty-conference-2024-break-slideshow-personal-sites-montage",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-05-15T07:00:00.000Z"
+    "formattedDate": "May 15, 2024"
   },
   {
     "Issue": "44",
@@ -17854,7 +17854,7 @@
     ],
     "slugifiedTitle": "how-to-create-a-drafts-page-for-an-11ty-blog",
     "slugifiedAuthor": "luke-harris",
-    "formattedDate": "2023-09-13T07:00:00.000Z"
+    "formattedDate": "Sep 13, 2023"
   },
   {
     "Issue": "44",
@@ -17891,7 +17891,7 @@
     ],
     "slugifiedTitle": "keeping-out-dark-visitors",
     "slugifiedAuthor": "shiv-jm",
-    "formattedDate": "2024-05-14T07:00:00.000Z"
+    "formattedDate": "May 14, 2024"
   },
   {
     "Issue": "44",
@@ -17920,7 +17920,7 @@
     ],
     "slugifiedTitle": "migrating-my-website-from-nextjs-to-11ty",
     "slugifiedAuthor": "conor-c-peterson",
-    "formattedDate": "2024-05-14T07:00:00.000Z"
+    "formattedDate": "May 14, 2024"
   },
   {
     "Issue": "44",
@@ -17936,7 +17936,7 @@
     ],
     "slugifiedTitle": "some-of-my-eleventy-filters",
     "slugifiedAuthor": "chris-burnell",
-    "formattedDate": "2024-05-18T07:00:00.000Z"
+    "formattedDate": "May 18, 2024"
   },
   {
     "Issue": "44",
@@ -17951,7 +17951,7 @@
     ],
     "slugifiedTitle": "putting-a-class-on-external-links-in-eleventy",
     "slugifiedAuthor": "ak-anuszewski",
-    "formattedDate": "2024-05-19T07:00:00.000Z"
+    "formattedDate": "May 19, 2024"
   },
   {
     "Issue": "44",
@@ -17965,7 +17965,7 @@
     ],
     "slugifiedTitle": "my-ideal-blogging-workflow",
     "slugifiedAuthor": "ak-anuszewski",
-    "formattedDate": "2024-05-18T07:00:00.000Z"
+    "formattedDate": "May 18, 2024"
   },
   {
     "Issue": "44",
@@ -17982,7 +17982,7 @@
     ],
     "slugifiedTitle": "the-future-of-11ty-2024",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2024-05-17T07:00:00.000Z"
+    "formattedDate": "May 17, 2024"
   },
   {
     "Issue": "44",
@@ -18017,7 +18017,7 @@
     ],
     "slugifiedTitle": "migrating-from-laravel-to-eleventy",
     "slugifiedAuthor": "stefan-zweifel",
-    "formattedDate": "2024-05-20T07:00:00.000Z"
+    "formattedDate": "May 20, 2024"
   },
   {
     "Issue": "44",
@@ -18032,7 +18032,7 @@
     ],
     "slugifiedTitle": "april-2024-leilukins-hub-overhaul-with-eleventy",
     "slugifiedAuthor": "leilukin",
-    "formattedDate": "2024-04-21T07:00:00.000Z"
+    "formattedDate": "Apr 21, 2024"
   },
   {
     "Issue": "44",
@@ -18076,7 +18076,7 @@
     ],
     "slugifiedTitle": "building-with-eleventy",
     "slugifiedAuthor": "keith-kurson",
-    "formattedDate": "2024-05-21T07:00:00.000Z"
+    "formattedDate": "May 21, 2024"
   },
   {
     "Issue": "45",
@@ -18092,7 +18092,7 @@
     ],
     "slugifiedTitle": "upgraded-to-eleventy-v3",
     "slugifiedAuthor": "tom-doe",
-    "formattedDate": "2024-05-23T07:00:00.000Z"
+    "formattedDate": "May 23, 2024"
   },
   {
     "Issue": "45",
@@ -18129,7 +18129,7 @@
     ],
     "slugifiedTitle": "building-pages-from-data-in-eleventy",
     "slugifiedAuthor": "cory-dransfeldt",
-    "formattedDate": "2024-05-24T07:00:00.000Z"
+    "formattedDate": "May 24, 2024"
   },
   {
     "Issue": "45",
@@ -18146,7 +18146,7 @@
     ],
     "slugifiedTitle": "dynamic-content-includes",
     "slugifiedAuthor": "chris-burnell",
-    "formattedDate": "2024-05-24T07:00:00.000Z"
+    "formattedDate": "May 24, 2024"
   },
   {
     "Issue": "45",
@@ -18177,7 +18177,7 @@
     ],
     "slugifiedTitle": "eleventy-merge-external-data-with-an-existing-collection",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2024-05-26T07:00:00.000Z"
+    "formattedDate": "May 26, 2024"
   },
   {
     "Issue": "45",
@@ -28832,7 +28832,7 @@
     ],
     "slugifiedTitle": "one-weird-trick-to-reduce-eleventy-image-build-times-by-60",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2025-08-01T15:54:21.000"
+    "formattedDate": "Aug 01, 2025"
   },
   {
     "Issue": "77",
@@ -28863,7 +28863,7 @@
     ],
     "slugifiedTitle": "replacing-writefreely-with-eleventy",
     "slugifiedAuthor": "glyn-normington",
-    "formattedDate": "2025-08-02T10:19:00.000"
+    "formattedDate": "Aug 02, 2025"
   },
   {
     "Issue": "77",
@@ -28894,7 +28894,7 @@
     ],
     "slugifiedTitle": "migrating-an-11ty-site-from-cloudflare-pages-to-workers",
     "slugifiedAuthor": "ben-white",
-    "formattedDate": "2025-08-03T10:18:51.000"
+    "formattedDate": "Aug 03, 2025"
   },
   {
     "Issue": "77",
@@ -28909,7 +28909,7 @@
     ],
     "slugifiedTitle": "adding-notes-to-an-eleventy-blog",
     "slugifiedAuthor": "glyn-normington",
-    "formattedDate": "2025-08-04T07:25:24.000"
+    "formattedDate": "Aug 04, 2025"
   },
   {
     "Issue": "77",
@@ -28989,7 +28989,7 @@
     ],
     "slugifiedTitle": "blogging-in-markdown",
     "slugifiedAuthor": "glyn-normington",
-    "formattedDate": "2025-08-09T14:32:41.000"
+    "formattedDate": "Aug 09, 2025"
   },
   {
     "Issue": "77",
@@ -29012,7 +29012,7 @@
     ],
     "slugifiedTitle": "a-subtle-footgun-in-eleventys-default-permalink-algorithm",
     "slugifiedAuthor": "evan-sheehan",
-    "formattedDate": "2025-08-10T21:36:39.000"
+    "formattedDate": "Aug 10, 2025"
   },
   {
     "Issue": "77",
@@ -29030,7 +29030,7 @@
     ],
     "slugifiedTitle": "cache-busting-assets-in-eleventy",
     "slugifiedAuthor": "aleksandr-hovhannisyan",
-    "formattedDate": "2025-08-10T21:38:54.000"
+    "formattedDate": "Aug 10, 2025"
   },
   {
     "Issue": "78",
@@ -29068,7 +29068,7 @@
     ],
     "slugifiedTitle": "formatting-maths-in-eleventy-with-katex",
     "slugifiedAuthor": "glyn-normington",
-    "formattedDate": "2025-08-13T14:27:35.000"
+    "formattedDate": "Aug 13, 2025"
   },
   {
     "Issue": "78",
@@ -29100,7 +29100,7 @@
     ],
     "slugifiedTitle": "how-i-built-this-website-with-11ty-craftcms",
     "slugifiedAuthor": "matthew-richards",
-    "formattedDate": "2025-08-15T09:21:44.000"
+    "formattedDate": "Aug 15, 2025"
   },
   {
     "Issue": "78",
@@ -29164,7 +29164,7 @@
     ],
     "slugifiedTitle": "updated-my-draft-system",
     "slugifiedAuthor": "clayton-errington",
-    "formattedDate": "2025-08-17T08:08:22.000"
+    "formattedDate": "Aug 17, 2025"
   },
   {
     "Issue": "78",
@@ -29180,7 +29180,7 @@
     ],
     "slugifiedTitle": "how-to-add-playwright-automated-tests-to-an-eleventy-static-blog",
     "slugifiedAuthor": "brian-cantoni",
-    "formattedDate": "2025-08-17T21:02:24.000"
+    "formattedDate": "Aug 17, 2025"
   },
   {
     "Issue": "78",
@@ -29197,7 +29197,7 @@
     ],
     "slugifiedTitle": "solving-my-image-dimension-problem-with-an-eleventy-transform",
     "slugifiedAuthor": "brian-cantoni",
-    "formattedDate": "2025-08-18T16:50:34.000"
+    "formattedDate": "Aug 18, 2025"
   },
   {
     "Issue": "78",
@@ -29211,7 +29211,7 @@
     ],
     "slugifiedTitle": "a-note-from-my-late-grandmother-about-eleventy",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2025-08-19T11:29:39.000"
+    "formattedDate": "Aug 19, 2025"
   },
   {
     "Issue": "78",
@@ -29226,7 +29226,7 @@
     ],
     "slugifiedTitle": "11tycms-new-homes-build-publishing-with-a-side-of-collection-indexing-bug-fixes",
     "slugifiedAuthor": "jessie-heald",
-    "formattedDate": "2025-08-19T12:16:23.000"
+    "formattedDate": "Aug 19, 2025"
   },
   {
     "Issue": "78",
@@ -29250,7 +29250,7 @@
     ],
     "slugifiedTitle": "automating-my-links-list",
     "slugifiedAuthor": "juan-fernandes",
-    "formattedDate": "2025-08-20T16:53:17.000"
+    "formattedDate": "Aug 20, 2025"
   },
   {
     "Issue": "78",
@@ -29286,7 +29286,7 @@
     ],
     "slugifiedTitle": "ghost-vs-substack-eleventy-vs-wordpress-my-experiences",
     "slugifiedAuthor": "richard-macmanus",
-    "formattedDate": "2025-08-21T08:40:51.000"
+    "formattedDate": "Aug 21, 2025"
   },
   {
     "Issue": "78",
@@ -29303,7 +29303,7 @@
     ],
     "slugifiedTitle": "troubleshooting-eleventy-long-build-time",
     "slugifiedAuthor": "clayton-errington",
-    "formattedDate": "2025-08-22T16:58:16.000"
+    "formattedDate": "Aug 22, 2025"
   },
   {
     "Issue": "78",
@@ -29321,7 +29321,7 @@
     ],
     "slugifiedTitle": "how-i-fixed-my-blogroll",
     "slugifiedAuthor": "clayton-errington",
-    "formattedDate": "2025-08-22T16:59:46.000"
+    "formattedDate": "Aug 22, 2025"
   },
   {
     "Issue": "78",
@@ -29373,7 +29373,7 @@
     ],
     "slugifiedTitle": "og-images-using-11ty-screenshot-service",
     "slugifiedAuthor": "jason-moser",
-    "formattedDate": "2025-08-23T21:43:58.000"
+    "formattedDate": "Aug 23, 2025"
   },
   {
     "Issue": "78",
@@ -29416,7 +29416,7 @@
     ],
     "slugifiedTitle": "using-obsidian-callouts-with-11ty",
     "slugifiedAuthor": "aninus-partikler",
-    "formattedDate": "2025-08-26T09:41:50.000"
+    "formattedDate": "Aug 26, 2025"
   },
   {
     "Issue": "78",
@@ -29460,7 +29460,7 @@
     ],
     "slugifiedTitle": "eleventy-pagination-with-vento",
     "slugifiedAuthor": "graham-f-scott",
-    "formattedDate": "2025-08-28T22:19:50.000"
+    "formattedDate": "Aug 28, 2025"
   },
   {
     "Issue": "78",
@@ -29506,7 +29506,7 @@
     ],
     "slugifiedTitle": "conditional-favicon-in-eleventy-using-passthrough-copy",
     "slugifiedAuthor": "christopher-kirk-nielsen",
-    "formattedDate": "2025-09-01T09:06:31.000"
+    "formattedDate": "Sep 01, 2025"
   },
   {
     "Issue": "78",
@@ -29524,7 +29524,7 @@
     ],
     "slugifiedTitle": "asset-fingerprinting-and-the-preload-response-header-in-11ty",
     "slugifiedAuthor": "matt-hobbs",
-    "formattedDate": "2025-09-02T16:59:08.000"
+    "formattedDate": "Sep 02, 2025"
   },
   {
     "Issue": "78",
@@ -29542,7 +29542,7 @@
     ],
     "slugifiedTitle": "from-start-to-finish-moving-my-blog-to-eleventy-github-pages",
     "slugifiedAuthor": "kyle-reddoch",
-    "formattedDate": "2025-09-04T12:47:20.000"
+    "formattedDate": "Sep 04, 2025"
   },
   {
     "Issue": "78",
@@ -29567,7 +29567,7 @@
     ],
     "slugifiedTitle": "building-a-multilingual-blog-with-eleventy",
     "slugifiedAuthor": "helen-chong",
-    "formattedDate": "2025-09-05T08:37:41.000"
+    "formattedDate": "Sep 05, 2025"
   },
   {
     "Issue": "78",
@@ -29581,7 +29581,7 @@
     ],
     "slugifiedTitle": "from-dotclear-to-eleventy",
     "slugifiedAuthor": "alix-guillard",
-    "formattedDate": "2025-09-05T08:43:42.000"
+    "formattedDate": "Sep 05, 2025"
   },
   {
     "Issue": "78",
@@ -29643,7 +29643,7 @@
     ],
     "slugifiedTitle": "moving-away-from-nuxt-to-eleventy",
     "slugifiedAuthor": "pariskasid",
-    "formattedDate": "2025-09-08T13:51:23.000"
+    "formattedDate": "Sep 08, 2025"
   },
   {
     "Issue": "78",
@@ -29672,7 +29672,7 @@
     ],
     "slugifiedTitle": "leveraging-eleventys-custom-data-file-format-feature-for-simpler-game-scoring-format",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2025-09-10T10:02:50.000"
+    "formattedDate": "Sep 10, 2025"
   },
   {
     "Issue": "78",
@@ -30205,7 +30205,7 @@
     ],
     "slugifiedTitle": "obsidian-bases-work-great-with-eleventy",
     "slugifiedAuthor": "samjc",
-    "formattedDate": "2025-10-11T08:30:08.000"
+    "formattedDate": "Oct 11, 2025"
   },
   {
     "Issue": "80",
@@ -30221,7 +30221,7 @@
     ],
     "slugifiedTitle": "two-markedit-scripts-that-simplify-my-blogging-workflow",
     "slugifiedAuthor": "ld-stephens",
-    "formattedDate": "2025-10-12T14:50:08.000"
+    "formattedDate": "Oct 12, 2025"
   },
   {
     "Issue": "80",
@@ -30297,7 +30297,7 @@
     ],
     "slugifiedTitle": "the-eleventy-meetup-episode-27",
     "slugifiedAuthor": "helen-chong",
-    "formattedDate": "2025-10-17T09:03:24.000"
+    "formattedDate": "Oct 17, 2025"
   },
   {
     "Issue": "80",
@@ -30347,7 +30347,7 @@
     ],
     "slugifiedTitle": "wrapper-elements-around-code-blocks-in-markdown",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2025-10-20T13:26:00.000"
+    "formattedDate": "Oct 20, 2025"
   },
   {
     "Issue": "80",
@@ -30385,7 +30385,7 @@
     ],
     "slugifiedTitle": "11ty-opengraph-seo",
     "slugifiedAuthor": "equilibriumuk",
-    "formattedDate": "2025-10-26T09:16:45.000"
+    "formattedDate": "Oct 26, 2025"
   },
   {
     "Issue": "80",
@@ -30415,7 +30415,7 @@
     ],
     "slugifiedTitle": "11tycms-the-eleventy-meetup-appearance-metadata-improvements-more-post-and-collection-goodness",
     "slugifiedAuthor": "jessie-heald",
-    "formattedDate": "2025-10-26T16:50:02.000"
+    "formattedDate": "Oct 26, 2025"
   },
   {
     "Issue": "80",
@@ -30431,7 +30431,7 @@
     ],
     "slugifiedTitle": "creating-a-modular-approach-to-json-schema-in-an-eleventy-website",
     "slugifiedAuthor": "simon-cox",
-    "formattedDate": "2025-10-28T11:01:10.000"
+    "formattedDate": "Oct 28, 2025"
   },
   {
     "Issue": "80",
@@ -30487,7 +30487,7 @@
     ],
     "slugifiedTitle": "embedding-mastodon-posts-in-eleventy-my-journey",
     "slugifiedAuthor": "kyle-reddoch",
-    "formattedDate": "2025-10-30T11:17:39.000"
+    "formattedDate": "Oct 30, 2025"
   },
   {
     "Issue": "80",
@@ -30556,7 +30556,7 @@
     ],
     "slugifiedTitle": "how-we-use-github-issues-and-how-thats-changing",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2025-11-03T14:39:49.000"
+    "formattedDate": "Nov 03, 2025"
   },
   {
     "Issue": "80",
@@ -30572,7 +30572,7 @@
     ],
     "slugifiedTitle": "11tycms-major-refactoring-state-management-overhaul-routing-site-history-selection-and-site-dashboard-implementation",
     "slugifiedAuthor": "jessie-heald",
-    "formattedDate": "2025-11-03T16:46:31.000"
+    "formattedDate": "Nov 03, 2025"
   },
   {
     "Issue": "80",
@@ -30595,7 +30595,7 @@
     ],
     "slugifiedTitle": "this-one-goes-to-11ty",
     "slugifiedAuthor": "tim-klapdor",
-    "formattedDate": "2025-11-05T13:23:35.000"
+    "formattedDate": "Nov 05, 2025"
   },
   {
     "Issue": "80",
@@ -30610,7 +30610,7 @@
     ],
     "slugifiedTitle": "reclaim-open-this-one-goes-to-11ty",
     "slugifiedAuthor": "tim-klapdor",
-    "formattedDate": "2025-11-05T13:43:17.000"
+    "formattedDate": "Nov 05, 2025"
   },
   {
     "Issue": "80",
@@ -30649,7 +30649,7 @@
     ],
     "slugifiedTitle": "mastering-eleventy-display-all-blog-posts-from-a-category-on-a-single-page",
     "slugifiedAuthor": "gregory-hammond",
-    "formattedDate": "2025-11-09T13:55:39.000"
+    "formattedDate": "Nov 09, 2025"
   },
   {
     "Issue": "80",
@@ -30672,7 +30672,7 @@
     ],
     "slugifiedTitle": "making-a-free-image-gallery-with-11ty-and-neocitiesorg",
     "slugifiedAuthor": "stefan-bohacek",
-    "formattedDate": "2025-11-10T09:52:26.000"
+    "formattedDate": "Nov 10, 2025"
   },
   {
     "Issue": "80",
@@ -30687,7 +30687,7 @@
     ],
     "slugifiedTitle": "let-it-snow-adding-a-falling-snow-effect-to-your-eleventy-website",
     "slugifiedAuthor": "nathan-upchurch",
-    "formattedDate": "2025-11-10T21:14:14.000"
+    "formattedDate": "Nov 10, 2025"
   },
   {
     "Issue": "81",
@@ -30736,7 +30736,7 @@
     ],
     "slugifiedTitle": "using-esbuild-in-eleventy",
     "slugifiedAuthor": "dan-cătălin-burzo",
-    "formattedDate": "2025-11-19T14:59:18.000"
+    "formattedDate": "Nov 19, 2025"
   },
   {
     "Issue": "81",
@@ -30765,7 +30765,7 @@
     ],
     "slugifiedTitle": "deploying-an-eleventy-site-to-xmit-using-github-actions",
     "slugifiedAuthor": "adam-dj-brett",
-    "formattedDate": "2025-11-20T10:05:37.000"
+    "formattedDate": "Nov 20, 2025"
   },
   {
     "Issue": "81",
@@ -30781,7 +30781,7 @@
     ],
     "slugifiedTitle": "xmit-redirects-and-11ty",
     "slugifiedAuthor": "adam-dj-brett",
-    "formattedDate": "2025-11-22T14:25:59.000"
+    "formattedDate": "Nov 22, 2025"
   },
   {
     "Issue": "81",
@@ -30803,7 +30803,7 @@
     ],
     "slugifiedTitle": "migrating-from-wordpress-to-11ty-eleventy",
     "slugifiedAuthor": "alfred-reinold-baudisch",
-    "formattedDate": "2025-11-22T18:26:00.000"
+    "formattedDate": "Nov 22, 2025"
   },
   {
     "Issue": "81",
@@ -30820,7 +30820,7 @@
     ],
     "slugifiedTitle": "my-new-on-demand-image-resizing-pipeline-for-eleventy",
     "slugifiedAuthor": "martin-hähnel",
-    "formattedDate": "2025-11-23T17:45:31.000"
+    "formattedDate": "Nov 23, 2025"
   },
   {
     "Issue": "81",
@@ -30858,7 +30858,7 @@
     ],
     "slugifiedTitle": "eleventy-11ty-string-based-translation-with-i18next",
     "slugifiedAuthor": "andrew-ward",
-    "formattedDate": "2025-11-25T15:30:56.000"
+    "formattedDate": "Nov 25, 2025"
   },
   {
     "Issue": "81",
@@ -30875,7 +30875,7 @@
     ],
     "slugifiedTitle": "11tycms-major-accessibility-improvements-css-and-editor-tweaks-a-new-welcome-wizard-and-better-site-support",
     "slugifiedAuthor": "jessie-heald",
-    "formattedDate": "2025-11-26T12:15:59.000"
+    "formattedDate": "Nov 26, 2025"
   },
   {
     "Issue": "81",
@@ -30891,7 +30891,7 @@
     ],
     "slugifiedTitle": "using-javascript-and-eleventy-to-display-headlines-from-multiple-rss-feeds",
     "slugifiedAuthor": "gregory-hammond",
-    "formattedDate": "2025-11-27T10:06:34.000"
+    "formattedDate": "Nov 27, 2025"
   },
   {
     "Issue": "81",
@@ -30906,7 +30906,7 @@
     ],
     "slugifiedTitle": "eleventy-how-to-set-up-effective-html-minification-in-24-seconds",
     "slugifiedAuthor": "jens-oliver-meiert",
-    "formattedDate": "2025-11-28T10:08:36.000"
+    "formattedDate": "Nov 28, 2025"
   },
   {
     "Issue": "81",
@@ -30943,7 +30943,7 @@
     ],
     "slugifiedTitle": "i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions",
     "slugifiedAuthor": "juha-matti-santala",
-    "formattedDate": "2025-12-02T10:05:09.000"
+    "formattedDate": "Dec 02, 2025"
   },
   {
     "Issue": "81",
@@ -30988,7 +30988,7 @@
     ],
     "slugifiedTitle": "building-a-lightweight-optimizely-saas-cms-solution-with-11ty",
     "slugifiedAuthor": "minesh-shah",
-    "formattedDate": "2025-12-04T10:05:09.000"
+    "formattedDate": "Dec 04, 2025"
   },
   {
     "Issue": "81",
@@ -31003,7 +31003,7 @@
     ],
     "slugifiedTitle": "securely-publishing-our-packages-to-npm",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2025-12-04T16:57:57.000"
+    "formattedDate": "Dec 04, 2025"
   },
   {
     "Issue": "81",
@@ -31062,7 +31062,7 @@
     ],
     "slugifiedTitle": "eleventy-todays-date-as-a-global-variable",
     "slugifiedAuthor": "rob-oleary",
-    "formattedDate": "2025-12-08T10:43:36.000"
+    "formattedDate": "Dec 08, 2025"
   },
   {
     "Issue": "81",
@@ -31114,7 +31114,7 @@
     ],
     "slugifiedTitle": "cooling-down-the-servers-by-adding-a-little-snow",
     "slugifiedAuthor": "kyle-reddoch",
-    "formattedDate": "2025-12-10T12:40:55.000"
+    "formattedDate": "Dec 10, 2025"
   },
   {
     "Issue": "81",
@@ -31180,7 +31180,7 @@
     ],
     "slugifiedTitle": "eleventy-core-dependency-watch-2025-edition",
     "slugifiedAuthor": "zach-leatherman",
-    "formattedDate": "2025-12-12T10:23:58.000"
+    "formattedDate": "Dec 12, 2025"
   },
   {
     "Issue": "82",
@@ -31198,7 +31198,7 @@
     ],
     "slugifiedTitle": "how-i-fixed-an-11ty-performance-error-that-caused-my-build-time-to-be-seven-minutes",
     "slugifiedAuthor": "adam-dj-brett",
-    "formattedDate": "2025-12-15T21:10:36.000"
+    "formattedDate": "Dec 15, 2025"
   },
   {
     "Issue": "82",
@@ -31213,7 +31213,7 @@
     ],
     "slugifiedTitle": "announcing-a-new-11ty-shortlink-and-qr-code-generator-purlim",
     "slugifiedAuthor": "adam-dj-brett",
-    "formattedDate": "2025-12-15T21:13:16.000"
+    "formattedDate": "Dec 15, 2025"
   },
   {
     "Issue": "82",
@@ -31228,7 +31228,7 @@
     ],
     "slugifiedTitle": "sunsets-eleventy-plugin-img2picture",
     "slugifiedAuthor": "saneef-h-ansari",
-    "formattedDate": "2025-12-16T10:08:28.000"
+    "formattedDate": "Dec 16, 2025"
   },
   {
     "Issue": "82",
