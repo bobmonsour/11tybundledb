@@ -26422,5 +26422,26 @@
       "Deployment",
       "How to..."
     ]
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "vrugtehagel",
+    "Link": "https://vrugtehagel.nl/",
+    "Date": "2025-12-22T18:34:56.000"
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Notion meets Eleventy",
+    "Link": "https://vrugtehagel.nl/essays/notion-meets-eleventy/",
+    "Date": "2025-12-12",
+    "Author": "vrugtehagel",
+    "Categories": [
+      "CMS",
+      "Configuration",
+      "How to...",
+      "Notion"
+    ]
   }
 ]
