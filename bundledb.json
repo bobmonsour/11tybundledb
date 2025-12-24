@@ -31300,5 +31300,33 @@
     "slugifiedTitle": "notion-meets-eleventy",
     "slugifiedAuthor": "vrugtehagel",
     "formattedDate": "Dec 12, 2025"
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Get a local 11ty project on GitHub without the command line",
+    "Link": "https://ldstephens.net/blog/get-a-local-11ty-project-on-github-without-the-command-line/",
+    "Date": "2025-12-23",
+    "Author": "LD Stephens",
+    "slugifiedTitle": "get-a-local-11ty-project-on-git-hub-without-the-command-line",
+    "slugifiedAuthor": "ld-stephens",
+    "formattedDate": "Dec 23, 2025",
+    "Categories": [
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "vanessasickles.dev",
+    "Link": "https://vanessasickles.dev/",
+    "Date": "2025-12-24T09:50:23.000"
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "Dmitrijs Golubevs",
+    "Link": "https://lastguru.lv/",
+    "Date": "2025-12-24T09:51:31.000"
   }
 ]
