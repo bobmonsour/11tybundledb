@@ -47020,14 +47020,14 @@
     "Link": "https://berryhouse.ca/blog/fixing-tags-categories-feed/",
     "Date": "2025-08-19",
     "Author": "Brennan Kenneth Brown",
-    "AuthorSite": "https://berryhouse.ca",
-    "AuthorSiteDescription": "Hi. We&#39;re here to help you create and share meaningful work and art with the world. Whether you&#39;re looking to amplify your writing or build an independent website, we&#39;re here to help.",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
     "Categories": ["Debugging", "RSS"],
     "slugifiedTitle": "fixing-tags-categories-and-rss-in-our-eleventy-blog",
     "slugifiedAuthor": "brennan-kenneth-brown",
     "formattedDate": "Aug 19, 2025",
     "description": "A quick write-up covering three issues—/tags 404s, empty /categories, and a 404 /feed.xml—and how we resolved them with Eleventy collections and a small filter.",
-    "rssLink": "https://berryhouse.ca/feed.xml",
+    "rssLink": "https://brennan.day/feed.xml",
     "socialLinks": {
       "mastodon": "",
       "bluesky": "",
@@ -47035,7 +47035,7 @@
       "github": "https://github.com/brennanbrown",
       "linkedin": "https://www.linkedin.com/company/berryhouse-agency"
     },
-    "favicon": "/img/favicons/berryhouse-ca-favicon.png"
+    "favicon": "/img/favicons/brennan-day-favicon.png"
   },
   {
     "Issue": "80",
@@ -47044,14 +47044,14 @@
     "Link": "https://berryhouse.ca/blog/building-the-template-postmortem/",
     "Date": "2025-08-18",
     "Author": "Brennan Kenneth Brown",
-    "AuthorSite": "https://berryhouse.ca",
-    "AuthorSiteDescription": "Hi. We&#39;re here to help you create and share meaningful work and art with the world. Whether you&#39;re looking to amplify your writing or build an independent website, we&#39;re here to help.",
+    "AuthorSite": "https://brennan.day/",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
     "Categories": ["Accessibility", "Blogging", "Debugging"],
     "slugifiedTitle": "building-the-indieweb-blog-template-a-technical-postmortem",
     "slugifiedAuthor": "brennan-kenneth-brown",
     "formattedDate": "Aug 18, 2025",
     "description": "A deep-dive into making a production-ready Eleventy blog template with robust E2E tests, accessibility, and clean UI patterns.",
-    "rssLink": "https://berryhouse.ca/feed.xml",
+    "rssLink": "https://brennan.day/feed.xml",
     "socialLinks": {
       "mastodon": "",
       "bluesky": "",
@@ -47059,7 +47059,7 @@
       "github": "https://github.com/brennanbrown",
       "linkedin": "https://www.linkedin.com/company/berryhouse-agency"
     },
-    "favicon": "/img/favicons/berryhouse-ca-favicon.png"
+    "favicon": "/img/favicons/brennan-day-favicon.png"
   },
   {
     "Issue": "80",
@@ -48246,5 +48246,29 @@
     "Date": "2025-12-11",
     "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML. - Release Pre-release: Eleventy v4.0.0-alpha.6 · 11ty/eleventy",
     "formattedDate": "Dec 11, 2025"
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Building brennan.day Part One: Design, Rainbows, and Accessibility",
+    "Link": "https://brennan.day/building-brennan-day-part-one-design-rainbows-and-accessibility/",
+    "Date": "2025-12-29T13:02:54.000",
+    "description": "A dive into how this site is built, why it exists, and the philosophy behind owning your corner of the web.",
+    "Author": "Brennan Kenneth Brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "Categories": ["Accessibility", "Blogging", "CSS/Sass", "Configuration"],
+    "slugifiedTitle": "building-brennan-day-part-one-design-rainbows-and-accessibility",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "formattedDate": "Dec 29, 2025",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day/feed.xml"
   }
 ]
