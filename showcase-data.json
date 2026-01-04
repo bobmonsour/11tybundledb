@@ -750,15 +750,6 @@
     "screenshotpath": "/screenshots/www-craigabbott-co-uk-large.jpg"
   },
   {
-    "title": "Inclusive Design 24 (#id24) 25 September 2025",
-    "description": "",
-    "link": "https://inclusivedesign24.org/2025/",
-    "date": "2025-08-08",
-    "formattedDate": "Aug 8, 2025",
-    "favicon": "/img/favicons/inclusivedesign24-org-favicon.png",
-    "screenshotpath": "/screenshots/inclusivedesign24-org-large.jpg"
-  },
-  {
     "title": "Les activités de Nicolas Hoizey",
     "description": "Bienvenue sur ce site qui présente mes activités sportives.",
     "link": "https://activites.nicolas-hoizey.com/",
@@ -805,16 +796,6 @@
     "formattedDate": "Jul 29, 2025",
     "favicon": "/img/favicons/webnami-in-favicon.png",
     "screenshotpath": "/screenshots/webnami-in-large.jpg"
-  },
-  {
-    "title": "Beer Fridge",
-    "description": "Hell yeah I love beer.",
-    "link": "https://flamedfury.com/beerfridge/",
-    "date": "2025-07-25",
-    "formattedDate": "Jul 24, 2025",
-    "favicon": "/img/favicons/flamedfury-com-favicon.png",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/flamedfury-com",
-    "screenshotpath": "/screenshots/flamedfury-com-large.jpg"
   },
   {
     "title": "OptiFolio",
@@ -2486,15 +2467,6 @@
     "screenshotpath": "/screenshots/henry-codes-large.jpg"
   },
   {
-    "title": "damien's zone",
-    "description": "french software engineer living and working in the Bay Area on web stuff",
-    "link": "https://damien.zone/",
-    "date": "2025-01-07",
-    "formattedDate": "Jan 6, 2025",
-    "favicon": "",
-    "screenshotpath": "/screenshots/damien-zone-large.jpg"
-  },
-  {
     "title": "eleventy-plugin-podcaster",
     "description": "Documentation website for eleventy-plugin-podcaster.",
     "link": "https://eleventy-plugin-podcaster.com/",
@@ -3213,15 +3185,6 @@
     "screenshotpath": "/screenshots/prairierosearena-com-large.jpg"
   },
   {
-    "title": "eblu",
-    "description": "",
-    "link": "https://eblu.space/",
-    "date": "2024-10-15",
-    "formattedDate": "Oct 14, 2024",
-    "favicon": "",
-    "screenshotpath": "/screenshots/eblu-space-large.jpg"
-  },
-  {
     "title": "Pagaidu",
     "description": "",
     "link": "https://pagaidu.github.io/",
@@ -3257,15 +3220,6 @@
     "formattedDate": "Oct 14, 2024",
     "favicon": "#icon-globe",
     "screenshotpath": "/screenshots/www-peaceful-social-large.jpg"
-  },
-  {
-    "title": "Galaxy Garden",
-    "description": "Helen Chong&#39;s personal blog.",
-    "link": "https://blog.helenchong.omg.lol/en/",
-    "date": "2024-10-08",
-    "formattedDate": "Oct 8, 2024",
-    "favicon": "/img/favicons/blog-helenchong-omg-lol-favicon.png",
-    "screenshotpath": "/screenshots/blog-helenchong-omg-lol-large.jpg"
   },
   {
     "title": "branden higby",
@@ -3378,15 +3332,6 @@
     "formattedDate": "Sep 21, 2024",
     "favicon": "#icon-globe",
     "screenshotpath": "/screenshots/gaurav-singh-info-large.jpg"
-  },
-  {
-    "title": "Evans Theatre",
-    "description": "Brandon&#39;s Indiest Indie Cinema",
-    "link": "https://evanstheatre.ca/",
-    "date": "2024-09-13",
-    "formattedDate": "Sep 12, 2024",
-    "favicon": "",
-    "screenshotpath": "/screenshots/evanstheatre-ca-large.jpg"
   },
   {
     "title": "tabulate",
@@ -3911,16 +3856,6 @@
     "formattedDate": "Jul 1, 2024",
     "favicon": "/img/favicons/gkeenan-co-favicon.png",
     "screenshotpath": "/screenshots/gkeenan-co-large.jpg"
-  },
-  {
-    "title": "Raphaëlle Kerbrat",
-    "description": "Discover the website of artist and researcher Raphaëlle Kerbrat, whose work dialog between art, science and technology. Her installations aim to make the imperceptible visible, revealing the materiality of the digital in a sensitive and poetic way. The artifacts she develops raise the paradox of dig",
-    "link": "https://raphaellekerbrat.com/en/",
-    "date": "2024-07-02",
-    "formattedDate": "Jul 1, 2024",
-    "favicon": "",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/raphaellekerbrat-com",
-    "screenshotpath": "/screenshots/raphaellekerbrat-com-large.jpg"
   },
   {
     "title": "Aram Zucker-Scharff",
@@ -4927,15 +4862,6 @@
     "screenshotpath": "/screenshots/antithesis-com-large.jpg"
   },
   {
-    "title": "C^2",
-    "description": "Fullstack Web Developer. Sitting on an idea? Reach out and let&#39;s bring it to life!",
-    "link": "https://www.conor.zone/en/",
-    "date": "2024-04-09",
-    "formattedDate": "Apr 8, 2024",
-    "favicon": "",
-    "screenshotpath": "/screenshots/www-conor-zone-large.jpg"
-  },
-  {
     "title": "UX for Good",
     "description": "Saving the World. By Design. UX for Good uses design to tackle society’s greatest challenges and to make tangible, positive impacts on people’s lives.",
     "link": "https://www.uxforgood.org/",
@@ -5001,16 +4927,6 @@
     "formattedDate": "Mar 25, 2024",
     "favicon": "/img/favicons/www-markdcooper-com-favicon.jpg",
     "screenshotpath": "/screenshots/www-markdcooper-com-large.jpg"
-  },
-  {
-    "title": "Maximilian Boll",
-    "description": "Maximilian Boll - Frontend Web-Developer in Mainz/Germany - makkusu.dev",
-    "link": "https://makkusu.dev/",
-    "date": "2024-03-21",
-    "formattedDate": "Mar 21, 2024",
-    "favicon": "/img/favicons/makkusu-dev-favicon.png",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/makkusu-dev",
-    "screenshotpath": "/screenshots/makkusu-dev-large.jpg"
   },
   {
     "title": "Nathaniel Daught, Visual Artist & Designer",
@@ -6617,16 +6533,6 @@
     "screenshotpath": "/screenshots/samsmith-name-large.jpg"
   },
   {
-    "title": "Andreia Ramos",
-    "description": "Andreia Ramos. Psicóloga clínica em Viana do Castelo e Ponte de Lima. Consultas de psicologia online e presenciais. Marque a sua primeira consulta hoje",
-    "link": "https://andreiaramos.pt/",
-    "date": "2023-07-06",
-    "formattedDate": "Jul 5, 2023",
-    "favicon": "/img/favicons/andreiaramos-pt-favicon.png",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/andreiaramos-pt",
-    "screenshotpath": "/screenshots/andreiaramos-pt-large.jpg"
-  },
-  {
     "title": "TC39",
     "description": "",
     "link": "https://tc39.es/",
@@ -6664,16 +6570,6 @@
     "favicon": "/img/favicons/cmx-media-favicon.png",
     "leaderboardLink": "https://www.11ty.dev/speedlify/cmx-media",
     "screenshotpath": "/screenshots/cmx-media-large.jpg"
-  },
-  {
-    "title": "wilks.co",
-    "description": "Tom Wilks is a remote web developer and Drupal specialist based in the UK.",
-    "link": "https://wilks.co/",
-    "date": "2023-06-20",
-    "formattedDate": "Jun 19, 2023",
-    "favicon": "",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/wilks-co",
-    "screenshotpath": "/screenshots/wilks-co-large.jpg"
   },
   {
     "title": "Shoelace",
@@ -7066,15 +6962,6 @@
     "screenshotpath": "/screenshots/sombriks-com-br-large.jpg"
   },
   {
-    "title": "Vermont Beer Trail",
-    "description": "A Comprehensive Mobile Reference and Directory of Vermont&#39;s Brewers and Their Communities",
-    "link": "https://www.vtbeertrail.com/",
-    "date": "2023-04-11",
-    "formattedDate": "Apr 10, 2023",
-    "favicon": "/img/favicons/www-vtbeertrail-com-favicon.png",
-    "screenshotpath": "/screenshots/www-vtbeertrail-com-large.jpg"
-  },
-  {
     "title": "Vermont Cheese Makers",
     "description": "A Comprehensive Mobile Reference of Vermont&#39;s Cheese Makers and Their Communities",
     "link": "https://vermontcheesetrail.com/",
@@ -7308,15 +7195,6 @@
     "favicon": "#icon-globe",
     "leaderboardLink": "https://www.11ty.dev/speedlify/mithril-by-examples-js-org",
     "screenshotpath": "/screenshots/mithril-by-examples-js-org-large.jpg"
-  },
-  {
-    "title": "Jérôme Stephan - Home",
-    "description": "Jérôme Stephan is a programmer and artist based in and around Berlin, Germany. Keen on using every opportunity to learn more.",
-    "link": "https://jeromestephan.de/sites/Home/",
-    "date": "2023-03-24",
-    "formattedDate": "Mar 24, 2023",
-    "favicon": "/img/favicons/jeromestephan-de-favicon.png",
-    "screenshotpath": "/screenshots/jeromestephan-de-large.jpg"
   },
   {
     "title": "Santa Barbara Web Development | Fat Kitten DevAstroEleventyJavaScriptAirtableZapierNode.jsQuickBooks",
@@ -7971,15 +7849,6 @@
     "favicon": "/img/favicons/cfp-watch-favicon.png",
     "leaderboardLink": "https://www.11ty.dev/speedlify/cfp-watch",
     "screenshotpath": "/screenshots/cfp-watch-large.jpg"
-  },
-  {
-    "title": "Inclusive Design 24 (#id24) 21 September 2023",
-    "description": "",
-    "link": "https://inclusivedesign24.org/2023/",
-    "date": "2022-12-30",
-    "formattedDate": "Dec 30, 2022",
-    "favicon": "/img/favicons/inclusivedesign24-org-favicon.png",
-    "screenshotpath": "/screenshots/inclusivedesign24-org-large.jpg"
   },
   {
     "title": "Home",
@@ -9007,15 +8876,6 @@
     "screenshotpath": "/screenshots/cg21-in-large.jpg"
   },
   {
-    "title": "simpleERB - Blog – simpleERB BlogsimpleERB.comFacebookTwittersimpleERB.com",
-    "description": "Thoughts, stories and ideas.",
-    "link": "https://www.simpleerb.com/blog/",
-    "date": "2022-06-14",
-    "formattedDate": "Jun 14, 2022",
-    "favicon": "/img/favicons/www-simpleerb-com-favicon.png",
-    "screenshotpath": "/screenshots/www-simpleerb-com-large.jpg"
-  },
-  {
     "title": "The Art of Music",
     "description": "The Art of Music is a small vocal ensemble based in Luxembourg, specialising particularly in the performance of music from the Renaissance.",
     "link": "https://www.artofmusic.lu/en/",
@@ -9089,15 +8949,6 @@
     "favicon": "/img/favicons/massaintremy-com-favicon.png",
     "leaderboardLink": "https://www.11ty.dev/speedlify/massaintremy-com",
     "screenshotpath": "/screenshots/massaintremy-com-large.jpg"
-  },
-  {
-    "title": "Progression: Helping teams to grow, together",
-    "description": "Helping teams to grow, together",
-    "link": "https://progressionapp.com/blog/",
-    "date": "2022-06-14",
-    "formattedDate": "Jun 14, 2022",
-    "favicon": "/img/favicons/progressionapp-com-favicon.png",
-    "screenshotpath": "/screenshots/progressionapp-com-large.jpg"
   },
   {
     "title": "Ingo Sobolewski | web-engineering",
@@ -9515,15 +9366,6 @@
     "screenshotpath": "/screenshots/www-kiwisat-org-nz-large.jpg"
   },
   {
-    "title": "Collected Notes",
-    "description": "",
-    "link": "https://distantcam.github.io/co11ection/",
-    "date": "2022-03-29",
-    "formattedDate": "Mar 29, 2022",
-    "favicon": "/img/favicons/distantcam-github-io-favicon.jpg",
-    "screenshotpath": "/screenshots/distantcam-github-io-large.jpg"
-  },
-  {
     "title": "Fausto Bellino Tasca | Home",
     "description": "Fausto Tasca, academically trained at one of Europe’s finest art schools, is a noteworthy but sometimes overlooked artist of early twentieth century California.",
     "link": "https://www.faustotasca.com/",
@@ -9569,15 +9411,6 @@
     "formattedDate": "Mar 29, 2022",
     "favicon": "#icon-globe",
     "screenshotpath": "/screenshots/www-mathew-paul-nz-large.jpg"
-  },
-  {
-    "title": "windty 🌬️GitHub icon",
-    "description": "Windty is a basic template using 11ty and Tailwind, and deploys to github pages.",
-    "link": "https://distantcam.github.io/windty/",
-    "date": "2022-03-29",
-    "formattedDate": "Mar 29, 2022",
-    "favicon": "/img/favicons/distantcam-github-io-favicon.jpg",
-    "screenshotpath": "/screenshots/distantcam-github-io-large.jpg"
   },
   {
     "title": "Cam MacFarland",
@@ -12048,16 +11881,6 @@
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-stjaer-net-favicon.png",
     "screenshotpath": "/screenshots/www-stjaer-net-large.jpg"
-  },
-  {
-    "title": "https://maprunner.co.uk/hertsway/",
-    "description": "",
-    "link": "https://maprunner.co.uk/hertsway/",
-    "date": "2022-03-21",
-    "formattedDate": "Mar 21, 2022",
-    "favicon": "/img/favicons/maprunner-co-uk-favicon.png",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/maprunner-co-uk",
-    "screenshotpath": "/screenshots/maprunner-co-uk-large.jpg"
   },
   {
     "title": "Clio + Calliope App DevelopmentClio + Calliope",
