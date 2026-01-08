@@ -53029,5 +53029,115 @@
     "Date": "2026-01-07T13:44:30.000",
     "formattedDate": "Jan 7, 2026",
     "favicon": "/img/favicons/calgarygroups-ca-favicon.png"
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Deploying An Eleventy Site to NeoCities with GitLab CI/CD",
+    "slugifiedTitle": "deploying-an-eleventy-site-to-neo-cities-with-git-lab-ci-cd",
+    "Link": "https://brennan.day/deploying-an-eleventy-site-to-neocities-with-gitlab-ci-cd/",
+    "Date": "2026-01-01",
+    "formattedDate": "Jan 1, 2026",
+    "description": "A guide to automatically deploying your Eleventy static site to NeoCities using GitLab CI/CD, including authentication, error handling, and optimizations.",
+    "Author": "Brennan Kenneth Brown",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day//feed.xml",
+    "Categories": [
+      "Debugging",
+      "Deployment",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "What’s new in Podcaster version 2",
+    "slugifiedTitle": "whats-new-in-podcaster-version-2",
+    "Link": "https://eleventy-plugin-podcaster.com/2026/01/whats-new-in-version-2/",
+    "Date": "2026-01-08T10:53:49.000",
+    "formattedDate": "Jan 8, 2026",
+    "description": "Documentation website for eleventy-plugin-podcaster.",
+    "Author": "Nathan Bottomley",
+    "slugifiedAuthor": "nathan-bottomley",
+    "AuthorSite": "https://gunsandfrocks.com/",
+    "AuthorSiteDescription": "I’m Nathan Bottomley, and the website Guns and Frocks hosts or links to pretty much everything that I write for the web. ",
+    "socialLinks": {
+      "mastodon": "https://aus.social/@nathanbottomley",
+      "bluesky": "https://bsky.app/profile/nathanbottomley.com",
+      "youtube": "",
+      "github": "https://github.com/nathan-bottomley",
+      "linkedin": ""
+    },
+    "favicon": "#icon-person-circle",
+    "rssLink": "https://gunsandfrocks.com/feed.xml",
+    "Categories": [
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Building an IndieAuth Comment System for Your Static Site",
+    "slugifiedTitle": "building-an-indie-auth-comment-system-for-your-static-site",
+    "Link": "https://brennan.day/building-an-indieauth-comment-system-for-your-static-site/",
+    "Date": "2026-01-06",
+    "formattedDate": "Jan 6, 2026",
+    "description": "A journey through authentication, CORS issues, and the joy of owning your comments! Learn how to build a comment system for your static site using IndieAuth and Netlify Functions, storing the comments in your git repository.",
+    "Author": "Brennan Kenneth Brown",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day//feed.xml",
+    "Categories": [
+      "Dates",
+      "How to...",
+      "Netlify"
+    ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Adding Hardcover.app Data to Eleventy",
+    "slugifiedTitle": "adding-hardcover-app-data-to-eleventy",
+    "Link": "https://www.raymondcamden.com/2026/01/07/adding-hardcoverapp-data-to-eleventy",
+    "Date": "2026-01-07",
+    "formattedDate": "Jan 7, 2026",
+    "description": "Using Hardcover.app books in your Eleventy site",
+    "Author": "Raymond Camden",
+    "slugifiedAuthor": "raymond-camden",
+    "AuthorSite": "https://www.raymondcamden.com",
+    "AuthorSiteDescription": "Father, husband, developer relations and web standards expert, and cat demo builder.",
+    "socialLinks": {
+      "mastodon": "https://medium.com/@cfjedimaster",
+      "bluesky": "",
+      "youtube": "https://youtube.com/user/theraymondcamden",
+      "github": "https://github.com/cfjedimaster",
+      "linkedin": "https://linkedin.com/in/raymondcamden"
+    },
+    "favicon": "/img/favicons/www-raymondcamden-com-favicon.png",
+    "rssLink": "https://www.raymondcamden.com/feed.xml",
+    "Categories": [
+      "Books Pages",
+      "How to...",
+      "Remote Data"
+    ]
   }
 ]
