@@ -1,5 +1,14 @@
 [
   {
+    "title": "Calgary Groups",
+    "description": "A centralized, searchable directory to help Calgarians find grassroots organizations, clubs, activist groups, and community initiatives.",
+    "link": "https://calgarygroups.ca/",
+    "date": "2026-01-07T13:44:30.000",
+    "formattedDate": "Jan 7, 2026",
+    "favicon": "/img/favicons/calgarygroups-ca-favicon.png",
+    "screenshotpath": "/screenshots/calgarygroups-ca-large.jpg"
+  },
+  {
     "title": "Jason Reed",
     "description": "Personal page of Jason Reed Software Developer",
     "link": "https://jrsofty1.stinkbugonline.com/",
