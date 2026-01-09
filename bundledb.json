@@ -53159,5 +53159,15 @@
     "Date": "2026-01-08T22:02:33.000",
     "formattedDate": "Jan 8, 2026",
     "favicon": "/img/favicons/bruchbuehne-de-favicon.png"
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "Guns and Frocks",
+    "description": "",
+    "Link": "https://gunsandfrocks.com/",
+    "Date": "2026-01-08T22:55:35.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "#icon-globe"
   }
 ]
