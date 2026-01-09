@@ -53149,5 +53149,15 @@
     "Date": "2026-01-08T21:38:12.000",
     "formattedDate": "Jan 8, 2026",
     "favicon": "/img/favicons/blog-nicolai-ink-favicon.svg"
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "Bruchbühne Tübingen",
+    "description": "Webseite der Bruchbühne Tübingen",
+    "Link": "https://bruchbuehne.de/",
+    "Date": "2026-01-08T22:02:33.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/bruchbuehne-de-favicon.png"
   }
 ]

@@ -1,5 +1,14 @@
 [
   {
+    "title": "Bruchbühne Tübingen",
+    "description": "Webseite der Bruchbühne Tübingen",
+    "link": "https://bruchbuehne.de/",
+    "date": "2026-01-08T22:02:33.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/bruchbuehne-de-favicon.png",
+    "screenshotpath": "/screenshots/bruchbuehne-de-large.jpg"
+  },
+  {
     "title": "Nicolai's Blog",
     "description": "Nicolai&#39;s digital garden: Posts, stories, and whatever else comes to mind.",
     "link": "https://blog.nicolai.ink/",
