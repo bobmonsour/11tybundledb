@@ -53169,5 +53169,60 @@
     "Date": "2026-01-08T22:55:35.000",
     "formattedDate": "Jan 8, 2026",
     "favicon": "#icon-globe"
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Quick Start: Eleventy Shortcodes for Responsive Images & Inline SVG",
+    "slugifiedTitle": "quick-start-eleventy-shortcodes-for-responsive-images-and-inline-svg",
+    "Link": "https://quesby.dev/blog/eleventy-responsive-images-and-inline-svg/",
+    "Date": "2025-09-12",
+    "formattedDate": "Sep 12, 2025",
+    "description": "Quick start to production-ready Eleventy shortcodes: responsive images with @11ty/eleventy-img and inline SVG helpers you can copy-paste and use immediately.",
+    "Author": "Emiliano Soravia",
+    "slugifiedAuthor": "emiliano-soravia",
+    "AuthorSite": "https://emilianosoravia.com/",
+    "AuthorSiteDescription": "Emiliano Soravia is a software engineer living in Austria.",
+    "socialLinks": {
+      "mastodon": "https://mastodon.social/@emilianosoravia",
+      "bluesky": "https://bsky.app/profile/emilianosoravia.bsky.social",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/emilianosoravia-com-favicon.png",
+    "rssLink": "",
+    "Categories": [
+      "Configuration",
+      "Debugging",
+      "Images",
+      "Shortcodes"
+    ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Why Eleventy Still Matters in 2026 (and Why Quesby Builds on It)",
+    "slugifiedTitle": "why-eleventy-still-matters-in-2026-and-why-quesby-builds-on-it",
+    "Link": "https://quesby.dev/blog/why-eleventy-still-matters-in-2026-and-why-quesby-builds-on-it/",
+    "Date": "2025-12-02",
+    "formattedDate": "Dec 2, 2025",
+    "description": "A practical look at Eleventy in 2026 and the reasons Quesby uses it to deliver fast, stable static sites without modern framework overhead.",
+    "Author": "Emiliano Soravia",
+    "slugifiedAuthor": "emiliano-soravia",
+    "AuthorSite": "https://emilianosoravia.com/",
+    "AuthorSiteDescription": "Emiliano Soravia is a software engineer living in Austria.",
+    "socialLinks": {
+      "mastodon": "https://mastodon.social/@emilianosoravia",
+      "bluesky": "https://bsky.app/profile/emilianosoravia.bsky.social",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/emilianosoravia-com-favicon.png",
+    "rssLink": "",
+    "Categories": [
+      "Why Eleventy?"
+    ]
   }
 ]
