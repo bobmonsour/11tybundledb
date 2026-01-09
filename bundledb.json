@@ -53224,5 +53224,31 @@
     "Categories": [
       "Why Eleventy?"
     ]
+  },
+  {
+    "Issue": "82",
+    "Type": "blog post",
+    "Title": "Eleventy, 2025 in Review",
+    "slugifiedTitle": "eleventy-2025-in-review",
+    "Link": "https://www.11ty.dev/blog/review-2025/",
+    "Date": "2026-01-05",
+    "formattedDate": "Jan 5, 2026",
+    "description": "Eleventy, 2025 in Review — Eleventy",
+    "Author": "Zach Leatherman",
+    "slugifiedAuthor": "zach-leatherman",
+    "AuthorSite": "https://www.zachleat.com/",
+    "AuthorSiteDescription": "A post by Zach Leatherman (zachleat)",
+    "socialLinks": {
+      "mastodon": "https://zachleat.com/@zachleat",
+      "bluesky": "https://bsky.app/profile/zachleat.com",
+      "youtube": "https://www.youtube.com/channel/UCMlSs0Ltg57qpYdFwUVLR2A",
+      "github": "https://github.com/zachleat",
+      "linkedin": "https://www.linkedin.com/in/zachleat/"
+    },
+    "favicon": "/img/favicons/www-zachleat-com-favicon.jpg",
+    "rssLink": "https://www.zachleat.com/follow/",
+    "Categories": [
+      "From the Source"
+    ]
   }
 ]
