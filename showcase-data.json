@@ -1,5 +1,14 @@
 [
   {
+    "title": "Nicolai's Blog",
+    "description": "Nicolai&#39;s digital garden: Posts, stories, and whatever else comes to mind.",
+    "link": "https://blog.nicolai.ink/",
+    "date": "2026-01-08T21:38:12.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/blog-nicolai-ink-favicon.svg",
+    "screenshotpath": "/screenshots/blog-nicolai-ink-large.jpg"
+  },
+  {
     "title": "Calgary Groups",
     "description": "A centralized, searchable directory to help Calgarians find grassroots organizations, clubs, activist groups, and community initiatives.",
     "link": "https://calgarygroups.ca/",

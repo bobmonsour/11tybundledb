@@ -1154,7 +1154,7 @@
     "rssLink": "https://www.markllobrera.com/feed/feed.xml",
     "Categories": [
       "Images",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -8240,7 +8240,7 @@
     "Categories": [
       "How to...",
       "CMS",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -16344,7 +16344,7 @@
       "How to...",
       "Plugins",
       "Configuration",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -16836,7 +16836,7 @@
       "Images",
       "How to...",
       "Remote Data",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -21178,7 +21178,7 @@
       "How to...",
       "Images",
       "Navigation",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -24569,7 +24569,7 @@
       "How to...",
       "Images",
       "Layouts",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -32739,7 +32739,7 @@
     "Categories": [
       "How to...",
       "Images",
-      "Image Galleries",
+      "Image Gallery",
       "Markdown",
       "RSS",
       "Upgrading"
@@ -33751,7 +33751,7 @@
     "Categories": [
       "Global Data",
       "How to...",
-      "Image Galleries",
+      "Image Gallery",
       "Images",
       "Pagination",
       "Remote Data"
@@ -38615,7 +38615,7 @@
     "Categories": [
       "Collections",
       "Filters",
-      "Image Galleries",
+      "Image Gallery",
       "Layouts",
       "Pagination"
     ]
@@ -40223,7 +40223,7 @@
       "Accessibility",
       "Global Data",
       "How to...",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -46433,7 +46433,7 @@
     "Categories": [
       "Configuration",
       "How to...",
-      "Image Galleries",
+      "Image Gallery",
       "Images",
       "Shortcodes"
     ]
@@ -46463,7 +46463,7 @@
     "Categories": [
       "Configuration",
       "How to...",
-      "Image Galleries",
+      "Image Gallery",
       "Images",
       "Shortcodes"
     ]
@@ -50882,7 +50882,7 @@
       "CSS/Sass",
       "Data Cascade",
       "Global Data",
-      "Image Galleries",
+      "Image Gallery",
       "Pagination",
       "Shortcodes"
     ]
@@ -51893,7 +51893,7 @@
     "Categories": [
       "Deployment",
       "How to...",
-      "Image Galleries"
+      "Image Gallery"
     ]
   },
   {
@@ -53139,5 +53139,15 @@
       "How to...",
       "Remote Data"
     ]
+  },
+  {
+    "Issue": "82",
+    "Type": "site",
+    "Title": "Nicolai's Blog",
+    "description": "Nicolai&#39;s digital garden: Posts, stories, and whatever else comes to mind.",
+    "Link": "https://blog.nicolai.ink/",
+    "Date": "2026-01-08T21:38:12.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/blog-nicolai-ink-favicon.svg"
   }
 ]
