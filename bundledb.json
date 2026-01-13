@@ -53395,5 +53395,33 @@
       "Configuration",
       "Deployment"
     ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Added Eleventy-Fetch to the Site",
+    "slugifiedTitle": "added-eleventy-fetch-to-the-site",
+    "Link": "https://johnwargo.com/posts/2026/added-eleventy-fetch/",
+    "Date": "2026-01-13T08:01:13.000",
+    "formattedDate": "Jan 13, 2026",
+    "description": "The article discusses how the Eleventy Fetch plugin can be used to cache API requests in al 11ty site. By making a few changes to the code, the plugin handles data processing automatically. This simplifies the code and reduces the need for manual data conversion. Additionally, the plugin supports cu",
+    "Author": "John M. Wargo",
+    "slugifiedAuthor": "john-m-wargo",
+    "AuthorSite": "https://johnwargo.com",
+    "AuthorSiteDescription": "Internet Home of John M. Wargo",
+    "socialLinks": {
+      "mastodon": "https://mastodon.social/@johnwargo",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/johnwargo",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/johnwargo-com-favicon.png",
+    "rssLink": "https://johnwargo.com/feed.xml",
+    "Categories": [
+      "How to...",
+      "Plugins",
+      "Remote Data"
+    ]
   }
 ]
