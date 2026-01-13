@@ -1,59 +1,5 @@
 [
   {
-    "title": "The No Script Show",
-    "description": "An audio and video where we chat, learn and build websites as simply as we can.",
-    "link": "https://noscript.show/",
-    "date": "2026-01-11T10:58:07.000",
-    "formattedDate": "Jan 11, 2026",
-    "favicon": "/img/favicons/noscript-show-favicon.png",
-    "screenshotpath": "/screenshots/noscript-show-large.jpg"
-  },
-  {
-    "title": "Guns and Frocks",
-    "description": "",
-    "link": "https://gunsandfrocks.com/",
-    "date": "2026-01-08T22:55:35.000",
-    "formattedDate": "Jan 8, 2026",
-    "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/gunsandfrocks-com-large.jpg"
-  },
-  {
-    "title": "Bruchbühne Tübingen",
-    "description": "Webseite der Bruchbühne Tübingen",
-    "link": "https://bruchbuehne.de/",
-    "date": "2026-01-08T22:02:33.000",
-    "formattedDate": "Jan 8, 2026",
-    "favicon": "/img/favicons/bruchbuehne-de-favicon.png",
-    "screenshotpath": "/screenshots/bruchbuehne-de-large.jpg"
-  },
-  {
-    "title": "Nicolai's Blog",
-    "description": "Nicolai&#39;s digital garden: Posts, stories, and whatever else comes to mind.",
-    "link": "https://blog.nicolai.ink/",
-    "date": "2026-01-08T21:38:12.000",
-    "formattedDate": "Jan 8, 2026",
-    "favicon": "/img/favicons/blog-nicolai-ink-favicon.svg",
-    "screenshotpath": "/screenshots/blog-nicolai-ink-large.jpg"
-  },
-  {
-    "title": "Calgary Groups",
-    "description": "A centralized, searchable directory to help Calgarians find grassroots organizations, clubs, activist groups, and community initiatives.",
-    "link": "https://calgarygroups.ca/",
-    "date": "2026-01-07T13:44:30.000",
-    "formattedDate": "Jan 7, 2026",
-    "favicon": "/img/favicons/calgarygroups-ca-favicon.png",
-    "screenshotpath": "/screenshots/calgarygroups-ca-large.jpg"
-  },
-  {
-    "title": "Jason Reed",
-    "description": "Personal page of Jason Reed Software Developer",
-    "link": "https://jrsofty1.stinkbugonline.com/",
-    "date": "2026-01-06T22:02:32.000",
-    "formattedDate": "Jan 6, 2026",
-    "favicon": "/img/favicons/jrsofty1-stinkbugonline-com-favicon.jpg",
-    "screenshotpath": "/screenshots/jrsofty1-stinkbugonline-com-large.jpg"
-  },
-  {
     "title": "Angélique Weger",
     "description": "",
     "link": "https://angeliqueweger.com/",
@@ -687,7 +633,8 @@
     "date": "2025-08-28T22:12:51.000",
     "formattedDate": "Aug 28, 2025",
     "favicon": "/img/favicons/www-kylereddoch-me-favicon.png",
-    "screenshotpath": "/screenshots/www-kylereddoch-me-large.jpg"
+    "screenshotpath": "/screenshots/www-kylereddoch-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kylereddoch-me"
   },
   {
     "title": "Bill Vinson",
@@ -725,7 +672,8 @@
     "date": "2025-08-20T17:33:53.000",
     "formattedDate": "Aug 20, 2025",
     "favicon": "/img/favicons/www-srva-ai-favicon.png",
-    "screenshotpath": "/screenshots/www-srva-ai-large.jpg"
+    "screenshotpath": "/screenshots/www-srva-ai-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/srva-ai"
   },
   {
     "title": "John Skiles Skinner",
@@ -801,7 +749,8 @@
     "date": "2025-08-08T08:10:47.000",
     "formattedDate": "Aug 8, 2025",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-craigabbott-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-craigabbott-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/craigabbott-co-uk"
   },
   {
     "title": "Les activités de Nicolas Hoizey",
@@ -1156,7 +1105,8 @@
     "date": "2025-06-04",
     "formattedDate": "Jun 3, 2025",
     "favicon": "/img/favicons/www-nulle-part-fr-favicon.svg",
-    "screenshotpath": "/screenshots/www-nulle-part-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-nulle-part-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/nulle-part-fr"
   },
   {
     "title": "hypehou.se: Your curated house music guide",
@@ -1174,7 +1124,8 @@
     "date": "2025-06-02",
     "formattedDate": "Jun 1, 2025",
     "favicon": "/img/favicons/www-averagenerdpost-com-favicon.png",
-    "screenshotpath": "/screenshots/www-averagenerdpost-com-large.jpg"
+    "screenshotpath": "/screenshots/www-averagenerdpost-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/averagenerdpost-com"
   },
   {
     "title": "Elwin van Eede",
@@ -1231,7 +1182,8 @@
     "date": "2025-05-27",
     "formattedDate": "May 26, 2025",
     "favicon": "/img/favicons/www-alfieaward-com-favicon.png",
-    "screenshotpath": "/screenshots/www-alfieaward-com-large.jpg"
+    "screenshotpath": "/screenshots/www-alfieaward-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/alfieaward-com"
   },
   {
     "title": "Banalotopia - Home",
@@ -1240,7 +1192,8 @@
     "date": "2025-05-27",
     "formattedDate": "May 26, 2025",
     "favicon": "/img/favicons/www-banalotopia-de-favicon.jpg",
-    "screenshotpath": "/screenshots/www-banalotopia-de-large.jpg"
+    "screenshotpath": "/screenshots/www-banalotopia-de-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/banalotopia-de"
   },
   {
     "title": "Home Page · Entity Garden",
@@ -1616,7 +1569,8 @@
     "date": "2025-04-15",
     "formattedDate": "Apr 14, 2025",
     "favicon": "/img/favicons/www-atomwolf-org-favicon.png",
-    "screenshotpath": "/screenshots/www-atomwolf-org-large.jpg"
+    "screenshotpath": "/screenshots/www-atomwolf-org-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/atomwolf-org"
   },
   {
     "title": "Atomic: The framework for connected banking",
@@ -1782,7 +1736,8 @@
     "date": "2025-04-01",
     "formattedDate": "Mar 31, 2025",
     "favicon": "/img/favicons/www-wordsbywes-ink-favicon.jpg",
-    "screenshotpath": "/screenshots/www-wordsbywes-ink-large.jpg"
+    "screenshotpath": "/screenshots/www-wordsbywes-ink-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/wordsbywes-ink"
   },
   {
     "title": "Chobble Template | Eleventy Starter | AGPLv3",
@@ -2000,7 +1955,8 @@
     "date": "2025-03-04",
     "formattedDate": "Mar 3, 2025",
     "favicon": "/img/favicons/www-orsymphony-org-favicon.png",
-    "screenshotpath": "/screenshots/www-orsymphony-org-large.jpg"
+    "screenshotpath": "/screenshots/www-orsymphony-org-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/orsymphony-org"
   },
   {
     "title": "Liam Steckler",
@@ -2144,7 +2100,8 @@
     "date": "2025-02-26",
     "formattedDate": "Feb 26, 2025",
     "favicon": "/img/favicons/www-duetds-com-favicon.png",
-    "screenshotpath": "/screenshots/www-duetds-com-large.jpg"
+    "screenshotpath": "/screenshots/www-duetds-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/duetds-com"
   },
   {
     "title": "COVID-19",
@@ -2203,7 +2160,7 @@
     "screenshotpath": "/screenshots/noahliebman-net-large.jpg"
   },
   {
-    "title": "Damian Walsh",
+    "title": "Damian Walsh | Designer (Interaction/UX/UI) based in Manchester, UK",
     "description": "Designer (Interaction/UX/UI) based in Manchester, UK",
     "link": "https://damianwalsh.co.uk/",
     "date": "2025-02-18",
@@ -2213,7 +2170,7 @@
     "screenshotpath": "/screenshots/damianwalsh-co-uk-large.jpg"
   },
   {
-    "title": "Tiny Rumble",
+    "title": "Tiny Rumble | Tiny Rumble",
     "description": "Tiny Rumble - What Resonates With You?",
     "link": "https://tinyrumble.com/",
     "date": "2025-02-18",
@@ -2249,7 +2206,8 @@
     "date": "2025-02-07",
     "formattedDate": "Feb 7, 2025",
     "favicon": "/img/favicons/www-galajurk-nl-favicon.png",
-    "screenshotpath": "/screenshots/www-galajurk-nl-large.jpg"
+    "screenshotpath": "/screenshots/www-galajurk-nl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/galajurk-nl"
   },
   {
     "title": "Home | Noelle.dev",
@@ -2351,7 +2309,8 @@
     "date": "2025-01-21",
     "formattedDate": "Jan 20, 2025",
     "favicon": "/img/favicons/www-j0k3r-net-favicon.png",
-    "screenshotpath": "/screenshots/www-j0k3r-net-large.jpg"
+    "screenshotpath": "/screenshots/www-j0k3r-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/j0k3r-net"
   },
   {
     "title": "Auth Omnibus - Auth Omnibus",
@@ -2370,7 +2329,8 @@
     "date": "2025-01-21",
     "formattedDate": "Jan 20, 2025",
     "favicon": "/img/favicons/www-teppohaste-com-favicon.png",
-    "screenshotpath": "/screenshots/www-teppohaste-com-large.jpg"
+    "screenshotpath": "/screenshots/www-teppohaste-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/teppohaste-com"
   },
   {
     "title": "rkar.org",
@@ -2616,7 +2576,8 @@
     "date": "2024-12-23",
     "formattedDate": "Dec 22, 2024",
     "favicon": "/img/favicons/www-virtualcomedycafe-com-favicon.png",
-    "screenshotpath": "/screenshots/www-virtualcomedycafe-com-large.jpg"
+    "screenshotpath": "/screenshots/www-virtualcomedycafe-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/virtualcomedycafe-com"
   },
   {
     "title": "Input 4 RELCFP",
@@ -2645,7 +2606,8 @@
     "date": "2024-12-23",
     "formattedDate": "Dec 22, 2024",
     "favicon": "/img/favicons/www-dofd-info-favicon.png",
-    "screenshotpath": "/screenshots/www-dofd-info-large.jpg"
+    "screenshotpath": "/screenshots/www-dofd-info-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/dofd-info"
   },
   {
     "title": "American Indian Law Alliance",
@@ -2674,7 +2636,8 @@
     "date": "2024-12-23",
     "formattedDate": "Dec 22, 2024",
     "favicon": "/img/favicons/www-stephaniewyatt-tel-favicon.png",
-    "screenshotpath": "/screenshots/www-stephaniewyatt-tel-large.jpg"
+    "screenshotpath": "/screenshots/www-stephaniewyatt-tel-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/stephaniewyatt-tel"
   },
   {
     "title": "Home | KeyTik",
@@ -2710,7 +2673,8 @@
     "date": "2024-12-23",
     "formattedDate": "Dec 22, 2024",
     "favicon": "/img/favicons/www-award-winning-books-com-favicon.png",
-    "screenshotpath": "/screenshots/www-award-winning-books-com-large.jpg"
+    "screenshotpath": "/screenshots/www-award-winning-books-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/award-winning-books-com"
   },
   {
     "title": "Home Zoo Archive",
@@ -2768,7 +2732,8 @@
     "date": "2024-12-10",
     "formattedDate": "Dec 9, 2024",
     "favicon": "/img/favicons/www-bergqvist-it-favicon.png",
-    "screenshotpath": "/screenshots/www-bergqvist-it-large.jpg"
+    "screenshotpath": "/screenshots/www-bergqvist-it-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/bergqvist-it"
   },
   {
     "title": "奥野製作所",
@@ -2977,7 +2942,8 @@
     "date": "2024-11-26",
     "formattedDate": "Nov 25, 2024",
     "favicon": "/img/favicons/www-matthewthom-as-favicon.png",
-    "screenshotpath": "/screenshots/www-matthewthom-as-large.jpg"
+    "screenshotpath": "/screenshots/www-matthewthom-as-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/matthewthom-as"
   },
   {
     "title": "Playdate Podcast",
@@ -3098,7 +3064,8 @@
     "date": "2024-10-29",
     "formattedDate": "Oct 28, 2024",
     "favicon": "/img/favicons/www-danielortegamoral-com-favicon.png",
-    "screenshotpath": "/screenshots/www-danielortegamoral-com-large.jpg"
+    "screenshotpath": "/screenshots/www-danielortegamoral-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/danielortegamoral-com"
   },
   {
     "title": "Alan Quirk Design",
@@ -3285,7 +3252,8 @@
     "date": "2024-10-01",
     "formattedDate": "Sep 30, 2024",
     "favicon": "/img/favicons/www-higby-io-favicon.png",
-    "screenshotpath": "/screenshots/www-higby-io-large.jpg"
+    "screenshotpath": "/screenshots/www-higby-io-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/higby-io"
   },
   {
     "title": "#1 Shopify CRO Agency | Conversion Rate Optimisation | CRO For Shopify",
@@ -3397,7 +3365,8 @@
     "date": "2024-09-13",
     "formattedDate": "Sep 12, 2024",
     "favicon": "/img/favicons/www-tabulate-io-favicon.png",
-    "screenshotpath": "/screenshots/www-tabulate-io-large.jpg"
+    "screenshotpath": "/screenshots/www-tabulate-io-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tabulate-io"
   },
   {
     "title": "Text Encoding Initiative",
@@ -3425,7 +3394,8 @@
     "date": "2024-09-13",
     "formattedDate": "Sep 12, 2024",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-wildhair-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-wildhair-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/wildhair-fr"
   },
   {
     "title": "Rob Owen",
@@ -3492,7 +3462,8 @@
     "date": "2024-08-20",
     "formattedDate": "Aug 19, 2024",
     "favicon": "/img/favicons/www-swingswingsubmarine-com-favicon.png",
-    "screenshotpath": "/screenshots/www-swingswingsubmarine-com-large.jpg"
+    "screenshotpath": "/screenshots/www-swingswingsubmarine-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/swingswingsubmarine-com"
   },
   {
     "title": "Adam DJ Brett",
@@ -3501,7 +3472,8 @@
     "date": "2024-08-20",
     "formattedDate": "Aug 19, 2024",
     "favicon": "/img/favicons/www-adamdjbrett-com-favicon.png",
-    "screenshotpath": "/screenshots/www-adamdjbrett-com-large.jpg"
+    "screenshotpath": "/screenshots/www-adamdjbrett-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/adamdjbrett-com"
   },
   {
     "title": "Home » Sameera Kapila",
@@ -3549,7 +3521,8 @@
     "date": "2024-08-20",
     "formattedDate": "Aug 19, 2024",
     "favicon": "/img/favicons/www-themidgeekcrisis-app-favicon.png",
-    "screenshotpath": "/screenshots/www-themidgeekcrisis-app-large.jpg"
+    "screenshotpath": "/screenshots/www-themidgeekcrisis-app-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/themidgeekcrisis-app"
   },
   {
     "title": "Religious Studies Blogs",
@@ -3558,7 +3531,8 @@
     "date": "2024-08-20",
     "formattedDate": "Aug 19, 2024",
     "favicon": "/img/favicons/www-rs-rss-com-favicon.png",
-    "screenshotpath": "/screenshots/www-rs-rss-com-large.jpg"
+    "screenshotpath": "/screenshots/www-rs-rss-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/rs-rss-com"
   },
   {
     "title": "Evans Theatre",
@@ -3691,7 +3665,8 @@
     "date": "2024-07-22",
     "formattedDate": "Jul 22, 2024",
     "favicon": "/img/favicons/www-wisc-edu-favicon.png",
-    "screenshotpath": "/screenshots/www-wisc-edu-large.jpg"
+    "screenshotpath": "/screenshots/www-wisc-edu-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/wisc-edu"
   },
   {
     "title": "Cyberpunk.co.uk",
@@ -3700,7 +3675,8 @@
     "date": "2024-07-18",
     "formattedDate": "Jul 18, 2024",
     "favicon": "/img/favicons/www-cyberpunk-co-uk-favicon.jpg",
-    "screenshotpath": "/screenshots/www-cyberpunk-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-cyberpunk-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/cyberpunk-co-uk"
   },
   {
     "title": "Color Legend Element",
@@ -3736,7 +3712,8 @@
     "date": "2024-07-16",
     "formattedDate": "Jul 15, 2024",
     "favicon": "/img/favicons/www-psycareer-ru-favicon.jpg",
-    "screenshotpath": "/screenshots/www-psycareer-ru-large.jpg"
+    "screenshotpath": "/screenshots/www-psycareer-ru-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/psycareer-ru"
   },
   {
     "title": "Paul Shryock (he/him) | Senior Software Engineer @ NBA",
@@ -3763,7 +3740,8 @@
     "date": "2024-07-16",
     "formattedDate": "Jul 15, 2024",
     "favicon": "/img/favicons/www-innesi-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-innesi-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-innesi-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/innesi-fr"
   },
   {
     "title": "Casey Ocampo&#39;s website",
@@ -3772,7 +3750,8 @@
     "date": "2024-07-16",
     "formattedDate": "Jul 15, 2024",
     "favicon": "/img/favicons/www-caseyocampo-com-favicon.png",
-    "screenshotpath": "/screenshots/www-caseyocampo-com-large.jpg"
+    "screenshotpath": "/screenshots/www-caseyocampo-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/caseyocampo-com"
   },
   {
     "title": "jmhobbs @ GitHub",
@@ -3865,7 +3844,8 @@
     "date": "2024-07-09",
     "formattedDate": "Jul 8, 2024",
     "favicon": "/img/favicons/www-humankode-com-favicon.png",
-    "screenshotpath": "/screenshots/www-humankode-com-large.jpg"
+    "screenshotpath": "/screenshots/www-humankode-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/humankode-com"
   },
   {
     "title": "Spatial Movies",
@@ -3967,7 +3947,8 @@
     "date": "2024-06-22",
     "formattedDate": "Jun 22, 2024",
     "favicon": "/img/favicons/www-vitaline-by-favicon.jpg",
-    "screenshotpath": "/screenshots/www-vitaline-by-large.jpg"
+    "screenshotpath": "/screenshots/www-vitaline-by-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/vitaline-by"
   },
   {
     "title": "Home | YOZO",
@@ -4232,7 +4213,8 @@
     "date": "2024-05-28",
     "formattedDate": "May 27, 2024",
     "favicon": "/img/favicons/www-aldr-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-aldr-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-aldr-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/aldr-dev"
   },
   {
     "title": "Home · wargaluk",
@@ -4311,7 +4293,8 @@
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
     "favicon": "/img/favicons/www-filamentgroup-com-favicon.png",
-    "screenshotpath": "/screenshots/www-filamentgroup-com-large.jpg"
+    "screenshotpath": "/screenshots/www-filamentgroup-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/filamentgroup-com"
   },
   {
     "title": "Home - The A11Y Project",
@@ -4320,7 +4303,8 @@
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
     "favicon": "/img/favicons/www-a11yproject-com-favicon.png",
-    "screenshotpath": "/screenshots/www-a11yproject-com-large.jpg"
+    "screenshotpath": "/screenshots/www-a11yproject-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/a11yproject-com"
   },
   {
     "title": "NEJS CONF 2015–2019",
@@ -4339,7 +4323,8 @@
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
     "favicon": "/img/favicons/www-londoncss-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-londoncss-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-londoncss-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/londoncss-dev"
   },
   {
     "title": "Fifty by Fifty",
@@ -4368,7 +4353,8 @@
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
     "favicon": "/img/favicons/www-zachleat-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-zachleat-com-large.jpg"
+    "screenshotpath": "/screenshots/www-zachleat-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/zachleat-com"
   },
   {
     "title": "Homepage | GSAP",
@@ -4397,7 +4383,8 @@
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-tatianamac-com-large.jpg"
+    "screenshotpath": "/screenshots/www-tatianamac-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tatianamac-com"
   },
   {
     "title": "Eleventy is a simpler static site generator",
@@ -4406,7 +4393,8 @@
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
     "favicon": "/img/favicons/www-11ty-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-11ty-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-11ty-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/11ty-dev"
   },
   {
     "title": "Lit",
@@ -4583,7 +4571,8 @@
     "date": "2024-05-14",
     "formattedDate": "May 13, 2024",
     "favicon": "/img/favicons/www-makkusu-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-makkusu-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-makkusu-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/makkusu-dev"
   },
   {
     "title": "Creativitas Studio",
@@ -4690,7 +4679,8 @@
     "date": "2024-05-14",
     "formattedDate": "May 13, 2024",
     "favicon": "/img/favicons/www-amykhar-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-amykhar-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-amykhar-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/amykhar-dev"
   },
   {
     "title": "Leilukin&#39;s Hub",
@@ -4802,7 +4792,8 @@
     "date": "2024-05-01",
     "formattedDate": "Apr 30, 2024",
     "favicon": "/img/favicons/www-axcora-com-favicon.png",
-    "screenshotpath": "/screenshots/www-axcora-com-large.jpg"
+    "screenshotpath": "/screenshots/www-axcora-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/axcora-com"
   },
   {
     "title": "Halide - Jamstack portfolio theme",
@@ -4821,7 +4812,8 @@
     "date": "2024-04-23",
     "formattedDate": "Apr 22, 2024",
     "favicon": "/img/favicons/www-adamdj-tel-favicon.jpg",
-    "screenshotpath": "/screenshots/www-adamdj-tel-large.jpg"
+    "screenshotpath": "/screenshots/www-adamdj-tel-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/adamdj-tel"
   },
   {
     "title": "Anita Cheng",
@@ -4934,7 +4926,8 @@
     "date": "2024-04-05",
     "formattedDate": "Apr 5, 2024",
     "favicon": "/img/favicons/www-brianbaldock-com-favicon.png",
-    "screenshotpath": "/screenshots/www-brianbaldock-com-large.jpg"
+    "screenshotpath": "/screenshots/www-brianbaldock-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/brianbaldock-com"
   },
   {
     "title": "Home | The Ultimate EU Test Book",
@@ -5011,7 +5004,8 @@
     "date": "2024-03-19",
     "formattedDate": "Mar 18, 2024",
     "favicon": "/img/favicons/www-ciccarello-me-favicon.png",
-    "screenshotpath": "/screenshots/www-ciccarello-me-large.jpg"
+    "screenshotpath": "/screenshots/www-ciccarello-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ciccarello-me"
   },
   {
     "title": "Benjy Stanton – Interaction designer and service designer",
@@ -5090,7 +5084,8 @@
     "date": "2024-03-12",
     "formattedDate": "Mar 12, 2024",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-speedlify-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-speedlify-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/speedlify-dev"
   },
   {
     "title": "Code crumbs",
@@ -5167,7 +5162,8 @@
     "date": "2024-02-28",
     "formattedDate": "Feb 27, 2024",
     "favicon": "/img/favicons/www-learnwithgurpreet-com-favicon.png",
-    "screenshotpath": "/screenshots/www-learnwithgurpreet-com-large.jpg"
+    "screenshotpath": "/screenshots/www-learnwithgurpreet-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/learnwithgurpreet-com"
   },
   {
     "title": "Open Web Advocacy",
@@ -5194,7 +5190,8 @@
     "date": "2024-02-28",
     "formattedDate": "Feb 27, 2024",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-davidway-ie-large.jpg"
+    "screenshotpath": "/screenshots/www-davidway-ie-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/davidway-ie"
   },
   {
     "title": "Firebreak Farms",
@@ -5262,7 +5259,8 @@
     "date": "2024-02-20",
     "formattedDate": "Feb 19, 2024",
     "favicon": "/img/favicons/www-mikestilling-com-favicon.png",
-    "screenshotpath": "/screenshots/www-mikestilling-com-large.jpg"
+    "screenshotpath": "/screenshots/www-mikestilling-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mikestilling-com"
   },
   {
     "title": "Single-Serving Sites",
@@ -5385,7 +5383,8 @@
     "date": "2024-01-30",
     "formattedDate": "Jan 29, 2024",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-inkyvoxel-com-large.jpg"
+    "screenshotpath": "/screenshots/www-inkyvoxel-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/inkyvoxel-com"
   },
   {
     "title": "Philip Zastrow",
@@ -5412,7 +5411,8 @@
     "date": "2024-01-30",
     "formattedDate": "Jan 29, 2024",
     "favicon": "/img/favicons/www-roboleary-net-favicon.png",
-    "screenshotpath": "/screenshots/www-roboleary-net-large.jpg"
+    "screenshotpath": "/screenshots/www-roboleary-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/roboleary-net"
   },
   {
     "title": "Cybercultural: Internet History and Its Impact on Our Culture",
@@ -5499,7 +5499,8 @@
     "date": "2024-01-16",
     "formattedDate": "Jan 15, 2024",
     "favicon": "/img/favicons/www-devlinmcclure-com-favicon.png",
-    "screenshotpath": "/screenshots/www-devlinmcclure-com-large.jpg"
+    "screenshotpath": "/screenshots/www-devlinmcclure-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/devlinmcclure-com"
   },
   {
     "title": "Martin Gunnarsson",
@@ -5508,7 +5509,8 @@
     "date": "2024-01-10",
     "formattedDate": "Jan 10, 2024",
     "favicon": "/img/favicons/www-martingunnarsson-com-favicon.png",
-    "screenshotpath": "/screenshots/www-martingunnarsson-com-large.jpg"
+    "screenshotpath": "/screenshots/www-martingunnarsson-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/martingunnarsson-com"
   },
   {
     "title": "Home • emily’s bike stuff",
@@ -5660,7 +5662,8 @@
     "date": "2023-12-17",
     "formattedDate": "Dec 16, 2023",
     "favicon": "/img/favicons/www-totmanga-com-favicon.png",
-    "screenshotpath": "/screenshots/www-totmanga-com-large.jpg"
+    "screenshotpath": "/screenshots/www-totmanga-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/totmanga-com"
   },
   {
     "title": "Robb Knight",
@@ -5689,7 +5692,8 @@
     "date": "2023-12-17",
     "formattedDate": "Dec 16, 2023",
     "favicon": "/img/favicons/www-willvincentvoice-com-favicon.png",
-    "screenshotpath": "/screenshots/www-willvincentvoice-com-large.jpg"
+    "screenshotpath": "/screenshots/www-willvincentvoice-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/willvincentvoice-com"
   },
   {
     "title": "dieter.ca",
@@ -5744,7 +5748,8 @@
     "date": "2023-12-01",
     "formattedDate": "Nov 30, 2023",
     "favicon": "/img/favicons/www-slrconsulting-com-favicon.png",
-    "screenshotpath": "/screenshots/www-slrconsulting-com-large.jpg"
+    "screenshotpath": "/screenshots/www-slrconsulting-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/slrconsulting-com"
   },
   {
     "title": "News and Tools for Web Developers · Frontend Dogma",
@@ -5803,7 +5808,8 @@
     "date": "2023-11-21",
     "formattedDate": "Nov 20, 2023",
     "favicon": "/img/favicons/www-hockeycomputindo-com-favicon.png",
-    "screenshotpath": "/screenshots/www-hockeycomputindo-com-large.jpg"
+    "screenshotpath": "/screenshots/www-hockeycomputindo-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/hockeycomputindo-com"
   },
   {
     "title": "Téotime Pacreau",
@@ -5812,7 +5818,8 @@
     "date": "2023-11-21",
     "formattedDate": "Nov 20, 2023",
     "favicon": "/img/favicons/www-teotimepacreau-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-teotimepacreau-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-teotimepacreau-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/teotimepacreau-fr"
   },
   {
     "title": "Trail running races &amp; ultra marathons | Runaway Racing",
@@ -5861,7 +5868,8 @@
     "date": "2023-11-21",
     "formattedDate": "Nov 20, 2023",
     "favicon": "/img/favicons/www-ondrejkonecny-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-ondrejkonecny-com-large.jpg"
+    "screenshotpath": "/screenshots/www-ondrejkonecny-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ondrejkonecny-com"
   },
   {
     "title": "THE GALACTIC GUPPY, “The Ultimate Fish Out Of Water Story”",
@@ -5909,7 +5917,8 @@
     "date": "2023-11-12",
     "formattedDate": "Nov 12, 2023",
     "favicon": "/img/favicons/www-imkhoi-com-favicon.png",
-    "screenshotpath": "/screenshots/www-imkhoi-com-large.jpg"
+    "screenshotpath": "/screenshots/www-imkhoi-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/imkhoi-com"
   },
   {
     "title": "Open Studios | Perth, Western Australia",
@@ -5996,7 +6005,8 @@
     "date": "2023-11-08",
     "formattedDate": "Nov 7, 2023",
     "favicon": "/img/favicons/www-adamjolicoeur-com-favicon.png",
-    "screenshotpath": "/screenshots/www-adamjolicoeur-com-large.jpg"
+    "screenshotpath": "/screenshots/www-adamjolicoeur-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/adamjolicoeur-com"
   },
   {
     "title": "rubenwardy | Software Engineer and Open Source Maintainer",
@@ -6158,7 +6168,8 @@
     "date": "2023-10-11",
     "formattedDate": "Oct 10, 2023",
     "favicon": "/img/favicons/www-gifgun-io-favicon.png",
-    "screenshotpath": "/screenshots/www-gifgun-io-large.jpg"
+    "screenshotpath": "/screenshots/www-gifgun-io-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/gifgun-io"
   },
   {
     "title": "Joe Sahlstrom • Front-end Developer",
@@ -6357,7 +6368,8 @@
     "date": "2023-09-01",
     "formattedDate": "Aug 31, 2023",
     "favicon": "/img/favicons/www-lessurvenantesbalado-com-favicon.png",
-    "screenshotpath": "/screenshots/www-lessurvenantesbalado-com-large.jpg"
+    "screenshotpath": "/screenshots/www-lessurvenantesbalado-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/lessurvenantesbalado-com"
   },
   {
     "title": "Hamburg HTML meetup | HHTML",
@@ -6385,7 +6397,8 @@
     "date": "2023-09-01",
     "formattedDate": "Sep 1, 2023",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-loganayliffe-com-large.jpg"
+    "screenshotpath": "/screenshots/www-loganayliffe-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/loganayliffe-com"
   },
   {
     "title": "saurabhs.org",
@@ -6404,7 +6417,8 @@
     "date": "2023-09-01",
     "formattedDate": "Sep 1, 2023",
     "favicon": "/img/favicons/www-azur-renovations-com-favicon.png",
-    "screenshotpath": "/screenshots/www-azur-renovations-com-large.jpg"
+    "screenshotpath": "/screenshots/www-azur-renovations-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/azur-renovations-com"
   },
   {
     "title": "Сергей Глазов — full-stack веб-разработчик Nuxt, Laravel",
@@ -6432,7 +6446,8 @@
     "date": "2023-08-11",
     "formattedDate": "Aug 10, 2023",
     "favicon": "/img/favicons/www-projectmb-com-favicon.png",
-    "screenshotpath": "/screenshots/www-projectmb-com-large.jpg"
+    "screenshotpath": "/screenshots/www-projectmb-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/projectmb-com"
   },
   {
     "title": "Alex Zappa",
@@ -6500,7 +6515,8 @@
     "date": "2023-07-31",
     "formattedDate": "Jul 30, 2023",
     "favicon": "/img/favicons/www-dolwensolutions-com-favicon.png",
-    "screenshotpath": "/screenshots/www-dolwensolutions-com-large.jpg"
+    "screenshotpath": "/screenshots/www-dolwensolutions-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/dolwensolutions-com"
   },
   {
     "title": "Welcome | Neal Gamradt&#39;s Personal Blog",
@@ -6720,7 +6736,8 @@
     "date": "2023-05-16",
     "formattedDate": "May 15, 2023",
     "favicon": "/img/favicons/www-aleksandrhovhannisyan-com-favicon.png",
-    "screenshotpath": "/screenshots/www-aleksandrhovhannisyan-com-large.jpg"
+    "screenshotpath": "/screenshots/www-aleksandrhovhannisyan-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/aleksandrhovhannisyan-com"
   },
   {
     "title": "KH-C — Home",
@@ -6739,7 +6756,8 @@
     "date": "2023-05-16",
     "formattedDate": "May 15, 2023",
     "favicon": "/img/favicons/www-interroban-gg-favicon.png",
-    "screenshotpath": "/screenshots/www-interroban-gg-large.jpg"
+    "screenshotpath": "/screenshots/www-interroban-gg-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/interroban-gg"
   },
   {
     "title": "Simon Cox – Technical SEO consultant and web explorer | Simon Cox",
@@ -6748,7 +6766,8 @@
     "date": "2023-05-16",
     "formattedDate": "May 15, 2023",
     "favicon": "/img/favicons/www-simoncox-com-favicon.png",
-    "screenshotpath": "/screenshots/www-simoncox-com-large.jpg"
+    "screenshotpath": "/screenshots/www-simoncox-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/simoncox-com"
   },
   {
     "title": "Erik Kroes - Accessibility Consultant",
@@ -6757,7 +6776,8 @@
     "date": "2023-05-16",
     "formattedDate": "May 15, 2023",
     "favicon": "/img/favicons/www-erikkroes-nl-favicon.png",
-    "screenshotpath": "/screenshots/www-erikkroes-nl-large.jpg"
+    "screenshotpath": "/screenshots/www-erikkroes-nl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/erikkroes-nl"
   },
   {
     "title": "Grease | Grease",
@@ -6852,7 +6872,8 @@
     "date": "2023-05-01",
     "formattedDate": "Apr 30, 2023",
     "favicon": "",
-    "screenshotpath": "/screenshots/www-tomroseveare-com-large.jpg"
+    "screenshotpath": "/screenshots/www-tomroseveare-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tomroseveare-com"
   },
   {
     "title": "mess design studio - creative &amp; content services | mess creative",
@@ -6901,7 +6922,8 @@
     "date": "2023-04-18",
     "formattedDate": "Apr 17, 2023",
     "favicon": "/img/favicons/www-globe-church-favicon.png",
-    "screenshotpath": "/screenshots/www-globe-church-large.jpg"
+    "screenshotpath": "/screenshots/www-globe-church-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/globe-church"
   },
   {
     "title": "Home - Bram Smulders, Front-end UI developer",
@@ -7053,7 +7075,8 @@
     "date": "2023-04-11",
     "formattedDate": "Apr 10, 2023",
     "favicon": "/img/favicons/www-spencerharston-com-favicon.png",
-    "screenshotpath": "/screenshots/www-spencerharston-com-large.jpg"
+    "screenshotpath": "/screenshots/www-spencerharston-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/spencerharston-com"
   },
   {
     "title": "Home | Emily Leatherman | Artist",
@@ -7223,7 +7246,8 @@
     "date": "2023-03-24",
     "formattedDate": "Mar 24, 2023",
     "favicon": "/img/favicons/www-ineliagestion-com-favicon.png",
-    "screenshotpath": "/screenshots/www-ineliagestion-com-large.jpg"
+    "screenshotpath": "/screenshots/www-ineliagestion-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ineliagestion-com"
   },
   {
     "title": "Alberto Ballesteros",
@@ -7232,7 +7256,8 @@
     "date": "2023-03-24",
     "formattedDate": "Mar 24, 2023",
     "favicon": "/img/favicons/www-albertoballesteros-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-albertoballesteros-com-large.jpg"
+    "screenshotpath": "/screenshots/www-albertoballesteros-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/albertoballesteros-com"
   },
   {
     "title": "macOS Cursors",
@@ -7271,7 +7296,8 @@
     "date": "2023-03-24",
     "formattedDate": "Mar 24, 2023",
     "favicon": "/img/favicons/www-hno-marienplatz-de-favicon.png",
-    "screenshotpath": "/screenshots/www-hno-marienplatz-de-large.jpg"
+    "screenshotpath": "/screenshots/www-hno-marienplatz-de-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/hno-marienplatz-de"
   },
   {
     "title": "Fundación Goethe España",
@@ -7289,7 +7315,8 @@
     "date": "2023-03-24",
     "formattedDate": "Mar 24, 2023",
     "favicon": "/img/favicons/www-lene-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-lene-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-lene-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/lene-dev"
   },
   {
     "title": "Pracownia Wschodnia - Strona główna - Pracownia Wschodnia",
@@ -7338,7 +7365,8 @@
     "date": "2023-03-10",
     "formattedDate": "Mar 10, 2023",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-dsev-dk-large.jpg"
+    "screenshotpath": "/screenshots/www-dsev-dk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/dsev-dk"
   },
   {
     "title": "David🥧",
@@ -7516,7 +7544,8 @@
     "date": "2023-02-05",
     "formattedDate": "Feb 5, 2023",
     "favicon": "/img/favicons/www-museinteriors-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-museinteriors-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-museinteriors-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/museinteriors-co-uk"
   },
   {
     "title": "Chris O&#39;Donoghue Garden design & restoration",
@@ -7525,7 +7554,8 @@
     "date": "2023-02-05",
     "formattedDate": "Feb 5, 2023",
     "favicon": "/img/favicons/www-chrisodonoghue-co-uk-favicon.jpg",
-    "screenshotpath": "/screenshots/www-chrisodonoghue-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-chrisodonoghue-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/chrisodonoghue-co-uk"
   },
   {
     "title": "Color.js: Let’s get serious about color • Color.js",
@@ -7563,7 +7593,8 @@
     "date": "2023-02-05",
     "formattedDate": "Feb 5, 2023",
     "favicon": "/img/favicons/www-expong-org-favicon.png",
-    "screenshotpath": "/screenshots/www-expong-org-large.jpg"
+    "screenshotpath": "/screenshots/www-expong-org-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/expong-org"
   },
   {
     "title": "Lingfield Osteopathic Centre, Surrey",
@@ -7572,7 +7603,8 @@
     "date": "2023-02-05",
     "formattedDate": "Feb 5, 2023",
     "favicon": "/img/favicons/www-lingfieldosteopaths-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-lingfieldosteopaths-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-lingfieldosteopaths-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/lingfieldosteopaths-co-uk"
   },
   {
     "title": "Michael Greenhill",
@@ -7630,7 +7662,8 @@
     "date": "2023-02-01",
     "formattedDate": "Feb 1, 2023",
     "favicon": "/img/favicons/www-nicolas-birckel-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-nicolas-birckel-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-nicolas-birckel-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/nicolas-birckel-fr"
   },
   {
     "title": "Chicken Wing Gingerbread Man: Home",
@@ -7709,7 +7742,8 @@
     "date": "2023-01-24",
     "formattedDate": "Jan 24, 2023",
     "favicon": "/img/favicons/www-ogarcia-es-favicon.png",
-    "screenshotpath": "/screenshots/www-ogarcia-es-large.jpg"
+    "screenshotpath": "/screenshots/www-ogarcia-es-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ogarcia-es"
   },
   {
     "title": "Matt Obee - design technologist specialising in accessibility",
@@ -7728,7 +7762,8 @@
     "date": "2023-01-23",
     "formattedDate": "Jan 23, 2023",
     "favicon": "/img/favicons/www-dumbtv-es-favicon.png",
-    "screenshotpath": "/screenshots/www-dumbtv-es-large.jpg"
+    "screenshotpath": "/screenshots/www-dumbtv-es-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/dumbtv-es"
   },
   {
     "title": "Brook HTML Template - Frontpage one",
@@ -7867,7 +7902,8 @@
     "date": "2023-01-09",
     "formattedDate": "Jan 9, 2023",
     "favicon": "/img/favicons/www-rosiedalia-com-favicon.png",
-    "screenshotpath": "/screenshots/www-rosiedalia-com-large.jpg"
+    "screenshotpath": "/screenshots/www-rosiedalia-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/rosiedalia-com"
   },
   {
     "title": "Living and working on the web, with a British point of view.",
@@ -7896,7 +7932,8 @@
     "date": "2023-01-03",
     "formattedDate": "Jan 3, 2023",
     "favicon": "/img/favicons/www-victoriacutting-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-victoriacutting-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-victoriacutting-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/victoriacutting-co-uk"
   },
   {
     "title": "All active call for papers - CfP Watch",
@@ -7944,7 +7981,8 @@
     "date": "2022-12-27",
     "formattedDate": "Dec 27, 2022",
     "favicon": "/img/favicons/www-vigorteq-com-favicon.png",
-    "screenshotpath": "/screenshots/www-vigorteq-com-large.jpg"
+    "screenshotpath": "/screenshots/www-vigorteq-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/vigorteq-com"
   },
   {
     "title": "DORA regulation | Digital operational resilience in the financial sector",
@@ -7953,7 +7991,8 @@
     "date": "2022-12-23",
     "formattedDate": "Dec 23, 2022",
     "favicon": "/img/favicons/www-dora-info-eu-favicon.png",
-    "screenshotpath": "/screenshots/www-dora-info-eu-large.jpg"
+    "screenshotpath": "/screenshots/www-dora-info-eu-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/dora-info-eu"
   },
   {
     "title": "Springflod - Cybersäkerhet inom bank och finans",
@@ -7962,7 +8001,8 @@
     "date": "2022-12-23",
     "formattedDate": "Dec 23, 2022",
     "favicon": "/img/favicons/www-springflod-se-favicon.png",
-    "screenshotpath": "/screenshots/www-springflod-se-large.jpg"
+    "screenshotpath": "/screenshots/www-springflod-se-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/springflod-se"
   },
   {
     "title": "Home | Make Things Accessible",
@@ -7971,7 +8011,8 @@
     "date": "2022-12-16",
     "formattedDate": "Dec 16, 2022",
     "favicon": "/img/favicons/www-makethingsaccessible-com-favicon.png",
-    "screenshotpath": "/screenshots/www-makethingsaccessible-com-large.jpg"
+    "screenshotpath": "/screenshots/www-makethingsaccessible-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/makethingsaccessible-com"
   },
   {
     "title": "Fruits Express",
@@ -8189,7 +8230,8 @@
     "date": "2022-11-08",
     "formattedDate": "Nov 8, 2022",
     "favicon": "/img/favicons/www-mgrossklaus-de-favicon.jpg",
-    "screenshotpath": "/screenshots/www-mgrossklaus-de-large.jpg"
+    "screenshotpath": "/screenshots/www-mgrossklaus-de-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mgrossklaus-de"
   },
   {
     "title": "Poble-sec per la Independència",
@@ -8198,7 +8240,8 @@
     "date": "2022-11-07",
     "formattedDate": "Nov 7, 2022",
     "favicon": "/img/favicons/www-psxi-cat-favicon.png",
-    "screenshotpath": "/screenshots/www-psxi-cat-large.jpg"
+    "screenshotpath": "/screenshots/www-psxi-cat-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/psxi-cat"
   },
   {
     "title": "Unravel URL",
@@ -8217,7 +8260,8 @@
     "date": "2022-11-02",
     "formattedDate": "Nov 2, 2022",
     "favicon": "/img/favicons/www-ellyloel-com-favicon.png",
-    "screenshotpath": "/screenshots/www-ellyloel-com-large.jpg"
+    "screenshotpath": "/screenshots/www-ellyloel-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ellyloel-com"
   },
   {
     "title": "Hej, jag är Jens - J.Anteckningar",
@@ -8306,7 +8350,8 @@
     "date": "2022-10-21",
     "formattedDate": "Oct 21, 2022",
     "favicon": "/img/favicons/www-johnbiggins-net-favicon.png",
-    "screenshotpath": "/screenshots/www-johnbiggins-net-large.jpg"
+    "screenshotpath": "/screenshots/www-johnbiggins-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/johnbiggins-net"
   },
   {
     "title": "Dollar Theory",
@@ -8346,7 +8391,8 @@
     "date": "2022-10-06",
     "formattedDate": "Oct 6, 2022",
     "favicon": "/img/favicons/www-kilianfinger-com-favicon.png",
-    "screenshotpath": "/screenshots/www-kilianfinger-com-large.jpg"
+    "screenshotpath": "/screenshots/www-kilianfinger-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kilianfinger-com"
   },
   {
     "title": "Welcome | Brian DeVries",
@@ -8385,7 +8431,8 @@
     "date": "2022-09-19",
     "formattedDate": "Sep 19, 2022",
     "favicon": "/img/favicons/www-tgiles-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-tgiles-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-tgiles-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tgiles-dev"
   },
   {
     "title": "Welcome to Local Pakistan",
@@ -8394,7 +8441,8 @@
     "date": "2022-09-15",
     "formattedDate": "Sep 15, 2022",
     "favicon": "/img/favicons/www-local-com-pk-favicon.png",
-    "screenshotpath": "/screenshots/www-local-com-pk-large.jpg"
+    "screenshotpath": "/screenshots/www-local-com-pk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/local-com-pk"
   },
   {
     "title": "Parth Shiralkar",
@@ -8452,7 +8500,8 @@
     "date": "2022-08-26",
     "formattedDate": "Aug 26, 2022",
     "favicon": "/img/favicons/www-kadotaproductions-com-favicon.png",
-    "screenshotpath": "/screenshots/www-kadotaproductions-com-large.jpg"
+    "screenshotpath": "/screenshots/www-kadotaproductions-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kadotaproductions-com"
   },
   {
     "title": "Some Antics: Accessibility made approachable.",
@@ -8471,7 +8520,8 @@
     "date": "2022-08-23",
     "formattedDate": "Aug 23, 2022",
     "favicon": "/img/favicons/www-kogakure-de-favicon.png",
-    "screenshotpath": "/screenshots/www-kogakure-de-large.jpg"
+    "screenshotpath": "/screenshots/www-kogakure-de-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kogakure-de"
   },
   {
     "title": "Stefan Imhoff",
@@ -8520,7 +8570,8 @@
     "date": "2022-08-10",
     "formattedDate": "Aug 10, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-freerk-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-freerk-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/freerk-dev"
   },
   {
     "title": "Welcome to the web home of Vess Restoration Cleaning Systems",
@@ -8529,7 +8580,8 @@
     "date": "2022-08-10",
     "formattedDate": "Aug 10, 2022",
     "favicon": "/img/favicons/www-vess-co-nz-favicon.png",
-    "screenshotpath": "/screenshots/www-vess-co-nz-large.jpg"
+    "screenshotpath": "/screenshots/www-vess-co-nz-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/vess-co-nz"
   },
   {
     "title": "Developer Docs @ The Green Web Foundation",
@@ -8598,7 +8650,8 @@
     "date": "2022-08-02",
     "formattedDate": "Aug 2, 2022",
     "favicon": "/img/favicons/www-atlas-bi-favicon.png",
-    "screenshotpath": "/screenshots/www-atlas-bi-large.jpg"
+    "screenshotpath": "/screenshots/www-atlas-bi-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/atlas-bi"
   },
   {
     "title": "Nick Simson, Internet Nobody.",
@@ -8617,7 +8670,8 @@
     "date": "2022-07-30",
     "formattedDate": "Jul 30, 2022",
     "favicon": "/img/favicons/www-superawesomeshit-com-favicon.png",
-    "screenshotpath": "/screenshots/www-superawesomeshit-com-large.jpg"
+    "screenshotpath": "/screenshots/www-superawesomeshit-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/superawesomeshit-com"
   },
   {
     "title": "Dennis Hendricks — Analytics Engineer",
@@ -8626,7 +8680,8 @@
     "date": "2022-07-28",
     "formattedDate": "Jul 28, 2022",
     "favicon": "/img/favicons/www-hendricks-rocks-favicon.png",
-    "screenshotpath": "/screenshots/www-hendricks-rocks-large.jpg"
+    "screenshotpath": "/screenshots/www-hendricks-rocks-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/hendricks-rocks"
   },
   {
     "title": "Mike Street - Lead Developer and CTO",
@@ -8635,7 +8690,8 @@
     "date": "2022-07-26",
     "formattedDate": "Jul 26, 2022",
     "favicon": "/img/favicons/www-mikestreety-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-mikestreety-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-mikestreety-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mikestreety-co-uk"
   },
   {
     "title": "iturbides | Web developer, journalist and writer",
@@ -8644,7 +8700,8 @@
     "date": "2022-07-21",
     "formattedDate": "Jul 21, 2022",
     "favicon": "/img/favicons/www-iturbides-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-iturbides-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-iturbides-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/iturbides-dev"
   },
   {
     "title": "Yesh Yendamuri",
@@ -8653,7 +8710,8 @@
     "date": "2022-07-21",
     "formattedDate": "Jul 21, 2022",
     "favicon": "/img/favicons/www-yeshyendamuri-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-yeshyendamuri-com-large.jpg"
+    "screenshotpath": "/screenshots/www-yeshyendamuri-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/yeshyendamuri-com"
   },
   {
     "title": "Home - Pandu Supriyono",
@@ -8682,7 +8740,8 @@
     "date": "2022-07-14",
     "formattedDate": "Jul 14, 2022",
     "favicon": "/img/favicons/www-nonbreakingspace-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-nonbreakingspace-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-nonbreakingspace-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/nonbreakingspace-co-uk"
   },
   {
     "title": "The Birks Cinema, Café Bar &amp; Community Hub | Aberfeldy",
@@ -8711,7 +8770,8 @@
     "date": "2022-07-13",
     "formattedDate": "Jul 13, 2022",
     "favicon": "/img/favicons/www-saassurf-com-favicon.png",
-    "screenshotpath": "/screenshots/www-saassurf-com-large.jpg"
+    "screenshotpath": "/screenshots/www-saassurf-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/saassurf-com"
   },
   {
     "title": "Gary Lake – Frontend Engineer &amp; Product Designer | About Me",
@@ -8720,7 +8780,8 @@
     "date": "2022-07-13",
     "formattedDate": "Jul 13, 2022",
     "favicon": "/img/favicons/www-garylake-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-garylake-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-garylake-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/garylake-co-uk"
   },
   {
     "title": "Chillies Aberfeldy 🌶️ Authentic Indian Cuisine • Dine-in • Takeaway",
@@ -8739,7 +8800,8 @@
     "date": "2022-07-13",
     "formattedDate": "Jul 13, 2022",
     "favicon": "/img/favicons/www-wearedeepspace-com-favicon.png",
-    "screenshotpath": "/screenshots/www-wearedeepspace-com-large.jpg"
+    "screenshotpath": "/screenshots/www-wearedeepspace-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/wearedeepspace-com"
   },
   {
     "title": "Wassim Chegham - wassim.dev",
@@ -8808,7 +8870,8 @@
     "date": "2022-07-04",
     "formattedDate": "Jul 4, 2022",
     "favicon": "/img/favicons/www-karapanou-com-favicon.png",
-    "screenshotpath": "/screenshots/www-karapanou-com-large.jpg"
+    "screenshotpath": "/screenshots/www-karapanou-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/karapanou-com"
   },
   {
     "title": "Closing down - DesignRemotely",
@@ -8848,7 +8911,8 @@
     "date": "2022-07-01",
     "formattedDate": "Jul 1, 2022",
     "favicon": "/img/favicons/www-josephrex-me-favicon.png",
-    "screenshotpath": "/screenshots/www-josephrex-me-large.jpg"
+    "screenshotpath": "/screenshots/www-josephrex-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/josephrex-me"
   },
   {
     "title": "localghost",
@@ -8867,7 +8931,8 @@
     "date": "2022-06-29",
     "formattedDate": "Jun 29, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-mikeritteronline-com-large.jpg"
+    "screenshotpath": "/screenshots/www-mikeritteronline-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mikeritteronline-com"
   },
   {
     "title": "Coming Soon",
@@ -8876,7 +8941,8 @@
     "date": "2022-06-29",
     "formattedDate": "Jun 29, 2022",
     "favicon": "/img/favicons/www-sarrosenvironmental-com-favicon.png",
-    "screenshotpath": "/screenshots/www-sarrosenvironmental-com-large.jpg"
+    "screenshotpath": "/screenshots/www-sarrosenvironmental-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/sarrosenvironmental-com"
   },
   {
     "title": "Franco American Mowing, Inc.",
@@ -8885,7 +8951,8 @@
     "date": "2022-06-29",
     "formattedDate": "Jun 29, 2022",
     "favicon": "/img/favicons/www-francoamericanmowing-com-favicon.png",
-    "screenshotpath": "/screenshots/www-francoamericanmowing-com-large.jpg"
+    "screenshotpath": "/screenshots/www-francoamericanmowing-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/francoamericanmowing-com"
   },
   {
     "title": "Manor | James Midzi",
@@ -8914,7 +8981,8 @@
     "date": "2022-06-28",
     "formattedDate": "Jun 28, 2022",
     "favicon": "/img/favicons/www-mllongworth-com-favicon.png",
-    "screenshotpath": "/screenshots/www-mllongworth-com-large.jpg"
+    "screenshotpath": "/screenshots/www-mllongworth-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mllongworth-com"
   },
   {
     "title": "Evan Sheehan",
@@ -8971,7 +9039,8 @@
     "date": "2022-06-14",
     "formattedDate": "Jun 14, 2022",
     "favicon": "/img/favicons/www-celinedesign-com-favicon.png",
-    "screenshotpath": "/screenshots/www-celinedesign-com-large.jpg"
+    "screenshotpath": "/screenshots/www-celinedesign-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/celinedesign-com"
   },
   {
     "title": "Help Your Local Service Industry | ServiceIndustry.tips",
@@ -8989,7 +9058,8 @@
     "date": "2022-06-14",
     "formattedDate": "Jun 14, 2022",
     "favicon": "/img/favicons/www-bijouteriebarriere-com-favicon.png",
-    "screenshotpath": "/screenshots/www-bijouteriebarriere-com-large.jpg"
+    "screenshotpath": "/screenshots/www-bijouteriebarriere-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/bijouteriebarriere-com"
   },
   {
     "title": "Le Camping des Speakers",
@@ -9047,7 +9117,8 @@
     "date": "2022-06-14",
     "formattedDate": "Jun 14, 2022",
     "favicon": "/img/favicons/www-gites-lafourcade-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-gites-lafourcade-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-gites-lafourcade-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/gites-lafourcade-fr"
   },
   {
     "title": "TemplateDeck - Free Bootstrap HTML Templates",
@@ -9076,7 +9147,8 @@
     "date": "2022-06-11",
     "formattedDate": "Jun 11, 2022",
     "favicon": "/img/favicons/www-belocalpub-com-favicon.png",
-    "screenshotpath": "/screenshots/www-belocalpub-com-large.jpg"
+    "screenshotpath": "/screenshots/www-belocalpub-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/belocalpub-com"
   },
   {
     "title": "Alaska Hike Search – Find Your Next Adventure",
@@ -9095,7 +9167,8 @@
     "date": "2022-06-11",
     "formattedDate": "Jun 11, 2022",
     "favicon": "/img/favicons/www-strollmag-com-favicon.png",
-    "screenshotpath": "/screenshots/www-strollmag-com-large.jpg"
+    "screenshotpath": "/screenshots/www-strollmag-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/strollmag-com"
   },
   {
     "title": "Real Producers Magazines | Connecting Top-Selling Real Estate Agents",
@@ -9104,7 +9177,8 @@
     "date": "2022-06-11",
     "formattedDate": "Jun 11, 2022",
     "favicon": "/img/favicons/www-realproducersmag-com-favicon.png",
-    "screenshotpath": "/screenshots/www-realproducersmag-com-large.jpg"
+    "screenshotpath": "/screenshots/www-realproducersmag-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/realproducersmag-com"
   },
   {
     "title": "Welcome · Ways To Play",
@@ -9251,7 +9325,8 @@
     "date": "2022-05-21",
     "formattedDate": "May 21, 2022",
     "favicon": "/img/favicons/www-itsmeara-com-favicon.png",
-    "screenshotpath": "/screenshots/www-itsmeara-com-large.jpg"
+    "screenshotpath": "/screenshots/www-itsmeara-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/itsmeara-com"
   },
   {
     "title": "We build products and features with Drupal | Chromatic",
@@ -9290,7 +9365,8 @@
     "date": "2022-05-05",
     "formattedDate": "May 5, 2022",
     "favicon": "/img/favicons/www-kandji-io-favicon.jpg",
-    "screenshotpath": "/screenshots/www-kandji-io-large.jpg"
+    "screenshotpath": "/screenshots/www-kandji-io-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kandji-io"
   },
   {
     "title": "Home | r/Sixers Donates",
@@ -9309,7 +9385,8 @@
     "date": "2022-05-02",
     "formattedDate": "May 2, 2022",
     "favicon": "/img/favicons/www-simpleerb-com-favicon.png",
-    "screenshotpath": "/screenshots/www-simpleerb-com-large.jpg"
+    "screenshotpath": "/screenshots/www-simpleerb-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/simpleerb-com"
   },
   {
     "title": "Dom&#39;s Homepage",
@@ -9338,7 +9415,8 @@
     "date": "2022-04-20",
     "formattedDate": "Apr 20, 2022",
     "favicon": "/img/favicons/www-chadams-me-favicon.png",
-    "screenshotpath": "/screenshots/www-chadams-me-large.jpg"
+    "screenshotpath": "/screenshots/www-chadams-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/chadams-me"
   },
   {
     "title": "Your Digital Signage Partner | Castmill",
@@ -9387,7 +9465,8 @@
     "date": "2022-04-09",
     "formattedDate": "Apr 9, 2022",
     "favicon": "/img/favicons/www-scottmurphytennis-net-favicon.jpg",
-    "screenshotpath": "/screenshots/www-scottmurphytennis-net-large.jpg"
+    "screenshotpath": "/screenshots/www-scottmurphytennis-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/scottmurphytennis-net"
   },
   {
     "title": "Tampa Devs",
@@ -9396,7 +9475,8 @@
     "date": "2022-04-07",
     "formattedDate": "Apr 7, 2022",
     "favicon": "/img/favicons/www-tampadevs-com-favicon.png",
-    "screenshotpath": "/screenshots/www-tampadevs-com-large.jpg"
+    "screenshotpath": "/screenshots/www-tampadevs-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tampadevs-com"
   },
   {
     "title": "Home | Cynthia Bascara Speech &amp; Language Therapy",
@@ -9405,7 +9485,8 @@
     "date": "2022-04-04",
     "formattedDate": "Apr 4, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-cbascaraspeechtherapy-com-large.jpg"
+    "screenshotpath": "/screenshots/www-cbascaraspeechtherapy-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/cbascaraspeechtherapy-com"
   },
   {
     "title": "Justin Poehnelt",
@@ -9424,7 +9505,8 @@
     "date": "2022-03-31",
     "formattedDate": "Mar 31, 2022",
     "favicon": "/img/favicons/www-kiwisat-org-nz-favicon.png",
-    "screenshotpath": "/screenshots/www-kiwisat-org-nz-large.jpg"
+    "screenshotpath": "/screenshots/www-kiwisat-org-nz-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kiwisat-org-nz"
   },
   {
     "title": "Fausto Bellino Tasca | Home",
@@ -9433,7 +9515,8 @@
     "date": "2022-03-29",
     "formattedDate": "Mar 29, 2022",
     "favicon": "/img/favicons/www-faustotasca-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-faustotasca-com-large.jpg"
+    "screenshotpath": "/screenshots/www-faustotasca-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/faustotasca-com"
   },
   {
     "title": "Bob Monsour",
@@ -9442,7 +9525,8 @@
     "date": "2022-03-29",
     "formattedDate": "Mar 29, 2022",
     "favicon": "/img/favicons/www-bobmonsour-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-bobmonsour-com-large.jpg"
+    "screenshotpath": "/screenshots/www-bobmonsour-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/bobmonsour-com"
   },
   {
     "title": "Pranav Karawale",
@@ -9471,7 +9555,8 @@
     "date": "2022-03-29",
     "formattedDate": "Mar 29, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-mathew-paul-nz-large.jpg"
+    "screenshotpath": "/screenshots/www-mathew-paul-nz-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mathew-paul-nz"
   },
   {
     "title": "Cam MacFarland",
@@ -9610,7 +9695,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-bridgestew-com-favicon.png",
-    "screenshotpath": "/screenshots/www-bridgestew-com-large.jpg"
+    "screenshotpath": "/screenshots/www-bridgestew-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/bridgestew-com"
   },
   {
     "title": "WebComponents.dev",
@@ -9659,7 +9745,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-webstoemp-com-favicon.png",
-    "screenshotpath": "/screenshots/www-webstoemp-com-large.jpg"
+    "screenshotpath": "/screenshots/www-webstoemp-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/webstoemp-com"
   },
   {
     "title": "Music | Teacup Gorilla",
@@ -9668,7 +9755,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-teacupgorilla-com-favicon.png",
-    "screenshotpath": "/screenshots/www-teacupgorilla-com-large.jpg"
+    "screenshotpath": "/screenshots/www-teacupgorilla-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/teacupgorilla-com"
   },
   {
     "title": "Diseño de páginas web en Lanzarote ⭐ SOLUCIONET🥇",
@@ -9687,7 +9775,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-prestanda-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-prestanda-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-prestanda-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/prestanda-co-uk"
   },
   {
     "title": "Elewind",
@@ -9805,7 +9894,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-wikilear-it-favicon.png",
-    "screenshotpath": "/screenshots/www-wikilear-it-large.jpg"
+    "screenshotpath": "/screenshots/www-wikilear-it-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/wikilear-it"
   },
   {
     "title": "The Web We Want",
@@ -9883,7 +9973,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-miriamsuzanne-com-favicon.png",
-    "screenshotpath": "/screenshots/www-miriamsuzanne-com-large.jpg"
+    "screenshotpath": "/screenshots/www-miriamsuzanne-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/miriamsuzanne-com"
   },
   {
     "title": "Everyday Information Architecture",
@@ -9921,7 +10012,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-naprogu-pl-favicon.png",
-    "screenshotpath": "/screenshots/www-naprogu-pl-large.jpg"
+    "screenshotpath": "/screenshots/www-naprogu-pl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/naprogu-pl"
   },
   {
     "title": "Pro Audio Control Solutions",
@@ -9940,7 +10032,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-stevenhicks-me-favicon.png",
-    "screenshotpath": "/screenshots/www-stevenhicks-me-large.jpg"
+    "screenshotpath": "/screenshots/www-stevenhicks-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/stevenhicks-me"
   },
   {
     "title": "Style Stage from Modern CSS Solutions",
@@ -9979,7 +10072,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-tilt-studio-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-tilt-studio-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-tilt-studio-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tilt-studio-fr"
   },
   {
     "title": "The Practical Guide to Experience Design",
@@ -10008,7 +10102,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-chercheurd-art-favicon.png",
-    "screenshotpath": "/screenshots/www-chercheurd-art-large.jpg"
+    "screenshotpath": "/screenshots/www-chercheurd-art-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/chercheurd-art"
   },
   {
     "title": "OddBird | Custom Web App Design &amp; Development For Humans",
@@ -10017,7 +10112,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-oddbird-net-favicon.png",
-    "screenshotpath": "/screenshots/www-oddbird-net-large.jpg"
+    "screenshotpath": "/screenshots/www-oddbird-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/oddbird-net"
   },
   {
     "title": "Precious Prana, faire pétiller",
@@ -10036,7 +10132,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-kajrietberg-nl-large.jpg"
+    "screenshotpath": "/screenshots/www-kajrietberg-nl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kajrietberg-nl"
   },
   {
     "title": "homan.io",
@@ -10165,7 +10262,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-unabridgedsoftware-com-favicon.png",
-    "screenshotpath": "/screenshots/www-unabridgedsoftware-com-large.jpg"
+    "screenshotpath": "/screenshots/www-unabridgedsoftware-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/unabridgedsoftware-com"
   },
   {
     "title": "- Fumes",
@@ -10194,7 +10292,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-tempertemper-net-favicon.png",
-    "screenshotpath": "/screenshots/www-tempertemper-net-large.jpg"
+    "screenshotpath": "/screenshots/www-tempertemper-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tempertemper-net"
   },
   {
     "title": "The embedded investment platform - Seccl.tech",
@@ -10341,7 +10440,8 @@
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
     "favicon": "/img/favicons/www-grupapir-pl-favicon.png",
-    "screenshotpath": "/screenshots/www-grupapir-pl-large.jpg"
+    "screenshotpath": "/screenshots/www-grupapir-pl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/grupapir-pl"
   },
   {
     "title": "Блог о веб-разработке",
@@ -10468,7 +10568,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-gsys-biz-favicon.png",
-    "screenshotpath": "/screenshots/www-gsys-biz-large.jpg"
+    "screenshotpath": "/screenshots/www-gsys-biz-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/gsys-biz"
   },
   {
     "title": "Jose Luis Hernando Sanz | Technical SEO Consultant",
@@ -10506,7 +10607,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-undefinednull-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-undefinednull-com-large.jpg"
+    "screenshotpath": "/screenshots/www-undefinednull-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/undefinednull-com"
   },
   {
     "title": "Fantasybuchtipps | Die besten Fantasy Bücher aller Zeiten",
@@ -10545,7 +10647,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-tim-kleyersburg-de-favicon.png",
-    "screenshotpath": "/screenshots/www-tim-kleyersburg-de-large.jpg"
+    "screenshotpath": "/screenshots/www-tim-kleyersburg-de-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tim-kleyersburg-de"
   },
   {
     "title": "Prakriti | Natural Ayurvedic Medicines, Ghee &amp; Organic Wellness",
@@ -10554,7 +10657,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-prakriti-care-large.jpg"
+    "screenshotpath": "/screenshots/www-prakriti-care-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/prakriti-care"
   },
   {
     "title": "Eystein codes",
@@ -10593,7 +10697,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-ryangittings-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-ryangittings-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-ryangittings-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ryangittings-co-uk"
   },
   {
     "title": "Welcome :: www.troyv.dev",
@@ -10602,7 +10707,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-troyv-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-troyv-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-troyv-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/troyv-dev"
   },
   {
     "title": "Markus Haack",
@@ -10661,7 +10767,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-giorgiopretto-com-favicon.png",
-    "screenshotpath": "/screenshots/www-giorgiopretto-com-large.jpg"
+    "screenshotpath": "/screenshots/www-giorgiopretto-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/giorgiopretto-com"
   },
   {
     "title": "Bruidsjurken * Wit * Kort * Gekleurd * Robin Uitgaansmode",
@@ -10670,7 +10777,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-robinbruidsjurken-nl-favicon.png",
-    "screenshotpath": "/screenshots/www-robinbruidsjurken-nl-large.jpg"
+    "screenshotpath": "/screenshots/www-robinbruidsjurken-nl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/robinbruidsjurken-nl"
   },
   {
     "title": "nho.link",
@@ -10738,7 +10846,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-raymondcamden-com-favicon.png",
-    "screenshotpath": "/screenshots/www-raymondcamden-com-large.jpg"
+    "screenshotpath": "/screenshots/www-raymondcamden-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/raymondcamden-com"
   },
   {
     "title": "Neckam * SEO diensten voor een hogere positie in de zoekmachine",
@@ -10757,7 +10866,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-mealsforthenhs-com-favicon.png",
-    "screenshotpath": "/screenshots/www-mealsforthenhs-com-large.jpg"
+    "screenshotpath": "/screenshots/www-mealsforthenhs-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mealsforthenhs-com"
   },
   {
     "title": "Francisco Sousa",
@@ -10865,7 +10975,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-felipesere-com-favicon.png",
-    "screenshotpath": "/screenshots/www-felipesere-com-large.jpg"
+    "screenshotpath": "/screenshots/www-felipesere-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/felipesere-com"
   },
   {
     "title": "Constant Vallee",
@@ -10874,7 +10985,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-constantvallee-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-constantvallee-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-constantvallee-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/constantvallee-dev"
   },
   {
     "title": "Dave Powers",
@@ -10933,7 +11045,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-jpkc-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-jpkc-com-large.jpg"
+    "screenshotpath": "/screenshots/www-jpkc-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/jpkc-com"
   },
   {
     "title": "Sixty Six — The collection of quotes",
@@ -10952,7 +11065,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-stjaerboldklub-dk-large.jpg"
+    "screenshotpath": "/screenshots/www-stjaerboldklub-dk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/stjaerboldklub-dk"
   },
   {
     "title": "NEJS CONF 2018",
@@ -11000,7 +11114,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-htmhell-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-htmhell-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-htmhell-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/htmhell-dev"
   },
   {
     "title": "lamplightdev - Home",
@@ -11098,7 +11213,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-griffenedge-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-griffenedge-com-large.jpg"
+    "screenshotpath": "/screenshots/www-griffenedge-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/griffenedge-com"
   },
   {
     "title": "Björn Ganslandt: freelance frontend web developer",
@@ -11136,7 +11252,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-ribomation-se-favicon.png",
-    "screenshotpath": "/screenshots/www-ribomation-se-large.jpg"
+    "screenshotpath": "/screenshots/www-ribomation-se-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ribomation-se"
   },
   {
     "title": "manu.ninja | Front-End Development, Games and Digital Art",
@@ -11165,7 +11282,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-cassey-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-cassey-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-cassey-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/cassey-dev"
   },
   {
     "title": "So long from Vermont Code Camp",
@@ -11174,7 +11292,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-vtcodecamp-org-favicon.png",
-    "screenshotpath": "/screenshots/www-vtcodecamp-org-large.jpg"
+    "screenshotpath": "/screenshots/www-vtcodecamp-org-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/vtcodecamp-org"
   },
   {
     "title": "IndieWebGuides",
@@ -11223,7 +11342,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-lucas-computer-favicon.png",
-    "screenshotpath": "/screenshots/www-lucas-computer-large.jpg"
+    "screenshotpath": "/screenshots/www-lucas-computer-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/lucas-computer"
   },
   {
     "title": "William Svoboda",
@@ -11252,7 +11372,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-industrialempathy-com-favicon.png",
-    "screenshotpath": "/screenshots/www-industrialempathy-com-large.jpg"
+    "screenshotpath": "/screenshots/www-industrialempathy-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/industrialempathy-com"
   },
   {
     "title": "CW2 Architects",
@@ -11300,7 +11421,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-embl-org-favicon.png",
-    "screenshotpath": "/screenshots/www-embl-org-large.jpg"
+    "screenshotpath": "/screenshots/www-embl-org-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/embl-org"
   },
   {
     "title": "Hi! :: Aaron Gustafson",
@@ -11309,7 +11431,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-aaron-gustafson-com-favicon.png",
-    "screenshotpath": "/screenshots/www-aaron-gustafson-com-large.jpg"
+    "screenshotpath": "/screenshots/www-aaron-gustafson-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/aaron-gustafson-com"
   },
   {
     "title": "Hi, I&#39;m Sean. | Sean C Davis",
@@ -11318,7 +11441,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-seancdavis-com-favicon.png",
-    "screenshotpath": "/screenshots/www-seancdavis-com-large.jpg"
+    "screenshotpath": "/screenshots/www-seancdavis-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/seancdavis-com"
   },
   {
     "title": "Tot Tattoo | Tatuajes temporales para todas las edades",
@@ -11416,7 +11540,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-briangershon-com-favicon.png",
-    "screenshotpath": "/screenshots/www-briangershon-com-large.jpg"
+    "screenshotpath": "/screenshots/www-briangershon-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/briangershon-com"
   },
   {
     "title": "Les Chefs à Saint-Tropez fêtent les producteurs",
@@ -11425,7 +11550,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-leschefsasainttropez-com-favicon.png",
-    "screenshotpath": "/screenshots/www-leschefsasainttropez-com-large.jpg"
+    "screenshotpath": "/screenshots/www-leschefsasainttropez-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/leschefsasainttropez-com"
   },
   {
     "title": "Christian Fei&#39;s Blog - cri.dev",
@@ -11464,7 +11590,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-ilithya-rocks-favicon.png",
-    "screenshotpath": "/screenshots/www-ilithya-rocks-large.jpg"
+    "screenshotpath": "/screenshots/www-ilithya-rocks-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ilithya-rocks"
   },
   {
     "title": "Jeremiah Lee",
@@ -11473,7 +11600,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-jeremiahlee-com-favicon.png",
-    "screenshotpath": "/screenshots/www-jeremiahlee-com-large.jpg"
+    "screenshotpath": "/screenshots/www-jeremiahlee-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/jeremiahlee-com"
   },
   {
     "title": "Maël Montévil",
@@ -11562,7 +11690,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-doesitflip-com-favicon.png",
-    "screenshotpath": "/screenshots/www-doesitflip-com-large.jpg"
+    "screenshotpath": "/screenshots/www-doesitflip-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/doesitflip-com"
   },
   {
     "title": "Open Source Chart Image API | QuickChart",
@@ -11581,7 +11710,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-leogenerali-com-large.jpg"
+    "screenshotpath": "/screenshots/www-leogenerali-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/leogenerali-com"
   },
   {
     "title": "Product Designer | Ian Rose",
@@ -11590,7 +11720,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-ianrose-me-favicon.png",
-    "screenshotpath": "/screenshots/www-ianrose-me-large.jpg"
+    "screenshotpath": "/screenshots/www-ianrose-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ianrose-me"
   },
   {
     "title": "Lenny Anders - Web Developer",
@@ -11647,7 +11778,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-flyweb-at-favicon.jpg",
-    "screenshotpath": "/screenshots/www-flyweb-at-large.jpg"
+    "screenshotpath": "/screenshots/www-flyweb-at-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/flyweb-at"
   },
   {
     "title": "mangoweb.net, Sweet &amp; Healthy Web Development",
@@ -11666,7 +11798,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-splitinfinities-com-large.jpg"
+    "screenshotpath": "/screenshots/www-splitinfinities-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/splitinfinities-com"
   },
   {
     "title": "Luc Poupard",
@@ -11723,7 +11856,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-belter-io-favicon.jpg",
-    "screenshotpath": "/screenshots/www-belter-io-large.jpg"
+    "screenshotpath": "/screenshots/www-belter-io-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/belter-io"
   },
   {
     "title": "Sia&#39;s Boardgames",
@@ -11771,7 +11905,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-vktr-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-vktr-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-vktr-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/vktr-dev"
   },
   {
     "title": "Home | Poké Trainer Nic",
@@ -11780,7 +11915,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-poketrainernic-com-favicon.png",
-    "screenshotpath": "/screenshots/www-poketrainernic-com-large.jpg"
+    "screenshotpath": "/screenshots/www-poketrainernic-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/poketrainernic-com"
   },
   {
     "title": "Home · ramigs.dev",
@@ -11898,7 +12034,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-1896gallery-com-favicon.png",
-    "screenshotpath": "/screenshots/www-1896gallery-com-large.jpg"
+    "screenshotpath": "/screenshots/www-1896gallery-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/1896gallery-com"
   },
   {
     "title": "Adventures in Coding",
@@ -11917,7 +12054,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-piatkowska-org-pl-favicon.png",
-    "screenshotpath": "/screenshots/www-piatkowska-org-pl-large.jpg"
+    "screenshotpath": "/screenshots/www-piatkowska-org-pl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/piatkowska-org-pl"
   },
   {
     "title": "Welcome",
@@ -11936,7 +12074,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-tripgazer-com-favicon.png",
-    "screenshotpath": "/screenshots/www-tripgazer-com-large.jpg"
+    "screenshotpath": "/screenshots/www-tripgazer-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tripgazer-com"
   },
   {
     "title": "Stjær - Jyllands Hjerte",
@@ -11945,7 +12084,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-stjaer-net-favicon.png",
-    "screenshotpath": "/screenshots/www-stjaer-net-large.jpg"
+    "screenshotpath": "/screenshots/www-stjaer-net-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/stjaer-net"
   },
   {
     "title": "Clio + Calliope App Development",
@@ -11964,7 +12104,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-oliviapoumeyrol-com-favicon.png",
-    "screenshotpath": "/screenshots/www-oliviapoumeyrol-com-large.jpg"
+    "screenshotpath": "/screenshots/www-oliviapoumeyrol-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/oliviapoumeyrol-com"
   },
   {
     "title": "Front End North Conference | 10th July 2025",
@@ -11983,7 +12124,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-hamandhoney-com-favicon.png",
-    "screenshotpath": "/screenshots/www-hamandhoney-com-large.jpg"
+    "screenshotpath": "/screenshots/www-hamandhoney-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/hamandhoney-com"
   },
   {
     "title": "3DPrint.Gallery",
@@ -11992,7 +12134,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-3dprint-gallery-favicon.jpg",
-    "screenshotpath": "/screenshots/www-3dprint-gallery-large.jpg"
+    "screenshotpath": "/screenshots/www-3dprint-gallery-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/3dprint-gallery"
   },
   {
     "title": "Lifestream",
@@ -12011,7 +12154,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-shera-gay-large.jpg"
+    "screenshotpath": "/screenshots/www-shera-gay-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/shera-gay"
   },
   {
     "title": "Mike Aparicio",
@@ -12020,7 +12164,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-mikeaparicio-com-favicon.png",
-    "screenshotpath": "/screenshots/www-mikeaparicio-com-large.jpg"
+    "screenshotpath": "/screenshots/www-mikeaparicio-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mikeaparicio-com"
   },
   {
     "title": "Virga — A minimum Eleventy starter kit",
@@ -12128,7 +12273,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-allaboutken-com-favicon.png",
-    "screenshotpath": "/screenshots/www-allaboutken-com-large.jpg"
+    "screenshotpath": "/screenshots/www-allaboutken-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/allaboutken-com"
   },
   {
     "title": "The stuff I do",
@@ -12137,7 +12283,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-statox-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-statox-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-statox-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/statox-fr"
   },
   {
     "title": "Check This Out — Borrow or reserve a book in Libby with just a few taps",
@@ -12186,7 +12333,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-mapledesign-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-mapledesign-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-mapledesign-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mapledesign-co-uk"
   },
   {
     "title": "Scott Dawson | Substack",
@@ -12255,7 +12403,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-patrickxchong-com-favicon.png",
-    "screenshotpath": "/screenshots/www-patrickxchong-com-large.jpg"
+    "screenshotpath": "/screenshots/www-patrickxchong-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/patrickxchong-com"
   },
   {
     "title": "Joe Lamyman&#39;s Photos - Lamygram",
@@ -12293,7 +12442,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-matuzo-at-favicon.png",
-    "screenshotpath": "/screenshots/www-matuzo-at-large.jpg"
+    "screenshotpath": "/screenshots/www-matuzo-at-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/matuzo-at"
   },
   {
     "title": "WIPDeveloper.com",
@@ -12421,7 +12571,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-juanfernandes-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-juanfernandes-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-juanfernandes-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/juanfernandes-uk"
   },
   {
     "title": "Blog | Hunter Miller",
@@ -12450,7 +12601,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-edwardhorsford-com-favicon.png",
-    "screenshotpath": "/screenshots/www-edwardhorsford-com-large.jpg"
+    "screenshotpath": "/screenshots/www-edwardhorsford-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/edwardhorsford-com"
   },
   {
     "title": "The Good Life Aquatic • NEJS CONF 2019",
@@ -12499,7 +12651,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-danjordan-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-danjordan-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-danjordan-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/danjordan-dev"
   },
   {
     "title": "11ty Color Picker",
@@ -12557,7 +12710,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-rajeevedmonds-com-favicon.jpg",
-    "screenshotpath": "/screenshots/www-rajeevedmonds-com-large.jpg"
+    "screenshotpath": "/screenshots/www-rajeevedmonds-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/rajeevedmonds-com"
   },
   {
     "title": "Piraces Personal Blog",
@@ -12596,7 +12750,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-maitriweb-it-favicon.png",
-    "screenshotpath": "/screenshots/www-maitriweb-it-large.jpg"
+    "screenshotpath": "/screenshots/www-maitriweb-it-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/maitriweb-it"
   },
   {
     "title": "FixA11y — improving accessibility",
@@ -12685,7 +12840,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-ambiance-feu-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-ambiance-feu-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-ambiance-feu-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/ambiance-feu-fr"
   },
   {
     "title": "Eats &amp; Drinks",
@@ -12713,7 +12869,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-silvestar-codes-favicon.png",
-    "screenshotpath": "/screenshots/www-silvestar-codes-large.jpg"
+    "screenshotpath": "/screenshots/www-silvestar-codes-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/silvestar-codes"
   },
   {
     "title": "Mauro Pfister",
@@ -12722,7 +12879,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-mauropfister-ch-favicon.png",
-    "screenshotpath": "/screenshots/www-mauropfister-ch-large.jpg"
+    "screenshotpath": "/screenshots/www-mauropfister-ch-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mauropfister-ch"
   },
   {
     "title": "Souradip Mookerjee",
@@ -12741,7 +12899,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-marabyte-com-favicon.png",
-    "screenshotpath": "/screenshots/www-marabyte-com-large.jpg"
+    "screenshotpath": "/screenshots/www-marabyte-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/marabyte-com"
   },
   {
     "title": "Hi, I&#39;m Mike - MadeByMike",
@@ -12750,7 +12909,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-madebymike-com-au-favicon.png",
-    "screenshotpath": "/screenshots/www-madebymike-com-au-large.jpg"
+    "screenshotpath": "/screenshots/www-madebymike-com-au-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/madebymike-com-au"
   },
   {
     "title": "Exploring the tech and people that make the web - Behind the Source",
@@ -12759,7 +12919,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-behindthesource-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-behindthesource-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-behindthesource-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/behindthesource-co-uk"
   },
   {
     "title": "Blogccasion",
@@ -12808,7 +12969,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-beccishep-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-beccishep-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-beccishep-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/beccishep-co-uk"
   },
   {
     "title": "MLCommons - Better AI for Everyone",
@@ -12837,7 +12999,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-chris-snowden-me-favicon.png",
-    "screenshotpath": "/screenshots/www-chris-snowden-me-large.jpg"
+    "screenshotpath": "/screenshots/www-chris-snowden-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/chris-snowden-me"
   },
   {
     "title": "Unslump.me -- words of inspiration - bringing you back to yourself.",
@@ -12915,7 +13078,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-justus-ws-favicon.png",
-    "screenshotpath": "/screenshots/www-justus-ws-large.jpg"
+    "screenshotpath": "/screenshots/www-justus-ws-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/justus-ws"
   },
   {
     "title": "Free SVG generators, color tools &amp; web design tools",
@@ -12954,7 +13118,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-allotmentbook-co-uk-favicon.png",
-    "screenshotpath": "/screenshots/www-allotmentbook-co-uk-large.jpg"
+    "screenshotpath": "/screenshots/www-allotmentbook-co-uk-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/allotmentbook-co-uk"
   },
   {
     "title": "Chris Collins | Product Engineer",
@@ -12963,7 +13128,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-chrissy-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-chrissy-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-chrissy-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/chrissy-dev"
   },
   {
     "title": "Tkackie Łódzkie",
@@ -12972,7 +13138,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-tkackielodzkie-pl-large.jpg"
+    "screenshotpath": "/screenshots/www-tkackielodzkie-pl-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/tkackielodzkie-pl"
   },
   {
     "title": "Location Analytics &amp; Tools for Better Investments | GEOLYTIX",
@@ -13001,7 +13168,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-var-amenagement-developpement-fr-favicon.png",
-    "screenshotpath": "/screenshots/www-var-amenagement-developpement-fr-large.jpg"
+    "screenshotpath": "/screenshots/www-var-amenagement-developpement-fr-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/var-amenagement-developpement-fr"
   },
   {
     "title": "Eaton Works",
@@ -13138,7 +13306,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-lautakuntapodcast-fi-large.jpg"
+    "screenshotpath": "/screenshots/www-lautakuntapodcast-fi-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/lautakuntapodcast-fi"
   },
   {
     "title": "Levi McGranahan",
@@ -13187,7 +13356,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-hoeser-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-hoeser-dev-large.jpg"
+    "screenshotpath": "/screenshots/www-hoeser-dev-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/hoeser-dev"
   },
   {
     "title": "nonsponsored",
@@ -13216,7 +13386,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-boldandfriendly-de-favicon.png",
-    "screenshotpath": "/screenshots/www-boldandfriendly-de-large.jpg"
+    "screenshotpath": "/screenshots/www-boldandfriendly-de-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/boldandfriendly-de"
   },
   {
     "title": "Declan Byrd",
@@ -13244,7 +13415,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "#icon-globe",
-    "screenshotpath": "/screenshots/www-star-shaped-org-large.jpg"
+    "screenshotpath": "/screenshots/www-star-shaped-org-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/star-shaped-org"
   },
   {
     "title": "We build products and features with Drupal | Chromatic",
@@ -13262,7 +13434,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-solidstart-info-favicon.png",
-    "screenshotpath": "/screenshots/www-solidstart-info-large.jpg"
+    "screenshotpath": "/screenshots/www-solidstart-info-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/solidstart-info"
   },
   {
     "title": "Maprunner",
@@ -13281,7 +13454,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-andreacorinti-com-favicon.png",
-    "screenshotpath": "/screenshots/www-andreacorinti-com-large.jpg"
+    "screenshotpath": "/screenshots/www-andreacorinti-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/andreacorinti-com"
   },
   {
     "title": "Bernard Nijenhuis • Front-end Developer | bnijenhuis",
@@ -13310,7 +13484,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-geo-syntax-com-favicon.png",
-    "screenshotpath": "/screenshots/www-geo-syntax-com-large.jpg"
+    "screenshotpath": "/screenshots/www-geo-syntax-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/geo-syntax-com"
   },
   {
     "title": "Bentley Davis",
@@ -13339,7 +13514,8 @@
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
     "favicon": "/img/favicons/www-mattnortham-com-favicon.png",
-    "screenshotpath": "/screenshots/www-mattnortham-com-large.jpg"
+    "screenshotpath": "/screenshots/www-mattnortham-com-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/mattnortham-com"
   },
   {
     "title": "Quentin Delcourt",
