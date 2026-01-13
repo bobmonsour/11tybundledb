@@ -1,5 +1,59 @@
 [
   {
+    "title": "The No Script Show",
+    "description": "An audio and video where we chat, learn and build websites as simply as we can.",
+    "link": "https://noscript.show/",
+    "date": "2026-01-11T10:58:07.000",
+    "formattedDate": "Jan 11, 2026",
+    "favicon": "/img/favicons/noscript-show-favicon.png",
+    "screenshotpath": "/screenshots/noscript-show-large.jpg"
+  },
+  {
+    "title": "Guns and Frocks",
+    "description": "",
+    "link": "https://gunsandfrocks.com/",
+    "date": "2026-01-08T22:55:35.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/gunsandfrocks-com-large.jpg"
+  },
+  {
+    "title": "Bruchbühne Tübingen",
+    "description": "Webseite der Bruchbühne Tübingen",
+    "link": "https://bruchbuehne.de/",
+    "date": "2026-01-08T22:02:33.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/bruchbuehne-de-favicon.png",
+    "screenshotpath": "/screenshots/bruchbuehne-de-large.jpg"
+  },
+  {
+    "title": "Nicolai's Blog",
+    "description": "Nicolai&#39;s digital garden: Posts, stories, and whatever else comes to mind.",
+    "link": "https://blog.nicolai.ink/",
+    "date": "2026-01-08T21:38:12.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/blog-nicolai-ink-favicon.svg",
+    "screenshotpath": "/screenshots/blog-nicolai-ink-large.jpg"
+  },
+  {
+    "title": "Calgary Groups",
+    "description": "A centralized, searchable directory to help Calgarians find grassroots organizations, clubs, activist groups, and community initiatives.",
+    "link": "https://calgarygroups.ca/",
+    "date": "2026-01-07T13:44:30.000",
+    "formattedDate": "Jan 7, 2026",
+    "favicon": "/img/favicons/calgarygroups-ca-favicon.png",
+    "screenshotpath": "/screenshots/calgarygroups-ca-large.jpg"
+  },
+  {
+    "title": "Jason Reed",
+    "description": "Personal page of Jason Reed Software Developer",
+    "link": "https://jrsofty1.stinkbugonline.com/",
+    "date": "2026-01-06T22:02:32.000",
+    "formattedDate": "Jan 6, 2026",
+    "favicon": "/img/favicons/jrsofty1-stinkbugonline-com-favicon.jpg",
+    "screenshotpath": "/screenshots/jrsofty1-stinkbugonline-com-large.jpg"
+  },
+  {
     "title": "Angélique Weger",
     "description": "",
     "link": "https://angeliqueweger.com/",
@@ -2160,7 +2214,7 @@
     "screenshotpath": "/screenshots/noahliebman-net-large.jpg"
   },
   {
-    "title": "Damian Walsh | Designer (Interaction/UX/UI) based in Manchester, UK",
+    "title": "Damian Walsh",
     "description": "Designer (Interaction/UX/UI) based in Manchester, UK",
     "link": "https://damianwalsh.co.uk/",
     "date": "2025-02-18",
@@ -2170,7 +2224,7 @@
     "screenshotpath": "/screenshots/damianwalsh-co-uk-large.jpg"
   },
   {
-    "title": "Tiny Rumble | Tiny Rumble",
+    "title": "Tiny Rumble",
     "description": "Tiny Rumble - What Resonates With You?",
     "link": "https://tinyrumble.com/",
     "date": "2025-02-18",
