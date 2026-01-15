@@ -1,5 +1,23 @@
 [
   {
+    "title": "El Perro Negro",
+    "description": "Adventures of a dog and mountain lover, heart attack survivor &amp; grumpy old man, living in the mountains of southern Spain",
+    "link": "https://elperronegro.com/",
+    "date": "2026-01-14T17:07:32.000",
+    "formattedDate": "Jan 14, 2026",
+    "favicon": "/img/favicons/elperronegro-com-favicon.jpg",
+    "screenshotpath": "/screenshots/elperronegro-com-large.jpg"
+  },
+  {
+    "title": "Fluance",
+    "description": "Fluance: release tension, regain fluidity, mobility and serenity through a simple, natural approach based on movement, breath and play.",
+    "link": "https://fluance.io/en/",
+    "date": "2026-01-14T17:03:22.000",
+    "formattedDate": "Jan 14, 2026",
+    "favicon": "/img/favicons/fluance-io-favicon.jpg",
+    "screenshotpath": "/screenshots/fluance-io-large.jpg"
+  },
+  {
     "title": "Studio CiTA",
     "description": "Studio CiTA is an experienced engineering studio that specializes in developing challenging websites and performing online stores.",
     "link": "https://www.cita.hr/",
