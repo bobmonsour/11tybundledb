@@ -48705,7 +48705,7 @@
   {
     "Issue": "83",
     "Type": "blog post",
-    "Title": "An eleventy config for moving from GitHub Pages",
+    "Title": "An eleventy config for moving from Jekyll",
     "slugifiedTitle": "an-eleventy-config-for-moving-from-git-hub-pages",
     "Link": "https://lea.codes/posts/2026-01-15-an-eleventy-config-for-moving-from-github-pages/",
     "Date": "2026-01-15T10:29:07.000",
