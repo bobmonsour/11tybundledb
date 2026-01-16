@@ -3181,7 +3181,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lea-codes-favicon.png",
-    "rssLink": "https://lea.codes/rss.xml",
+    "rssLink": "",
     "Categories": [
       "How to..."
     ]
@@ -12362,7 +12362,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lea-codes-favicon.png",
-    "rssLink": "https://lea.codes/rss.xml",
+    "rssLink": "",
     "Categories": [
       "How to..."
     ]
@@ -23880,7 +23880,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lea-codes-favicon.png",
-    "rssLink": "https://lea.codes/rss.xml",
+    "rssLink": "",
     "Categories": [
       "Configuration",
       "How to..."
@@ -53565,7 +53565,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lea-codes-favicon.png",
-    "rssLink": "https://lea.codes/rss.xml",
+    "rssLink": "",
     "Categories": [
       "Configuration",
       "Deployment",
@@ -53581,33 +53581,5 @@
     "Link": "https://github.com/11ty/package-bundler/releases/tag/v0.5.5",
     "Date": "2026-01-15",
     "formattedDate": "Jan 15, 2026"
-  },
-  {
-    "Issue": "83",
-    "Type": "blog post",
-    "Title": "Eleventy: Autopopulating the title variable from the template",
-    "slugifiedTitle": "eleventy-autopopulating-the-title-variable-from-the-template",
-    "Link": "https://lea.codes/posts/2026-01-16-eleventy-autopopulating-the-title-variable-from-the-template/",
-    "Date": "2026-01-16T08:28:25.000",
-    "formattedDate": "Jan 16, 2026",
-    "description": "This is the blog of Lea Rosema, frontend developer with accessibility focus, based in Hamburg",
-    "Author": "Lea Rosema",
-    "slugifiedAuthor": "lea-rosema",
-    "AuthorSite": "https://lea.codes",
-    "AuthorSiteDescription": "Lea&#39;s place to write",
-    "socialLinks": {
-      "mastodon": "https://lea.lgbt/@lea",
-      "bluesky": "",
-      "youtube": "",
-      "github": "https://github.com/learosema",
-      "linkedin": ""
-    },
-    "favicon": "/img/favicons/lea-codes-favicon.png",
-    "rssLink": "https://lea.codes/rss.xml",
-    "Categories": [
-      "Front Matter",
-      "How to...",
-      "Markdown"
-    ]
   }
 ]
