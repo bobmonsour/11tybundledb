@@ -7429,7 +7429,8 @@
     },
     "favicon": "/img/favicons/www-cassey-dev-favicon.png",
     "rssLink": "https://cassey.dev/feed/feed.xml",
-    "Categories": ["How to...", "CMS", "Image Gallery"]
+    "Categories": ["How to...", "CMS", "Image Gallery"],
+    "Skip": true
   },
   {
     "Issue": "",
