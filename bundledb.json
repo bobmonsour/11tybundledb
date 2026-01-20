@@ -53628,5 +53628,106 @@
     "Link": "https://github.com/11ty/eleventy-dependency-tree/releases/tag/v4.0.2",
     "Date": "2026-01-16",
     "formattedDate": "Jan 16, 2026"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Having a different title and h1 text using templating in 11ty",
+    "slugifiedTitle": "having-a-different-title-and-h1-text-using-templating-in-11ty",
+    "Link": "https://www.simoncox.com/short-articles/2026-01-17-alternate-main-heading-and-title-in-11ty-templates/",
+    "Date": "2026-01-17T12:16:15.000",
+    "formattedDate": "Jan 17, 2026",
+    "description": "I wanted a way to display a h1 tag that was different from my title tag",
+    "Author": "Simon Cox",
+    "slugifiedAuthor": "simon-cox",
+    "AuthorSite": "https://www.simoncox.com",
+    "AuthorSiteDescription": "Simon Cox is a UK-based freelance Technical SEO consultant and webmaster with over 30 years of experience in website management, planning, building and SEO.",
+    "socialLinks": {
+      "mastodon": "https://seocommunity.social/@simoncox",
+      "bluesky": "https://bsky.app/profile/simoncox.com",
+      "youtube": "",
+      "github": "https://github.com/simoncox",
+      "linkedin": "https://uk.linkedin.com/in/simonmcox"
+    },
+    "favicon": "/img/favicons/www-simoncox-com-favicon.png",
+    "rssLink": "https://www.simoncox.com/feed.xml",
+    "Categories": [
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Blog Oklahoma",
+    "description": "Blog Oklahoma is a newsletter, blog, podcast, and community resource with an Okie-centric point of view. Please join us as we explore Oklahoma and beyond.",
+    "Link": "https://blogoklahoma.com/",
+    "Date": "2026-01-18T08:44:41.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Blog Oklahoma Podcast",
+    "description": "Blog Oklahoma is a friendly, open‑topic podcast covering writing, blogging, podcasting, tech tips, Oklahoma news and voting updates, local history, and everyday life in Oklahoma.",
+    "Link": "https://blogoklahoma.net/",
+    "Date": "2026-01-18T08:45:51.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-net-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "[Actu] Bye WordPress, bonjour 11ty !",
+    "slugifiedTitle": "actu-bye-word-press-bonjour-11ty",
+    "Link": "https://strak.ch/bye-wordpress-bonjour-11ty/",
+    "Date": "2026-01-18T12:44:17.000",
+    "formattedDate": "Jan 18, 2026",
+    "description": "Actualité Tech &amp; Tests",
+    "Author": "Strik-Strak",
+    "slugifiedAuthor": "strik-strak",
+    "AuthorSite": "https://strak.ch",
+    "AuthorSiteDescription": "Actualité Tech &amp; Tests",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/strak-ch-favicon.png",
+    "rssLink": "https://strak.ch/feed.xml",
+    "Categories": [
+      "Migrating to Eleventy"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "JuicyDocs",
+    "Link": "https://github.com/freshjuice-dev/juicydocs-11ty-starter",
+    "Demo": "https://juicydocs.freshjuice.dev/",
+    "description": "A modern, fast, and accessible documentation starter template built with Eleventy and Tailwind CSS.",
+    "screenshotpath": "/screenshots/juicydocs-freshjuice-dev-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Firekeepers",
+    "description": "Firekeepers Restaurant",
+    "Link": "https://firekeepers.info/",
+    "Date": "2026-01-19T20:46:48.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/firekeepers-info-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Oren Lyons Archive",
+    "description": "A Transformative Initiative for Global Impact at Syracuse University",
+    "Link": "https://orenlyonsarchive.org/",
+    "Date": "2026-01-19T20:48:06.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/orenlyonsarchive-org-favicon.png"
   }
 ]

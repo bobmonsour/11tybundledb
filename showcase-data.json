@@ -1,5 +1,41 @@
 [
   {
+    "title": "Firekeepers",
+    "description": "Local restaurant, proudly owned by Onondaga Nation, serving and supporting its community! Est. 1983.",
+    "link": "https://firekeepers.info/",
+    "date": "2026-01-19T20:48:06.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/firekeepers-info-favicon.png",
+    "screenshotpath": "/screenshots/firekeepers-info-large.jpg"
+  },
+  {
+    "title": "Oren Lyons Archive",
+    "description": "A Transformative Initiative for Global Impact at Syracuse University",
+    "link": "https://orenlyonsarchive.org/",
+    "date": "2026-01-19T20:48:06.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/orenlyonsarchive-org-favicon.png",
+    "screenshotpath": "/screenshots/orenlyonsarchive-org-large.jpg"
+  },
+  {
+    "title": "Blog Oklahoma Podcast",
+    "description": "Blog Oklahoma is a friendly, open‑topic podcast covering writing, blogging, podcasting, tech tips, Oklahoma news and voting updates, local history, and everyday life in Oklahoma.",
+    "link": "https://blogoklahoma.net/",
+    "date": "2026-01-18T08:45:51.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-net-favicon.png",
+    "screenshotpath": "/screenshots/blogoklahoma-net-large.jpg"
+  },
+  {
+    "title": "Blog Oklahoma",
+    "description": "Blog Oklahoma is a newsletter, blog, podcast, and community resource with an Okie-centric point of view. Please join us as we explore Oklahoma and beyond.",
+    "link": "https://blogoklahoma.com/",
+    "date": "2026-01-18T08:44:41.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-com-favicon.png",
+    "screenshotpath": "/screenshots/blogoklahoma-com-large.jpg"
+  },
+  {
     "title": "El Perro Negro",
     "description": "Adventures of a dog and mountain lover, heart attack survivor &amp; grumpy old man, living in the mountains of southern Spain",
     "link": "https://elperronegro.com/",
