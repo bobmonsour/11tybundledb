@@ -29666,7 +29666,8 @@
     "Link": "https://jarijokinen.com/",
     "Date": "2024-04-16",
     "formattedDate": "Apr 15, 2024",
-    "favicon": "/img/favicons/jarijokinen-com-favicon.png"
+    "favicon": "/img/favicons/jarijokinen-com-favicon.png",
+    "Skip": true
   },
   {
     "Issue": "39",
@@ -53729,5 +53730,64 @@
     "Date": "2026-01-19T20:48:06.000",
     "formattedDate": "Jan 19, 2026",
     "favicon": "/img/favicons/orenlyonsarchive-org-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Pau Guerrero, photographer",
+    "description": "Barcelona-based photographer specializing in architecture and fine art photography. Portfolio of commissioned projects and exhibition work.",
+    "Link": "https://pauguerrero.com/en/",
+    "Date": "2026-01-20T10:27:27.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/pauguerrero-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "TidyTuesday",
+    "description": "Weekly(-ish) adventures in data visualization",
+    "Link": "https://tidytuesday.seanlunsford.com/",
+    "Date": "2026-01-20T12:28:37.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/tidytuesday-seanlunsford-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Eleventy: Sorted Collection",
+    "slugifiedTitle": "eleventy-sorted-collection",
+    "Link": "https://lea.codes/posts/2026-01-21-eleventy-sorted-collections/",
+    "Date": "2026-01-21",
+    "formattedDate": "Jan 21, 2026",
+    "description": "This is the blog of Lea Rosema, frontend developer with accessibility focus, based in Hamburg",
+    "Author": "Lea Rosema",
+    "slugifiedAuthor": "lea-rosema",
+    "AuthorSite": "https://lea.codes",
+    "AuthorSiteDescription": "Lea&#39;s place to write",
+    "socialLinks": {
+      "mastodon": "https://lea.lgbt/@lea",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/learosema",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/lea-codes-favicon.png",
+    "rssLink": "https://lea.codes/rss.xml",
+    "Categories": [
+      "Collections",
+      "Configuration",
+      "How to...",
+      "Plugins"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Just the Browser",
+    "description": "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.",
+    "Link": "https://justthebrowser.com/",
+    "Date": "2026-01-20T20:19:33.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/justthebrowser-com-favicon.png"
   }
 ]

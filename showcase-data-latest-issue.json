@@ -1,0 +1,155 @@
+[
+  {
+    "title": "Just the Browser",
+    "description": "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.",
+    "link": "https://justthebrowser.com/",
+    "date": "2026-01-20T20:19:33.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/justthebrowser-com-favicon.png",
+    "screenshotpath": "/screenshots/justthebrowser-com-large.jpg"
+  },
+  {
+    "title": "TidyTuesday",
+    "description": "Weekly(-ish) adventures in data visualization",
+    "link": "https://tidytuesday.seanlunsford.com/",
+    "date": "2026-01-20T12:28:37.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/tidytuesday-seanlunsford-com-favicon.png",
+    "screenshotpath": "/screenshots/tidytuesday-seanlunsford-com-large.jpg"
+  },
+  {
+    "title": "Pau Guerrero, photographer",
+    "description": "Barcelona-based photographer specializing in architecture and fine art photography. Portfolio of commissioned projects and exhibition work.",
+    "link": "https://pauguerrero.com/en/",
+    "date": "2026-01-20T10:27:27.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/pauguerrero-com-favicon.png",
+    "screenshotpath": "/screenshots/pauguerrero-com-large.jpg"
+  },
+  {
+    "title": "Firekeepers",
+    "description": "Local restaurant, proudly owned by Onondaga Nation, serving and supporting its community! Est. 1983.",
+    "link": "https://firekeepers.info/",
+    "date": "2026-01-19T20:48:06.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/firekeepers-info-favicon.png",
+    "screenshotpath": "/screenshots/firekeepers-info-large.jpg"
+  },
+  {
+    "title": "Oren Lyons Archive",
+    "description": "A Transformative Initiative for Global Impact at Syracuse University",
+    "link": "https://orenlyonsarchive.org/",
+    "date": "2026-01-19T20:48:06.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/orenlyonsarchive-org-favicon.png",
+    "screenshotpath": "/screenshots/orenlyonsarchive-org-large.jpg"
+  },
+  {
+    "title": "Blog Oklahoma Podcast",
+    "description": "Blog Oklahoma is a friendly, open‑topic podcast covering writing, blogging, podcasting, tech tips, Oklahoma news and voting updates, local history, and everyday life in Oklahoma.",
+    "link": "https://blogoklahoma.net/",
+    "date": "2026-01-18T08:45:51.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-net-favicon.png",
+    "screenshotpath": "/screenshots/blogoklahoma-net-large.jpg"
+  },
+  {
+    "title": "Blog Oklahoma",
+    "description": "Blog Oklahoma is a newsletter, blog, podcast, and community resource with an Okie-centric point of view. Please join us as we explore Oklahoma and beyond.",
+    "link": "https://blogoklahoma.com/",
+    "date": "2026-01-18T08:44:41.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-com-favicon.png",
+    "screenshotpath": "/screenshots/blogoklahoma-com-large.jpg"
+  },
+  {
+    "title": "El Perro Negro",
+    "description": "Adventures of a dog and mountain lover, heart attack survivor &amp; grumpy old man, living in the mountains of southern Spain",
+    "link": "https://elperronegro.com/",
+    "date": "2026-01-14T17:07:32.000",
+    "formattedDate": "Jan 14, 2026",
+    "favicon": "/img/favicons/elperronegro-com-favicon.jpg",
+    "screenshotpath": "/screenshots/elperronegro-com-large.jpg"
+  },
+  {
+    "title": "Fluance",
+    "description": "Fluance: release tension, regain fluidity, mobility and serenity through a simple, natural approach based on movement, breath and play.",
+    "link": "https://fluance.io/en/",
+    "date": "2026-01-14T17:03:22.000",
+    "formattedDate": "Jan 14, 2026",
+    "favicon": "/img/favicons/fluance-io-favicon.jpg",
+    "screenshotpath": "/screenshots/fluance-io-large.jpg"
+  },
+  {
+    "title": "Studio CiTA",
+    "description": "Studio CiTA is an experienced engineering studio that specializes in developing challenging websites and performing online stores.",
+    "link": "https://www.cita.hr/",
+    "date": "2026-01-13T16:03:35.000",
+    "formattedDate": "Jan 13, 2026",
+    "favicon": "/img/favicons/www-cita-hr-favicon.png",
+    "screenshotpath": "/screenshots/www-cita-hr-large.jpg"
+  },
+  {
+    "title": "Jason Pamental",
+    "description": "I’m an expert web typographer, design strategist, UX leader, technologist, and Invited Expert on the W3C Web Fonts Working Group.",
+    "link": "https://www.rwt.io/",
+    "date": "2026-01-13T09:36:21.000",
+    "formattedDate": "Jan 13, 2026",
+    "favicon": "/img/favicons/www-rwt-io-favicon.jpg",
+    "screenshotpath": "/screenshots/www-rwt-io-large.jpg"
+  },
+  {
+    "title": "The No Script Show",
+    "description": "An audio and video where we chat, learn and build websites as simply as we can.",
+    "link": "https://noscript.show/",
+    "date": "2026-01-11T10:58:07.000",
+    "formattedDate": "Jan 11, 2026",
+    "favicon": "/img/favicons/noscript-show-favicon.png",
+    "screenshotpath": "/screenshots/noscript-show-large.jpg"
+  },
+  {
+    "title": "Guns and Frocks",
+    "description": "",
+    "link": "https://gunsandfrocks.com/",
+    "date": "2026-01-08T22:55:35.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/gunsandfrocks-com-large.jpg"
+  },
+  {
+    "title": "Bruchbühne Tübingen",
+    "description": "Webseite der Bruchbühne Tübingen",
+    "link": "https://bruchbuehne.de/",
+    "date": "2026-01-08T22:02:33.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/bruchbuehne-de-favicon.png",
+    "screenshotpath": "/screenshots/bruchbuehne-de-large.jpg"
+  },
+  {
+    "title": "Nicolai's Blog",
+    "description": "Nicolai&#39;s digital garden: Posts, stories, and whatever else comes to mind.",
+    "link": "https://blog.nicolai.ink/",
+    "date": "2026-01-08T21:38:12.000",
+    "formattedDate": "Jan 8, 2026",
+    "favicon": "/img/favicons/blog-nicolai-ink-favicon.svg",
+    "screenshotpath": "/screenshots/blog-nicolai-ink-large.jpg"
+  },
+  {
+    "title": "Calgary Groups",
+    "description": "A centralized, searchable directory to help Calgarians find grassroots organizations, clubs, activist groups, and community initiatives.",
+    "link": "https://calgarygroups.ca/",
+    "date": "2026-01-07T13:44:30.000",
+    "formattedDate": "Jan 7, 2026",
+    "favicon": "/img/favicons/calgarygroups-ca-favicon.png",
+    "screenshotpath": "/screenshots/calgarygroups-ca-large.jpg"
+  },
+  {
+    "title": "Jason Reed",
+    "description": "Personal page of Jason Reed Software Developer",
+    "link": "https://jrsofty1.stinkbugonline.com/",
+    "date": "2026-01-06T22:02:32.000",
+    "formattedDate": "Jan 6, 2026",
+    "favicon": "/img/favicons/jrsofty1-stinkbugonline-com-favicon.jpg",
+    "screenshotpath": "/screenshots/jrsofty1-stinkbugonline-com-large.jpg"
+  }
+]

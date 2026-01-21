@@ -1,5 +1,32 @@
 [
   {
+    "title": "Just the Browser",
+    "description": "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.",
+    "link": "https://justthebrowser.com/",
+    "date": "2026-01-20T20:19:33.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/justthebrowser-com-favicon.png",
+    "screenshotpath": "/screenshots/justthebrowser-com-large.jpg"
+  },
+  {
+    "title": "TidyTuesday",
+    "description": "Weekly(-ish) adventures in data visualization",
+    "link": "https://tidytuesday.seanlunsford.com/",
+    "date": "2026-01-20T12:28:37.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/tidytuesday-seanlunsford-com-favicon.png",
+    "screenshotpath": "/screenshots/tidytuesday-seanlunsford-com-large.jpg"
+  },
+  {
+    "title": "Pau Guerrero, photographer",
+    "description": "Barcelona-based photographer specializing in architecture and fine art photography. Portfolio of commissioned projects and exhibition work.",
+    "link": "https://pauguerrero.com/en/",
+    "date": "2026-01-20T10:27:27.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/pauguerrero-com-favicon.png",
+    "screenshotpath": "/screenshots/pauguerrero-com-large.jpg"
+  },
+  {
     "title": "Firekeepers",
     "description": "Local restaurant, proudly owned by Onondaga Nation, serving and supporting its community! Est. 1983.",
     "link": "https://firekeepers.info/",
@@ -4949,16 +4976,6 @@
     "formattedDate": "Apr 22, 2024",
     "favicon": "/img/favicons/anitacheng-com-favicon.png",
     "screenshotpath": "/screenshots/anitacheng-com-large.jpg"
-  },
-  {
-    "title": "Jari Jokinen",
-    "description": "",
-    "link": "https://jarijokinen.com/",
-    "date": "2024-04-16",
-    "formattedDate": "Apr 15, 2024",
-    "favicon": "/img/favicons/jarijokinen-com-favicon.png",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/jarijokinen-com",
-    "screenshotpath": "/screenshots/jarijokinen-com-large.jpg"
   },
   {
     "title": "Augusta Airport Limo &amp; Car Service | Masters &amp; Party Bus",

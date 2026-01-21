@@ -1,0 +1,468 @@
+[
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "The No Script Show",
+    "description": "An audio and video where we chat, learn and build websites as simply as we can.",
+    "Link": "https://noscript.show/",
+    "Date": "2026-01-11T10:58:07.000",
+    "formattedDate": "Jan 11, 2026",
+    "favicon": "/img/favicons/noscript-show-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Eleventy Adding Page Links to a Post",
+    "slugifiedTitle": "eleventy-adding-page-links-to-a-post",
+    "Link": "https://johnwargo.com/posts/2026/eleventy-adding-page-links-to-a-post/",
+    "Date": "2026-01-10",
+    "formattedDate": "Jan 10, 2026",
+    "description": "I created a plugin called Eleventy Plugin Markdown Post Links that adds a list of links to the top of my posts. The plugin has options for different types of lists and can generate links based on a minimum number specified. I implemented it on my site with a collapsible link list feature. You can fi",
+    "Author": "John M. Wargo",
+    "slugifiedAuthor": "john-m-wargo",
+    "AuthorSite": "https://johnwargo.com",
+    "AuthorSiteDescription": "Internet Home of John M. Wargo",
+    "socialLinks": {
+      "mastodon": "https://mastodon.social/@johnwargo",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/johnwargo",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/johnwargo-com-favicon.png",
+    "rssLink": "https://johnwargo.com/feed.xml",
+    "Categories": [
+      "Markdown",
+      "Plugins"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "From 65 to 83: Attempts at Performance Optimization",
+    "slugifiedTitle": "from-65-to-83-attempts-at-performance-optimization",
+    "Link": "https://brennan.day/from-65-to-83-attempts-at-performance-optimization/",
+    "Date": "2026-01-10",
+    "formattedDate": "Jan 10, 2026",
+    "description": "A humble look into the performance optimizations boosting my Lighthouse score from 65 to 83, including critical CSS, layout shift fixes, and image optimization while maintaining the site&#39;s design and user experience.",
+    "Author": "Brennan Kenneth Brown",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day//feed.xml",
+    "Categories": [
+      "Performance"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Eleventy in 2026",
+    "slugifiedTitle": "eleventy-in-2026",
+    "Link": "https://fudge.org/archive/11ty-in-2026/",
+    "Date": "2026-01-10",
+    "formattedDate": "Jan 10, 2026",
+    "description": "My stack and workflow in 2026",
+    "Author": "Jay Cuthrell",
+    "slugifiedAuthor": "jay-cuthrell",
+    "AuthorSite": "https://fudge.org",
+    "AuthorSiteDescription": "Fudge Factor 🤔💡🤯🤓 is the newsletter and blog of Jay Cuthrell",
+    "socialLinks": {
+      "mastodon": "https://cuthrell.com/@jay",
+      "bluesky": "https://bsky.app/profile/cuthrell.com",
+      "youtube": "",
+      "github": "https://github.com/madrilene",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/fudge-org-favicon.png",
+    "rssLink": "https://fudge.org/rss.xml",
+    "Categories": [
+      "Dates",
+      "Markdown"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Migrating from Cloudflare Pages to Workers (and cleaning up the mess)",
+    "slugifiedTitle": "migrating-from-cloudflare-pages-to-workers-and-cleaning-up-the-mess",
+    "Link": "https://alex.zappa.dev/blog/cloudflare-pages-to-workers-migration/",
+    "Date": "2026-01-11T11:26:46.000",
+    "formattedDate": "Jan 11, 2026",
+    "description": "My experience merging an 11ty static site and API into a single Cloudflare Worker, plus a bash script to delete old Pages deployments when the dashboard won&#39;t let you.",
+    "Author": "Alex Zappa",
+    "slugifiedAuthor": "alex-zappa",
+    "AuthorSite": "https://alex.zappa.dev",
+    "AuthorSiteDescription": "I am writing about my experiences as a naval navel-gazer.",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/reatlat",
+      "linkedin": "https://www.linkedin.com/in/reatlat/"
+    },
+    "favicon": "/img/favicons/alex-zappa-dev-favicon.jpg",
+    "rssLink": "https://alex.zappa.dev/feed.xml",
+    "Categories": [
+      "Configuration",
+      "Deployment"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Added Eleventy-Fetch to the Site",
+    "slugifiedTitle": "added-eleventy-fetch-to-the-site",
+    "Link": "https://johnwargo.com/posts/2026/added-eleventy-fetch/",
+    "Date": "2026-01-13T08:01:13.000",
+    "formattedDate": "Jan 13, 2026",
+    "description": "The article discusses how the Eleventy Fetch plugin can be used to cache API requests in al 11ty site. By making a few changes to the code, the plugin handles data processing automatically. This simplifies the code and reduces the need for manual data conversion. Additionally, the plugin supports cu",
+    "Author": "John M. Wargo",
+    "slugifiedAuthor": "john-m-wargo",
+    "AuthorSite": "https://johnwargo.com",
+    "AuthorSiteDescription": "Internet Home of John M. Wargo",
+    "socialLinks": {
+      "mastodon": "https://mastodon.social/@johnwargo",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/johnwargo",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/johnwargo-com-favicon.png",
+    "rssLink": "https://johnwargo.com/feed.xml",
+    "Categories": [
+      "How to...",
+      "Plugins",
+      "Remote Data"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Jason Pamental",
+    "description": "I’m an expert web typographer, design strategist, UX leader, technologist, and Invited Expert on the W3C Web Fonts Working Group.",
+    "Link": "https://www.rwt.io/",
+    "Date": "2026-01-13T09:36:21.000",
+    "formattedDate": "Jan 13, 2026",
+    "favicon": "/img/favicons/www-rwt-io-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Studio CiTA",
+    "description": "Studio CiTA is an experienced engineering studio that specializes in developing challenging websites and performing online stores.",
+    "Link": "https://www.cita.hr/",
+    "Date": "2026-01-13T16:03:35.000",
+    "formattedDate": "Jan 13, 2026",
+    "favicon": "/img/favicons/www-cita-hr-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "Electric Lime",
+    "Link": "https://github.com/freshjuice-dev/electric-lime-11ty-starter",
+    "Demo": "https://electric-lime-starter.freshjuice.dev/",
+    "description": "A vibrant 11ty starter with Tailwind CSS v4, Alpine.js, and Shiki. Fast, accessible, and beautifully designed.",
+    "screenshotpath": "/screenshots/electric-lime-starter-freshjuice-dev-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "Berry Blast",
+    "Link": "https://github.com/freshjuice-dev/berry-blast-11ty-starter",
+    "Demo": "https://berry-blast-starter.freshjuice.dev/",
+    "description": "A vibrant 11ty starter featuring Tailwind CSS v4, Alpine.js, Nunjucks templates, and full accessibility support with high contrast mode.",
+    "screenshotpath": "/screenshots/berry-blast-starter-freshjuice-dev-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Fluance",
+    "description": "Fluance: release tension, regain fluidity, mobility and serenity through a simple, natural approach based on movement, breath and play.",
+    "Link": "https://fluance.io/en/",
+    "Date": "2026-01-14T17:03:22.000",
+    "formattedDate": "Jan 14, 2026",
+    "favicon": "/img/favicons/fluance-io-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "El Perro Negro",
+    "description": "Adventures of a dog and mountain lover, heart attack survivor &amp; grumpy old man, living in the mountains of southern Spain",
+    "Link": "https://elperronegro.com/",
+    "Date": "2026-01-14T17:07:32.000",
+    "formattedDate": "Jan 14, 2026",
+    "favicon": "/img/favicons/elperronegro-com-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "auld lang syne: The Commonplace (micro)Log",
+    "slugifiedTitle": "auld-lang-syne-the-commonplace-micro-log",
+    "Link": "https://brennan.day/auld-lang-syne-the-commonplace-micro-log/",
+    "Date": "2026-01-02",
+    "formattedDate": "Jan 2, 2026",
+    "description": "A simple gratitude journal online, with media tracking and Beeminder integration. Yes, yet another 11ty project technical write-up, but I promise you&#39;ll learn something.",
+    "Author": "Brennan Kenneth Brown",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day//feed.xml",
+    "Categories": [
+      "Blogging",
+      "Collections",
+      "Front Matter"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "An eleventy config for moving from Jekyll",
+    "slugifiedTitle": "an-eleventy-config-for-moving-from-git-hub-pages",
+    "Link": "https://lea.codes/posts/2026-01-15-an-eleventy-config-for-moving-from-github-pages/",
+    "Date": "2026-01-15T10:29:07.000",
+    "formattedDate": "Jan 15, 2026",
+    "description": "a drop-in eleventy configuration to migrate from Jekyll to Eleventy.",
+    "Author": "Lea Rosema",
+    "slugifiedAuthor": "lea-rosema",
+    "AuthorSite": "https://lea.codes",
+    "AuthorSiteDescription": "Lea&#39;s place to write",
+    "socialLinks": {
+      "mastodon": "https://lea.lgbt/@lea",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/learosema",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/lea-codes-favicon.png",
+    "rssLink": "https://lea.codes/rss.xml",
+    "Categories": [
+      "Configuration",
+      "Deployment",
+      "How to...",
+      "Migrating to Eleventy"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "release",
+    "Title": "Package Bundler v0.5.5",
+    "description": "Internal package to build bundles (using esbuild) for use in various environments - Release Package Bundler v0.5.5 · 11ty/package-bundler",
+    "Link": "https://github.com/11ty/package-bundler/releases/tag/v0.5.5",
+    "Date": "2026-01-15",
+    "formattedDate": "Jan 15, 2026"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Eleventy: Autopopulating the title variable from the template",
+    "slugifiedTitle": "eleventy-autopopulating-the-title-variable-from-the-template",
+    "Link": "https://lea.codes/posts/2026-01-16-eleventy-autopopulating-the-title-variable-from-the-template/",
+    "Date": "2026-01-16T08:28:25.000",
+    "formattedDate": "Jan 16, 2026",
+    "description": "This is the blog of Lea Rosema, frontend developer with accessibility focus, based in Hamburg",
+    "Author": "Lea Rosema",
+    "slugifiedAuthor": "lea-rosema",
+    "AuthorSite": "https://lea.codes",
+    "AuthorSiteDescription": "Lea&#39;s place to write",
+    "socialLinks": {
+      "mastodon": "https://lea.lgbt/@lea",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/learosema",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/lea-codes-favicon.png",
+    "rssLink": "https://lea.codes/rss.xml",
+    "Categories": [
+      "Front Matter",
+      "How to...",
+      "Markdown"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "release",
+    "Title": "Eleventy Dependency Tree v4.0.2",
+    "description": "Returns an unordered array of local paths to dependencies of a node JavaScript file (everything it or any of its dependencies require()s) - Release Eleventy Dependency Tree v4.0.2 · 11ty/eleventy-dependency-tree",
+    "Link": "https://github.com/11ty/eleventy-dependency-tree/releases/tag/v4.0.2",
+    "Date": "2026-01-16",
+    "formattedDate": "Jan 16, 2026"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Having a different title and h1 text using templating in 11ty",
+    "slugifiedTitle": "having-a-different-title-and-h1-text-using-templating-in-11ty",
+    "Link": "https://www.simoncox.com/short-articles/2026-01-17-alternate-main-heading-and-title-in-11ty-templates/",
+    "Date": "2026-01-17T12:16:15.000",
+    "formattedDate": "Jan 17, 2026",
+    "description": "I wanted a way to display a h1 tag that was different from my title tag",
+    "Author": "Simon Cox",
+    "slugifiedAuthor": "simon-cox",
+    "AuthorSite": "https://www.simoncox.com",
+    "AuthorSiteDescription": "Simon Cox is a UK-based freelance Technical SEO consultant and webmaster with over 30 years of experience in website management, planning, building and SEO.",
+    "socialLinks": {
+      "mastodon": "https://seocommunity.social/@simoncox",
+      "bluesky": "https://bsky.app/profile/simoncox.com",
+      "youtube": "",
+      "github": "https://github.com/simoncox",
+      "linkedin": "https://uk.linkedin.com/in/simonmcox"
+    },
+    "favicon": "/img/favicons/www-simoncox-com-favicon.png",
+    "rssLink": "https://www.simoncox.com/feed.xml",
+    "Categories": [
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Blog Oklahoma",
+    "description": "Blog Oklahoma is a newsletter, blog, podcast, and community resource with an Okie-centric point of view. Please join us as we explore Oklahoma and beyond.",
+    "Link": "https://blogoklahoma.com/",
+    "Date": "2026-01-18T08:44:41.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Blog Oklahoma Podcast",
+    "description": "Blog Oklahoma is a friendly, open‑topic podcast covering writing, blogging, podcasting, tech tips, Oklahoma news and voting updates, local history, and everyday life in Oklahoma.",
+    "Link": "https://blogoklahoma.net/",
+    "Date": "2026-01-18T08:45:51.000",
+    "formattedDate": "Jan 18, 2026",
+    "favicon": "/img/favicons/blogoklahoma-net-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "[Actu] Bye WordPress, bonjour 11ty !",
+    "slugifiedTitle": "actu-bye-word-press-bonjour-11ty",
+    "Link": "https://strak.ch/bye-wordpress-bonjour-11ty/",
+    "Date": "2026-01-18T12:44:17.000",
+    "formattedDate": "Jan 18, 2026",
+    "description": "Actualité Tech &amp; Tests",
+    "Author": "Strik-Strak",
+    "slugifiedAuthor": "strik-strak",
+    "AuthorSite": "https://strak.ch",
+    "AuthorSiteDescription": "Actualité Tech &amp; Tests",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/strak-ch-favicon.png",
+    "rssLink": "https://strak.ch/feed.xml",
+    "Categories": [
+      "Migrating to Eleventy"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "JuicyDocs",
+    "Link": "https://github.com/freshjuice-dev/juicydocs-11ty-starter",
+    "Demo": "https://juicydocs.freshjuice.dev/",
+    "description": "A modern, fast, and accessible documentation starter template built with Eleventy and Tailwind CSS.",
+    "screenshotpath": "/screenshots/juicydocs-freshjuice-dev-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Firekeepers",
+    "description": "Firekeepers Restaurant",
+    "Link": "https://firekeepers.info/",
+    "Date": "2026-01-19T20:46:48.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/firekeepers-info-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Oren Lyons Archive",
+    "description": "A Transformative Initiative for Global Impact at Syracuse University",
+    "Link": "https://orenlyonsarchive.org/",
+    "Date": "2026-01-19T20:48:06.000",
+    "formattedDate": "Jan 19, 2026",
+    "favicon": "/img/favicons/orenlyonsarchive-org-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Pau Guerrero, photographer",
+    "description": "Barcelona-based photographer specializing in architecture and fine art photography. Portfolio of commissioned projects and exhibition work.",
+    "Link": "https://pauguerrero.com/en/",
+    "Date": "2026-01-20T10:27:27.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/pauguerrero-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "TidyTuesday",
+    "description": "Weekly(-ish) adventures in data visualization",
+    "Link": "https://tidytuesday.seanlunsford.com/",
+    "Date": "2026-01-20T12:28:37.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/tidytuesday-seanlunsford-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Eleventy: Sorted Collection",
+    "slugifiedTitle": "eleventy-sorted-collection",
+    "Link": "https://lea.codes/posts/2026-01-21-eleventy-sorted-collections/",
+    "Date": "2026-01-21",
+    "formattedDate": "Jan 21, 2026",
+    "description": "This is the blog of Lea Rosema, frontend developer with accessibility focus, based in Hamburg",
+    "Author": "Lea Rosema",
+    "slugifiedAuthor": "lea-rosema",
+    "AuthorSite": "https://lea.codes",
+    "AuthorSiteDescription": "Lea&#39;s place to write",
+    "socialLinks": {
+      "mastodon": "https://lea.lgbt/@lea",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/learosema",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/lea-codes-favicon.png",
+    "rssLink": "https://lea.codes/rss.xml",
+    "Categories": [
+      "Collections",
+      "Configuration",
+      "How to...",
+      "Plugins"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Just the Browser",
+    "description": "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.",
+    "Link": "https://justthebrowser.com/",
+    "Date": "2026-01-20T20:19:33.000",
+    "formattedDate": "Jan 20, 2026",
+    "favicon": "/img/favicons/justthebrowser-com-favicon.png"
+  }
+]
