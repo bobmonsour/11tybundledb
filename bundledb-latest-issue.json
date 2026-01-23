@@ -464,5 +464,93 @@
     "Date": "2026-01-20T20:19:33.000",
     "formattedDate": "Jan 20, 2026",
     "favicon": "/img/favicons/justthebrowser-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Katherine Yang",
+    "description": "Katherine Yang’s website.",
+    "Link": "https://kayserifserif.place/",
+    "Date": "2026-01-23T09:42:08.000",
+    "formattedDate": "Jan 23, 2026",
+    "favicon": "/img/favicons/kayserifserif-place-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Max Chung",
+    "description": "Designer with frontend experience based in Columbus, Ohio.",
+    "Link": "https://maxjchung.com/",
+    "Date": "2026-01-23T10:10:30.000",
+    "formattedDate": "Jan 23, 2026",
+    "favicon": "#icon-globe"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Backlinks in Eleventy",
+    "slugifiedTitle": "backlinks-in-eleventy",
+    "Link": "https://codemacabre.com/notes/backlinks-in-eleventy/",
+    "Date": "2026-01-23T10:42:59.000",
+    "formattedDate": "Jan 23, 2026",
+    "description": "A guide to automatic backlinking in Eleventy",
+    "Author": "Myles Lewando",
+    "slugifiedAuthor": "myles-lewando",
+    "AuthorSite": "https://codemacabre.com",
+    "AuthorSiteDescription": "The portfolio and personal site of Myles Lewando",
+    "socialLinks": {
+      "mastodon": "https://social.coop/@codemacabre",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": "https://www.linkedin.com/in/codemacabre/"
+    },
+    "favicon": "/img/favicons/codemacabre-com-favicon.svg",
+    "rssLink": "https://codemacabre.com/feed.xml",
+    "Categories": [
+      "Collections",
+      "Configuration",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Creatine an Alphabetical Tag Page feat. Nunjucks Pitfalls",
+    "slugifiedTitle": "creatine-an-alphabetical-tag-page-feat-nunjucks-pitfalls",
+    "Link": "https://brennan.day/creatine-an-alphabetical-tag-page-feat-nunjucks-pitfalls/",
+    "Date": "2026-01-22",
+    "formattedDate": "Jan 22, 2026",
+    "description": "I transformed a messy tag list into an organized alphabetical sections, and there were a surprising amount of gotchas I encountered along the way.",
+    "Author": "Brennan Kenneth Brown",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day//feed.xml",
+    "Categories": [
+      "Blogging",
+      "Collections",
+      "Configuration",
+      "Filters",
+      "How to...",
+      "Nunjucks/Macros"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "sveleven",
+    "Link": "https://github.com/anydigital/sveleven",
+    "Demo": "https://sveleven.com/",
+    "description": "🆕 Ultra-lightweight, zero-config Eleventy starter (with Tailwind & CMS included!)",
+    "screenshotpath": "/screenshots/sveleven-com-large.jpg"
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "title": "Max Chung",
+    "description": "Designer with frontend experience based in Columbus, Ohio.",
+    "link": "https://maxjchung.com/",
+    "date": "2026-01-23T10:10:30.000",
+    "formattedDate": "Jan 23, 2026",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/maxjchung-com-large.jpg"
+  },
+  {
+    "title": "Katherine Yang",
+    "description": "Katherine Yang’s website.",
+    "link": "https://kayserifserif.place/",
+    "date": "2026-01-23T09:42:08.000",
+    "formattedDate": "Jan 23, 2026",
+    "favicon": "/img/favicons/kayserifserif-place-favicon.png",
+    "screenshotpath": "/screenshots/kayserifserif-place-large.jpg"
+  },
+  {
     "title": "Just the Browser",
     "description": "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.",
     "link": "https://justthebrowser.com/",
