@@ -1,5 +1,23 @@
 [
   {
+    "title": "Brennan's Weblog",
+    "description": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "link": "https://brennan.day/",
+    "date": "2026-01-25T11:22:46.000",
+    "formattedDate": "Jan 25, 2026",
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "screenshotpath": "/screenshots/brennan-day-large.jpg"
+  },
+  {
+    "title": "Ultranormal",
+    "description": "100% AI-free half-assed writing hand crafted by Kevin Lawver about programming, life, cooking and random nonsense.",
+    "link": "https://lawver.net/",
+    "date": "2026-01-24T09:25:38.000",
+    "formattedDate": "Jan 24, 2026",
+    "favicon": "/img/favicons/lawver-net-favicon.jpg",
+    "screenshotpath": "/screenshots/lawver-net-large.jpg"
+  },
+  {
     "title": "Max Chung",
     "description": "Designer with frontend experience based in Columbus, Ohio.",
     "link": "https://maxjchung.com/",

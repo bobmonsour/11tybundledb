@@ -516,7 +516,7 @@
   {
     "Issue": "83",
     "Type": "blog post",
-    "Title": "Creatine an Alphabetical Tag Page feat. Nunjucks Pitfalls",
+    "Title": "Creating an Alphabetical Tag Page feat. Nunjucks Pitfalls",
     "slugifiedTitle": "creatine-an-alphabetical-tag-page-feat-nunjucks-pitfalls",
     "Link": "https://brennan.day/creatine-an-alphabetical-tag-page-feat-nunjucks-pitfalls/",
     "Date": "2026-01-22",
@@ -552,5 +552,98 @@
     "Demo": "https://sveleven.com/",
     "description": "🆕 Ultra-lightweight, zero-config Eleventy starter (with Tailwind & CMS included!)",
     "screenshotpath": "/screenshots/sveleven-com-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "twtxt: Simple, Decentralized Microblogging with status.lol",
+    "slugifiedTitle": "twtxt-simple-decentralized-microblogging-with-status-lol",
+    "Link": "https://brennan.day/twtxt-simple-decentralized-microblogging-with-status-lol/",
+    "Date": "2026-01-21",
+    "formattedDate": "Jan 21, 2026",
+    "description": "I set up an effortless sync between my status.lol updates and a twtxt feed, creating a bridge between IndieWeb tools and classic decentralized microblogging.",
+    "Author": "Brennan Kenneth Brown",
+    "slugifiedAuthor": "brennan-kenneth-brown",
+    "AuthorSite": "https://brennan.day",
+    "AuthorSiteDescription": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "socialLinks": {
+      "mastodon": "https://en.pronouns.page/@brennanbrown",
+      "bluesky": "https://bsky.app/profile/brennanbrown.ca",
+      "youtube": "",
+      "github": "https://github.com/brennanbrown",
+      "linkedin": "https://www.linkedin.com/in/brennankbrown"
+    },
+    "favicon": "/img/favicons/brennan-day-favicon.png",
+    "rssLink": "https://brennan.day//feed.xml",
+    "Categories": [
+      "Blogging",
+      "Global Data",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "A Shiny New Bloggy Home",
+    "slugifiedTitle": "a-shiny-new-bloggy-home",
+    "Link": "https://lawver.net/2026/01/a-shiny-new-bloggy-home/",
+    "Date": "2026-01-24T09:18:31.000",
+    "formattedDate": "Jan 24, 2026",
+    "description": "100% AI-free half-assed writing hand crafted by Kevin Lawver about programming, life, cooking and random nonsense.",
+    "Author": "Kevin Lawver",
+    "slugifiedAuthor": "kevin-lawver",
+    "AuthorSite": "https://lawver.net",
+    "AuthorSiteDescription": "100% AI-free half-assed writing hand crafted by Kevin Lawver about programming, life, cooking and random nonsense.",
+    "socialLinks": {
+      "mastodon": "https://social.lol/@kpl",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": "https://www.linkedin.com/in/kevinlawver/"
+    },
+    "favicon": "/img/favicons/lawver-net-favicon.jpg",
+    "rssLink": "https://lawver.net/feed.xml",
+    "Categories": [
+      "Blogging",
+      "Migrating to Eleventy"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Ultranormal",
+    "description": "100% AI-free half-assed writing hand crafted by Kevin Lawver about programming, life, cooking and random nonsense.",
+    "Link": "https://lawver.net/",
+    "Date": "2026-01-24T09:25:38.000",
+    "formattedDate": "Jan 24, 2026",
+    "favicon": "/img/favicons/lawver-net-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Brennan's Weblog",
+    "description": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
+    "Link": "https://brennan.day/",
+    "Date": "2026-01-25T11:22:46.000",
+    "formattedDate": "Jan 25, 2026",
+    "favicon": "/img/favicons/brennan-day-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "Retroweird Blog Theme",
+    "Link": "https://github.com/brennanbrown/retroweird",
+    "Demo": "https://retroweird.netlify.app/",
+    "description": "🎈 An 11ty blog theme inspired by the Web 1.0 aesthetic of GeoCities, MySpace, AngelFire, etc. Make the web weird again!",
+    "screenshotpath": "/screenshots/retroweird-netlify-app-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "Indieweb Starter Blog",
+    "Link": "https://github.com/brennanbrown/11ty-Indie-Web-Blog-Starter",
+    "Demo": "https://indieweb-blog-starter.netlify.app/",
+    "description": "🎈 A modern, feature-complete blog template built with Eleventy and Tailwind CSS. Designed for writers who want to own their content and participate in the IndieWeb.",
+    "screenshotpath": "/screenshots/indieweb-blog-starter-netlify-app-large.jpg"
   }
 ]
