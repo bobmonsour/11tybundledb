@@ -1,5 +1,41 @@
 [
   {
+    "title": "River Seeber",
+    "description": "",
+    "link": "https://riverseeber.net/",
+    "date": "2026-01-27T11:13:57.000",
+    "formattedDate": "Jan 27, 2026",
+    "favicon": "/img/favicons/riverseeber-net-favicon.jpg",
+    "screenshotpath": "/screenshots/riverseeber-net-large.jpg"
+  },
+  {
+    "title": "Andypbrowne",
+    "description": "A personal blog of a User Experience professional who specializes in DesignOperations",
+    "link": "https://andypbrowne.com/",
+    "date": "2026-01-27T10:09:40.000",
+    "formattedDate": "Jan 27, 2026",
+    "favicon": "/img/favicons/andypbrowne-com-favicon.jpg",
+    "screenshotpath": "/screenshots/andypbrowne-com-large.jpg"
+  },
+  {
+    "title": "Susan Jean Robertson",
+    "description": "From the digital home of Susan Robertson: sewer, knitter, and reader",
+    "link": "https://www.susanjeanrobertson.com/",
+    "date": "2026-01-26T14:35:10.000",
+    "formattedDate": "Jan 26, 2026",
+    "favicon": "/img/favicons/www-susanjeanrobertson-com-favicon.png",
+    "screenshotpath": "/screenshots/www-susanjeanrobertson-com-large.jpg"
+  },
+  {
+    "title": "TECHNIQUES DE MÉDITATION",
+    "description": "Le site qui vous permet de découvrir l&#39;univers de la méditation",
+    "link": "https://techniquesdemeditation.com/",
+    "date": "2026-01-26T12:09:07.000",
+    "formattedDate": "Jan 26, 2026",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/techniquesdemeditation-com-large.jpg"
+  },
+  {
     "title": "Brennan's Weblog",
     "description": "Journal entries, essays, poetry, and musings on craft, technology, and the human experience. A Queer Métis writer exploring the intersections of Indigenous identity, digital culture, and creativity.",
     "link": "https://brennan.day/",

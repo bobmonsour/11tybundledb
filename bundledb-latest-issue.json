@@ -645,5 +645,45 @@
     "Demo": "https://indieweb-blog-starter.netlify.app/",
     "description": "🎈 A modern, feature-complete blog template built with Eleventy and Tailwind CSS. Designed for writers who want to own their content and participate in the IndieWeb.",
     "screenshotpath": "/screenshots/indieweb-blog-starter-netlify-app-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "TECHNIQUES DE MÉDITATION",
+    "description": "Le site qui vous permet de découvrir l&#39;univers de la méditation",
+    "Link": "https://techniquesdemeditation.com/",
+    "Date": "2026-01-26T12:09:07.000",
+    "formattedDate": "Jan 26, 2026",
+    "favicon": "#icon-globe"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Susan Jean Robertson",
+    "description": "From the digital home of Susan Robertson: sewer, knitter, and reader",
+    "Link": "https://www.susanjeanrobertson.com/",
+    "Date": "2026-01-26T14:35:10.000",
+    "formattedDate": "Jan 26, 2026",
+    "favicon": "/img/favicons/www-susanjeanrobertson-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Andypbrowne",
+    "description": "A personal blog of a User Experience professional who specializes in DesignOperations",
+    "Link": "https://andypbrowne.com/",
+    "Date": "2026-01-27T10:09:40.000",
+    "formattedDate": "Jan 27, 2026",
+    "favicon": "/img/favicons/andypbrowne-com-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "River Seeber",
+    "description": "",
+    "Link": "https://riverseeber.net/",
+    "Date": "2026-01-27T11:13:57.000",
+    "formattedDate": "Jan 27, 2026",
+    "favicon": "/img/favicons/riverseeber-net-favicon.jpg"
   }
 ]
