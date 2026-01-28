@@ -547,7 +547,7 @@
   {
     "Issue": "83",
     "Type": "starter",
-    "Title": "sveleven",
+    "Title": "Sveleven",
     "Link": "https://github.com/anydigital/sveleven",
     "Demo": "https://sveleven.com/",
     "description": "🆕 Ultra-lightweight, zero-config Eleventy starter (with Tailwind & CMS included!)",
@@ -685,5 +685,99 @@
     "Date": "2026-01-27T11:13:57.000",
     "formattedDate": "Jan 27, 2026",
     "favicon": "/img/favicons/riverseeber-net-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Minify those CSS & JS bundles? Maybe not.",
+    "slugifiedTitle": "minify-those-css-and-js-bundles-maybe-not",
+    "Link": "https://bobmonsour.com/blog/minify-that-css-bundle-maybe-not/",
+    "Date": "2026-01-26",
+    "formattedDate": "Jan 26, 2026",
+    "description": "I saved a ton on site build time by not minifying CSS &amp; JS...YMMV.",
+    "Author": "Bob Monsour",
+    "slugifiedAuthor": "bob-monsour",
+    "AuthorSite": "https://bobmonsour.com",
+    "AuthorSiteDescription": "Retired. Web hobbyist. Creator of 11tybundle.dev.",
+    "socialLinks": {
+      "mastodon": "https://indieweb.social/@bobmonsour",
+      "bluesky": "https://bsky.app/profile/bobmonsour.com",
+      "youtube": "",
+      "github": "https://github.com/bobmonsour",
+      "linkedin": "https://www.linkedin.com/in/bobmonsour/"
+    },
+    "favicon": "/img/favicons/bobmonsour-com-favicon.jpg",
+    "rssLink": "https://www.bobmonsour.com/feed.xml",
+    "Categories": [
+      "Asset Pipelines",
+      "CSS/Sass",
+      "Configuration"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "On not minifying CSS & JS (part 2)",
+    "slugifiedTitle": "on-not-minifying-css-and-js-part-2",
+    "Link": "https://bobmonsour.com/blog/on-not-minifying-part2/",
+    "Date": "2026-01-27",
+    "formattedDate": "Jan 27, 2026",
+    "description": "So this is how I am now not minifying CSS and JS bundles in 11ty.",
+    "Author": "Bob Monsour",
+    "slugifiedAuthor": "bob-monsour",
+    "AuthorSite": "https://bobmonsour.com",
+    "AuthorSiteDescription": "Retired. Web hobbyist. Creator of 11tybundle.dev.",
+    "socialLinks": {
+      "mastodon": "https://indieweb.social/@bobmonsour",
+      "bluesky": "https://bsky.app/profile/bobmonsour.com",
+      "youtube": "",
+      "github": "https://github.com/bobmonsour",
+      "linkedin": "https://www.linkedin.com/in/bobmonsour/"
+    },
+    "favicon": "/img/favicons/bobmonsour-com-favicon.jpg",
+    "rssLink": "https://www.bobmonsour.com/feed.xml",
+    "Categories": [
+      "Asset Pipelines",
+      "CSS/Sass",
+      "Configuration"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "halwebsite",
+    "description": "i'm hal. i'm a dog guy from the philippines. i draw and make games.",
+    "Link": "https://astr-hal.neocities.org/",
+    "Date": "2026-01-28T09:26:09.000",
+    "formattedDate": "Jan 28, 2026",
+    "favicon": "/img/favicons/astr-hal-neocities-org-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Better Handling Images on My 11ty Blog",
+    "slugifiedTitle": "better-handling-images-on-my-11ty-blog",
+    "Link": "https://deepakness.com/blog/better-images/",
+    "Date": "2026-01-27",
+    "formattedDate": "Jan 27, 2026",
+    "description": "Better image handling on my blog and pre-optimizing them all instead of using @11ty/eleventy-img plugin.",
+    "Author": "DeepakNess",
+    "slugifiedAuthor": "deepak-ness",
+    "AuthorSite": "https://deepakness.com",
+    "AuthorSiteDescription": "DeepakNess is an internet generalist exploring the edges of AI, tech, programmatic SEO, and marketing.",
+    "socialLinks": {
+      "mastodon": "https://www.threads.com/@deepakness",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/deepakness",
+      "linkedin": "https://linkedin.com/in/deepakness"
+    },
+    "favicon": "/img/favicons/deepakness-com-favicon.jpg",
+    "rssLink": "https://deepakness.com/feed/feed.xml",
+    "Categories": [
+      "Blogging",
+      "Configuration",
+      "Images"
+    ]
   }
 ]
