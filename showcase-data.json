@@ -1,5 +1,14 @@
 [
   {
+    "title": "Reverent Geek",
+    "description": "Ramblings on bacon, drawing, and technology",
+    "link": "https://reverentgeek.com/",
+    "date": "2026-01-28T12:35:13.000",
+    "formattedDate": "Jan 28, 2026",
+    "favicon": "/img/favicons/reverentgeek-com-favicon.png",
+    "screenshotpath": "/screenshots/reverentgeek-com-large.jpg"
+  },
+  {
     "title": "halwebsite",
     "description": "i'm hal. i'm a dog guy from the philippines. i draw and make games.",
     "link": "https://astr-hal.neocities.org/",

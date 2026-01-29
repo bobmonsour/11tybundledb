@@ -779,5 +779,71 @@
       "Configuration",
       "Images"
     ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Reverent Geek",
+    "description": "Ramblings on bacon, drawing, and technology",
+    "Link": "https://reverentgeek.com/",
+    "Date": "2026-01-28T12:35:13.000",
+    "formattedDate": "Jan 28, 2026",
+    "favicon": "/img/favicons/reverentgeek-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Cache-busting that CSS & JS",
+    "slugifiedTitle": "cache-busting-that-css-and-js",
+    "Link": "https://bobmonsour.com/blog/cache-busting-that-css-and-js/",
+    "Date": "2026-01-28T15:54:59.000",
+    "formattedDate": "Jan 28, 2026",
+    "description": "The saga continues...now we cache-bust those CSS and JS references.",
+    "Author": "Bob Monsour",
+    "slugifiedAuthor": "bob-monsour",
+    "AuthorSite": "https://bobmonsour.com",
+    "AuthorSiteDescription": "Retired. Web hobbyist. Creator of 11tybundle.dev.",
+    "socialLinks": {
+      "mastodon": "https://indieweb.social/@bobmonsour",
+      "bluesky": "https://bsky.app/profile/bobmonsour.com",
+      "youtube": "",
+      "github": "https://github.com/bobmonsour",
+      "linkedin": "https://www.linkedin.com/in/bobmonsour/"
+    },
+    "favicon": "/img/favicons/bobmonsour-com-favicon.jpg",
+    "rssLink": "https://www.bobmonsour.com/feed.xml",
+    "Categories": [
+      "Asset Pipelines",
+      "CSS/Sass",
+      "Configuration",
+      "Dates",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "11tyCMS: Public beta releases and source! Windows & Linux support, minor refactors and CSS improvements!",
+    "slugifiedTitle": "11ty-cms-public-beta-releases-and-source-windows-and-linux-support-minor-refactors-and-css-improvements",
+    "Link": "https://11tycms.com/blog/posts/11tycms-public-beta-releases-and-source-windows-and-linux-support-minor-refactors-and-css-improvements/",
+    "Date": "2026-01-28T21:31:16.000",
+    "formattedDate": "Jan 28, 2026",
+    "description": "Happy new year! It&#39;s been over 6 months since we started this journey, and now we&#39;re ready to embark on public beta testing! Outside of that, this update i",
+    "Author": "Jessie Heald",
+    "slugifiedAuthor": "jessie-heald",
+    "AuthorSite": "https://jessieheald.com/",
+    "AuthorSiteDescription": "I&#39;m a full stack React and Node developer, based in Birmingham, UK. I&#39;m a results and impact driven developer with over 15 years of experience and a love for FOSS. I write scalable, maintainable web apps, with a focus on clean and agile code to support product growth and stability.",
+    "socialLinks": {
+      "mastodon": "https://defcon.social/@JessieHealdUK",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/jessieheald-com-favicon.svg",
+    "rssLink": "https://jessieheald.com/feed.xml",
+    "Categories": [
+      "CMS"
+    ]
   }
 ]
