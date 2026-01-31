@@ -1,5 +1,68 @@
 [
   {
+    "title": "mikes thoughts",
+    "description": "My writing place.",
+    "link": "https://mikesthoughts.blog/",
+    "date": "2026-01-31T00:57:49.215Z",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "#icon-person-circle",
+    "screenshotpath": "/screenshots/mikesthoughts-blog-large.jpg"
+  },
+  {
+    "title": "Maximilian Boll",
+    "description": "Maximilian Boll - Frontend Web-Developer in Mainz/Germany - makkusu.dev",
+    "link": "https://makkusu.dev/",
+    "date": "2026-01-31T00:51:55.351Z",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "/img/favicons/makkusu-dev-favicon.png",
+    "screenshotpath": "/screenshots/makkusu-dev-large.jpg"
+  },
+  {
+    "title": "Vermont Beer Trail",
+    "description": "A Comprehensive Mobile Reference and Directory of Vermont's Brewers and Their Communities",
+    "link": "https://www.vtbeertrail.com/",
+    "date": "2026-01-30T23:49:00.539Z",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "/img/favicons/www-vtbeertrail-com-favicon.png",
+    "screenshotpath": "/screenshots/www-vtbeertrail-com-large.jpg"
+  },
+  {
+    "title": "Jamison Shea",
+    "description": "Author of the I Feed Her to the Beast Duology, Roar of the Lambs, and other dark fantasy and horror novels.",
+    "link": "https://www.jamisonshea.com/",
+    "date": "2026-01-29T09:23:59.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-jamisonshea-com-favicon.png",
+    "screenshotpath": "/screenshots/www-jamisonshea-com-large.jpg"
+  },
+  {
+    "title": "Learn Money Basics",
+    "description": "Learn how money really works — from budgeting and saving to investing and building wealth. The Learn Money Basics Course helps young adults take control of their finances, grow confidence, and build a system that lasts a lifetime.",
+    "link": "https://www.learnmoneybasics.com/",
+    "date": "2026-01-29T09:23:20.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-learnmoneybasics-com-favicon.png",
+    "screenshotpath": "/screenshots/www-learnmoneybasics-com-large.jpg"
+  },
+  {
+    "title": "55plus Retirement Planning",
+    "description": "55+ Retirement Planning – retirement investment advice. Retirement mistakes to avoid. Happiness and enjoyment in retirement. Turn retirement savings into retirement income. Get Started Now with Dave",
+    "link": "https://www.55plusretirementplanning.com/",
+    "date": "2026-01-29T09:22:43.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-55plusretirementplanning-com-favicon.png",
+    "screenshotpath": "/screenshots/www-55plusretirementplanning-com-large.jpg"
+  },
+  {
+    "title": "badlander spirits",
+    "description": "Best canned cocktails this side of the Mississippi. Try our award-winning Montana Mule, and other canned cocktails. Grab a baddie for your next adventure!",
+    "link": "https://www.badlanderspirits.com/",
+    "date": "2026-01-29T09:10:38.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-badlanderspirits-com-favicon.png",
+    "screenshotpath": "/screenshots/www-badlanderspirits-com-large.jpg"
+  },
+  {
     "title": "Reverent Geek",
     "description": "Ramblings on bacon, drawing, and technology",
     "link": "https://reverentgeek.com/",

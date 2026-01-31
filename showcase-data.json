@@ -1,5 +1,68 @@
 [
   {
+    "title": "mikes thoughts",
+    "description": "My writing place.",
+    "link": "https://mikesthoughts.blog/",
+    "date": "2026-01-31T00:57:49.215Z",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "#icon-person-circle",
+    "screenshotpath": "/screenshots/mikesthoughts-blog-large.jpg"
+  },
+  {
+    "title": "Maximilian Boll",
+    "description": "Maximilian Boll - Frontend Web-Developer in Mainz/Germany - makkusu.dev",
+    "link": "https://makkusu.dev/",
+    "date": "2026-01-31T00:51:55.351Z",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "/img/favicons/makkusu-dev-favicon.png",
+    "screenshotpath": "/screenshots/makkusu-dev-large.jpg"
+  },
+  {
+    "title": "Vermont Beer Trail",
+    "description": "A Comprehensive Mobile Reference and Directory of Vermont's Brewers and Their Communities",
+    "link": "https://www.vtbeertrail.com/",
+    "date": "2026-01-30T23:49:00.539Z",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "/img/favicons/www-vtbeertrail-com-favicon.png",
+    "screenshotpath": "/screenshots/www-vtbeertrail-com-large.jpg"
+  },
+  {
+    "title": "Jamison Shea",
+    "description": "Author of the I Feed Her to the Beast Duology, Roar of the Lambs, and other dark fantasy and horror novels.",
+    "link": "https://www.jamisonshea.com/",
+    "date": "2026-01-29T09:23:59.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-jamisonshea-com-favicon.png",
+    "screenshotpath": "/screenshots/www-jamisonshea-com-large.jpg"
+  },
+  {
+    "title": "Learn Money Basics",
+    "description": "Learn how money really works — from budgeting and saving to investing and building wealth. The Learn Money Basics Course helps young adults take control of their finances, grow confidence, and build a system that lasts a lifetime.",
+    "link": "https://www.learnmoneybasics.com/",
+    "date": "2026-01-29T09:23:20.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-learnmoneybasics-com-favicon.png",
+    "screenshotpath": "/screenshots/www-learnmoneybasics-com-large.jpg"
+  },
+  {
+    "title": "55plus Retirement Planning",
+    "description": "55+ Retirement Planning – retirement investment advice. Retirement mistakes to avoid. Happiness and enjoyment in retirement. Turn retirement savings into retirement income. Get Started Now with Dave",
+    "link": "https://www.55plusretirementplanning.com/",
+    "date": "2026-01-29T09:22:43.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-55plusretirementplanning-com-favicon.png",
+    "screenshotpath": "/screenshots/www-55plusretirementplanning-com-large.jpg"
+  },
+  {
+    "title": "badlander spirits",
+    "description": "Best canned cocktails this side of the Mississippi. Try our award-winning Montana Mule, and other canned cocktails. Grab a baddie for your next adventure!",
+    "link": "https://www.badlanderspirits.com/",
+    "date": "2026-01-29T09:10:38.000",
+    "formattedDate": "Jan 29, 2026",
+    "favicon": "/img/favicons/www-badlanderspirits-com-favicon.png",
+    "screenshotpath": "/screenshots/www-badlanderspirits-com-large.jpg"
+  },
+  {
     "title": "Reverent Geek",
     "description": "Ramblings on bacon, drawing, and technology",
     "link": "https://reverentgeek.com/",
@@ -244,7 +307,7 @@
   },
   {
     "title": "Angélique Weger",
-    "description": "",
+    "description": "Angélique Weger is a coder, designer, teacher, learner and overall enthusiast. This is her blog.",
     "link": "https://angeliqueweger.com/",
     "date": "2025-12-31T14:49:13.000",
     "formattedDate": "Dec 31, 2025",
@@ -778,7 +841,7 @@
   },
   {
     "title": "FIfF e.V. – FIfF e.V.",
-    "description": "",
+    "description": "Das Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung ist ein Zusammenschluss von engagiert-kritischen Fachleuten aus Wissenschaft und Praxis der Informati(onstechni)k.",
     "link": "https://www.fiff.de/",
     "date": "2025-09-20T08:32:38.000",
     "formattedDate": "Sep 20, 2025",
@@ -862,7 +925,7 @@
   },
   {
     "title": "Delyo Dobrev",
-    "description": "",
+    "description": "Graphic, web, and editorial designer working with open tools and open approaches.",
     "link": "https://www.delyo.be/",
     "date": "2025-08-29T09:17:08.000",
     "formattedDate": "Aug 29, 2025",
@@ -959,7 +1022,7 @@
   },
   {
     "title": "Ocean for iPhone: Focused Gmail Inbox",
-    "description": "",
+    "description": "Your Gmail Inbox is a huge unorganized list of tasks. Ocean brings clarity and focus.",
     "link": "https://ocean.app/",
     "date": "2025-08-09T07:16:06.000",
     "formattedDate": "Aug 9, 2025",
@@ -978,7 +1041,7 @@
   },
   {
     "title": "Inclusive Design 24 (#id24) 25 September 2025",
-    "description": "",
+    "description": "A free 24-hour online community event on accessibility and inclusion",
     "link": "https://inclusivedesign24.org/",
     "date": "2025-08-08T08:11:24.000",
     "formattedDate": "Aug 8, 2025",
@@ -1286,7 +1349,7 @@
   },
   {
     "title": "Design for humans - Roodesign",
-    "description": "",
+    "description": "Roodesign: Design for humans",
     "link": "https://roodesign.co.uk/",
     "date": "2025-06-12",
     "formattedDate": "Jun 11, 2025",
@@ -1315,7 +1378,7 @@
   },
   {
     "title": "Portfolio - Ava Gaiety W.",
-    "description": "",
+    "description": "Portfolio containing work experience, code, volunteering and more!",
     "link": "https://gaiety.me/",
     "date": "2025-06-08",
     "formattedDate": "Jun 7, 2025",
@@ -1897,7 +1960,7 @@
   },
   {
     "title": "TechCats ~ The cats of people who make websites",
-    "description": "",
+    "description": "The cats of people who make websites.",
     "link": "https://techcats.netlify.app/",
     "date": "2025-04-01",
     "formattedDate": "Mar 31, 2025",
@@ -1984,7 +2047,7 @@
   },
   {
     "title": "Chobble Template | Eleventy Starter | AGPLv3",
-    "description": "",
+    "description": "Example site for the Chobble template - an Eleventy site, built on Nix and hosted on Neocities or Bunny.net",
     "link": "https://example.chobble.com/",
     "date": "2025-04-01",
     "formattedDate": "Mar 31, 2025",
@@ -2052,7 +2115,7 @@
   },
   {
     "title": "18F Guides",
-    "description": "",
+    "description": "A central resource for all 18F guides and methods",
     "link": "https://18f.org/guides/",
     "date": "2025-03-19",
     "formattedDate": "Mar 18, 2025",
@@ -2376,7 +2439,7 @@
   },
   {
     "title": "47 Watch",
-    "description": "",
+    "description": "Tracking and analyzing executive actions of the 47th President of the United States",
     "link": "https://47-watch.com/",
     "date": "2025-02-18",
     "formattedDate": "Feb 17, 2025",
@@ -2454,7 +2517,7 @@
   },
   {
     "title": "Home | Noelle.dev",
-    "description": "",
+    "description": "The personal work and knowledge repository of Noelle Leigh.",
     "link": "https://noelle.dev/",
     "date": "2025-02-05",
     "formattedDate": "Feb 5, 2025",
@@ -3331,7 +3394,7 @@
   },
   {
     "title": "HTML for People",
-    "description": "",
+    "description": "HTML isn&#39;t only for people working in the tech field. It&#39;s for everyone. Learn how to make a website from scratch in this beginner friendly web book.",
     "link": "https://htmlforpeople.com/",
     "date": "2024-10-29",
     "formattedDate": "Oct 28, 2024",
@@ -3453,7 +3516,7 @@
   },
   {
     "title": "Sākumlapa · Pagaidu",
-    "description": "",
+    "description": "Vietne, kurā apkopoti īsi, viegli un ne tik viegli lasāmi teksti. Rakstīts latviešu valodas vārdā.",
     "link": "https://pagaidu.github.io/",
     "date": "2024-10-15",
     "formattedDate": "Oct 14, 2024",
@@ -3651,7 +3714,7 @@
   },
   {
     "title": "The Eastford Communicator",
-    "description": "",
+    "description": "The Eastford Communicator is the local newspaper for Eastford, Connecticut.",
     "link": "https://eastford.news/",
     "date": "2024-09-03",
     "formattedDate": "Sep 2, 2024",
@@ -3729,7 +3792,7 @@
   },
   {
     "title": "Home",
-    "description": "",
+    "description": "Atlanta&#39;s premier event talent booking &amp; production agency. Offering comprehensive solutions for corporate events, weddings, and more.",
     "link": "https://allstageproductions.com/",
     "date": "2024-08-20",
     "formattedDate": "Aug 19, 2024",
@@ -4433,7 +4496,7 @@
   },
   {
     "title": "2024 · XOXO",
-    "description": "",
+    "description": "After a five-year hiatus, XOXO returned one last time with new speakers and returning favorites, plus new events like Sideshow, the Indie Media Circus, and the return of our Art+Code event.",
     "link": "https://2024.xoxofest.com/",
     "date": "2024-05-28",
     "formattedDate": "May 27, 2024",
@@ -4561,7 +4624,7 @@
   },
   {
     "title": "London CSS",
-    "description": "",
+    "description": "London CSS",
     "link": "https://www.londoncss.dev/",
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
@@ -4671,7 +4734,7 @@
   },
   {
     "title": "Mocha | Classic, reliable, trusted. ☕",
-    "description": "",
+    "description": "The classic, reliable, trusted JavaScript test framework for Node.js &amp; the Browser. ☕",
     "link": "https://mochajs.org/",
     "date": "2024-05-27",
     "formattedDate": "May 27, 2024",
@@ -4808,16 +4871,6 @@
     "screenshotpath": "/screenshots/cantautor-es-large.jpg"
   },
   {
-    "title": "Maximilian Boll - Frontend Web-Developer - ようこそ - makkusu.dev",
-    "description": "Maximilian Boll - Frontend Web-Developer in Mainz/Germany - makkusu.dev",
-    "link": "https://www.makkusu.dev/",
-    "date": "2024-05-14",
-    "formattedDate": "May 13, 2024",
-    "favicon": "/img/favicons/www-makkusu-dev-favicon.png",
-    "screenshotpath": "/screenshots/www-makkusu-dev-large.jpg",
-    "leaderboardLink": "https://www.11ty.dev/speedlify/makkusu-dev"
-  },
-  {
     "title": "Creativitas Studio",
     "description": "mpower your brand with Creativitas Studio. Premium ready-to-deploy themes, AI-driven visuals, and robust source code projects for cutting-edge web solutions.",
     "link": "https://creativitas.dev/",
@@ -4936,7 +4989,7 @@
   },
   {
     "title": "Receitas da Beatriz: A Cuca",
-    "description": "",
+    "description": "Compilação de receitas e considerações culinarias por Beatriz Pichler Ricci",
     "link": "https://a-cuca.github.io/",
     "date": "2024-05-14",
     "formattedDate": "May 13, 2024",
@@ -5775,7 +5828,7 @@
   },
   {
     "title": "Welcome to Scramble the Duck&#39;s Official Website",
-    "description": "",
+    "description": "Scramble is a completely accurate weather-predicting duck in Eastford, Connecticut",
     "link": "https://scrambletheduck.org/",
     "date": "2024-01-08",
     "formattedDate": "Jan 7, 2024",
@@ -5967,7 +6020,7 @@
   },
   {
     "title": "DoubleShift",
-    "description": "",
+    "description": "Actors who have appeared in multiple medical TV shows",
     "link": "https://doubleshift.rknight.me/",
     "date": "2023-12-01",
     "formattedDate": "Nov 30, 2023",
@@ -6026,7 +6079,7 @@
   },
   {
     "title": "ანგულარის ქართული გზამკვლევი - Angular Guide",
-    "description": "",
+    "description": "Angular-ის ქართული არაოფიციალური სახელმძღვანელო. ისწავლე ანგულარის საფუძვლები ქართულ ენაზე.",
     "link": "https://angular.pridontetradze.com/",
     "date": "2023-11-21",
     "formattedDate": "Nov 20, 2023",
@@ -6368,7 +6421,7 @@
   },
   {
     "title": "Micah Torcellini’s Website | Micah Torcellini&#39;s Website",
-    "description": "",
+    "description": "Micah Torcellini&#39;s personal Website",
     "link": "https://micah.torcellini.org/",
     "date": "2023-10-19",
     "formattedDate": "Oct 18, 2023",
@@ -6416,7 +6469,7 @@
   },
   {
     "title": "Harris Lapiroff, Dance Caller and Organizer",
-    "description": "",
+    "description": "I&#39;m Harris Lapiroff, a traditional dance caller and organizer. Available to book for dances and private events.",
     "link": "https://chromamine.com/contra/",
     "date": "2023-10-11",
     "formattedDate": "Oct 10, 2023",
@@ -6763,7 +6816,7 @@
   },
   {
     "title": "Psicóloga Clínica - Viana do Castelo | Andreia Ramos",
-    "description": "",
+    "description": "Andreia Ramos. Psicóloga clínica em Viana do Castelo e Ponte de Lima. Consultas de psicologia online e presenciais. Marque a sua primeira consulta hoje",
     "link": "https://andreiaramos.pt/",
     "date": "2023-07-31",
     "formattedDate": "Jul 30, 2023",
@@ -7023,7 +7076,7 @@
   },
   {
     "title": "Edukatte",
-    "description": "",
+    "description": "Edukatte (/ˈɛdʒʊˌkeɪt/), conceptualized in 2020 and established in 2021 by Krish Beachoo, is a platform dedicated to providing students with a remarkable learning experience. Our focus is on delivering concise, engaging, and informative content that cater to your academic needs.",
     "link": "https://edukatte.netlify.app/",
     "date": "2023-05-09",
     "formattedDate": "May 8, 2023",
@@ -7400,7 +7453,7 @@
   },
   {
     "title": "CSS { In Real Life }",
-    "description": "",
+    "description": "A blog about CSS, front-end development, the web, and beyond.",
     "link": "https://css-irl.info/",
     "date": "2023-03-28",
     "formattedDate": "Mar 27, 2023",
@@ -7633,7 +7686,7 @@
   },
   {
     "title": "Westmarch",
-    "description": "",
+    "description": "The Westmarch literary journal at Patrick Henry College",
     "link": "https://westmarchjournal.org/",
     "date": "2023-02-25",
     "formattedDate": "Feb 25, 2023",
@@ -7772,7 +7825,7 @@
   },
   {
     "title": "Workspace solutions - Muse Interiors UK - Muse Interiors UK",
-    "description": "",
+    "description": "Muse Interiors are providers of workspace solutions and comprehensive professional property services tailored to suit individual business needs and circumstances.",
     "link": "https://www.museinteriors.co.uk/",
     "date": "2023-02-05",
     "formattedDate": "Feb 5, 2023",
@@ -8439,7 +8492,7 @@
   },
   {
     "title": "Ulf Schneider",
-    "description": "",
+    "description": "Hi, I’m Ulf Schneider, a software engineer and agile coach. Welcome to my website. Here’s more <a href=\"/about/\">about me</a> if you’re interested.",
     "link": "https://ulf.codes/",
     "date": "2022-11-15",
     "formattedDate": "Nov 15, 2022",
@@ -9018,7 +9071,7 @@
   },
   {
     "title": "Chillies Aberfeldy 🌶️ Authentic Indian Cuisine • Dine-in • Takeaway",
-    "description": "",
+    "description": "Takeaway &amp; dine-in Indian restaurant in Aberfeldy, Scotland",
     "link": "https://chillies-aberfeldy-website.netlify.app/",
     "date": "2022-07-13",
     "formattedDate": "Jul 13, 2022",
@@ -9149,7 +9202,7 @@
   },
   {
     "title": "localghost",
-    "description": "",
+    "description": "Sophie builds fun things out of HTML, CSS &amp; JavaScript, and writes blog posts about tech and mental health.",
     "link": "https://localghost.dev/",
     "date": "2022-06-30",
     "formattedDate": "Jun 30, 2022",
@@ -9703,7 +9756,7 @@
   },
   {
     "title": "Tampa Devs",
-    "description": "",
+    "description": "Tampa Devs is the fastest-growing education and technology community for software developers in Tampa Bay.",
     "link": "https://www.tampadevs.com/",
     "date": "2022-04-07",
     "formattedDate": "Apr 7, 2022",
@@ -9833,7 +9886,7 @@
   },
   {
     "title": "Instant, themed Twitch chat overlays | showmy.chat",
-    "description": "",
+    "description": "Build a plug-and-play themed chat overlay for OBS and more with the power of showmy.chat!",
     "link": "https://showmy.chat/",
     "date": "2022-03-28",
     "formattedDate": "Mar 28, 2022",
@@ -9863,7 +9916,7 @@
   },
   {
     "title": "Eleventy Serverless Color Contrast Checker",
-    "description": "",
+    "description": "What&#39;s the contrast ratio between two colors?",
     "link": "https://contrast-11ties.netlify.app/",
     "date": "2022-03-28",
     "formattedDate": "Mar 28, 2022",
@@ -10033,7 +10086,7 @@
   },
   {
     "title": "Latest · TNR · 529 Legion",
-    "description": "",
+    "description": "Trail info and weather forecast for our weekly social rides",
     "link": "https://ride.netlify.app/latest",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10310,7 +10363,7 @@
   },
   {
     "title": "The Practical Guide to Experience Design",
-    "description": "",
+    "description": "Designing experiences for humans requires balancing many needs – business, behavior, technology, and aesthetics to name a few. But before there’s a designed experience, there are countless activities and artifacts that go into understanding the problem, aligning stakeholders, and exploring possible ",
     "link": "https://practical.guide/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10320,7 +10373,7 @@
   },
   {
     "title": "Shannon E. Thomas",
-    "description": "",
+    "description": "Shannon E. Thomas is a painter and designer living in Amsterdam, the author of The Practical Guide to Experience Design, and founder of Artificial Design.",
     "link": "https://shannonethomas.com/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10399,7 +10452,7 @@
   },
   {
     "title": "Kingdom Code",
-    "description": "",
+    "description": "We’re a community of people who love Jesus and love tech. We’re creatives, developers, designers, entrepreneurs, ideators, and innovators looking at our technology through the lens of Christian faith.",
     "link": "https://kingdomcode.org.uk/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10430,7 +10483,7 @@
   },
   {
     "title": "CAFÉ ISO",
-    "description": "",
+    "description": "café/dinette du quartier - coming to the plateau fall 2019",
     "link": "https://cafeiso.com/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10510,7 +10563,7 @@
   },
   {
     "title": "Kula.blog",
-    "description": "",
+    "description": "Blog about Books, Programming, IT related topics, JavaScript, React, Psychology and everything that I find interesting",
     "link": "https://kula.blog/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10550,7 +10603,7 @@
   },
   {
     "title": "Artificial Design",
-    "description": "",
+    "description": "Artificial Design",
     "link": "https://artificial.design/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10718,7 +10771,7 @@
   },
   {
     "title": "Home",
-    "description": "",
+    "description": "A starter projects for 11ty using webpack encore",
     "link": "https://disjfa.github.io/eleventy-encore/",
     "date": "2022-03-22",
     "formattedDate": "Mar 22, 2022",
@@ -10835,7 +10888,7 @@
   },
   {
     "title": "UNDEFINED NULL /",
-    "description": "",
+    "description": "Personal blog of Shidhin CR. I use this space to share my experiences, experiments and thoughts",
     "link": "https://www.undefinednull.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -11154,7 +11207,7 @@
   },
   {
     "title": "SleepaSloth",
-    "description": "",
+    "description": "SleepaSloth",
     "link": "https://sleepasloth.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -11323,7 +11376,7 @@
   },
   {
     "title": "Binny V A",
-    "description": "",
+    "description": "I&#39;m a philosopher programmer who specializes in web development and stoicism.",
     "link": "https://binnyva.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -11333,7 +11386,7 @@
   },
   {
     "title": "Chinese Taipei Touch Association Almanac",
-    "description": "",
+    "description": "This almanac serves to capture the achievements of Chinese Taipei Touch Assocation members on the international stage. It captures data for officially recognised FIT internationals only, and does not capture data from local or regional Touch tournaments.",
     "link": "https://almanac.chinesetaipeitouch.com/en/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -11530,7 +11583,7 @@
   },
   {
     "title": "IndieWebGuides",
-    "description": "",
+    "description": "Clear, simple guides to taking greater control of your data on the Web",
     "link": "https://indiewebguides.org/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -11560,7 +11613,7 @@
   },
   {
     "title": "blog.dermah.com | Index",
-    "description": "",
+    "description": "An incrementally improving blog featuring mostly software engineering stuff, but we&#39;ll see what else happens.",
     "link": "https://blog.dermah.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -11798,7 +11851,7 @@
   },
   {
     "title": "Home | Brian Louis Ramirez | Sustainable UX &amp; Web Perf",
-    "description": "",
+    "description": "Personal website of Brian Louis Ramirez, User Experience Designer and Team Lead based in Bonn, Germany. Blogging on UX, design, web, coding, environment, productivity.",
     "link": "https://screenspan.net/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -12272,7 +12325,7 @@
   },
   {
     "title": "Adventures in Coding",
-    "description": "",
+    "description": "Recording interesting bits of my life as a developer.",
     "link": "https://coreydmccarty.dev/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -12292,7 +12345,7 @@
   },
   {
     "title": "Welcome",
-    "description": "",
+    "description": "Escape Normal - Explore Your World",
     "link": "https://vagabondians.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -12461,7 +12514,7 @@
   },
   {
     "title": "Zoe&#39;s page",
-    "description": "",
+    "description": "Ola! Code and stuff...",
     "link": "https://zoepage.github.io/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -12621,7 +12674,7 @@
   },
   {
     "title": "Performance Kit",
-    "description": "",
+    "description": "This collection of tutorials are based on my learnings from client projects. For each topic I will show you how to identify, implement and evaluate performance techniques that can improve your site&#39;s load time.",
     "link": "https://performance-kit.netlify.app/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -12730,7 +12783,7 @@
   },
   {
     "title": "Kack Dev",
-    "description": "",
+    "description": "Cartoons aus dem Leben eines Entwicklers",
     "link": "https://kack.dev/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -12750,7 +12803,7 @@
   },
   {
     "title": "Home | DN Handcrafted",
-    "description": "",
+    "description": "I’m a web developer by day with a passion for making things in the physical world. Most of what I make is primarily out of wood, but I’ll also use paper, cloth or metal depending on the project. I do the bulk of my work in a shed on our small homestead in southwest Iowa.",
     "link": "https://dnhandcrafted.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13058,7 +13111,7 @@
   },
   {
     "title": "Mohit Karekar",
-    "description": "",
+    "description": "Hello! I am Mohit Karekar. Watch my work and read blog posts I occassionaly write. I am a software engineer and a curious reader. I currently work on the web platform at Zalando in Berlin, Germany.",
     "link": "https://mohitkarekar.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13662,7 +13715,7 @@
   },
   {
     "title": "Solid Start",
-    "description": "",
+    "description": "Are you a person that makes things for other people? Awesome—because this page is all about making things for people.",
     "link": "https://www.solidstart.info/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13722,7 +13775,7 @@
   },
   {
     "title": "Bentley Davis",
-    "description": "",
+    "description": "Web and Mobile Apps - Fractional CTO - Startup Prototypes",
     "link": "https://bentleydavis.com/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13732,7 +13785,7 @@
   },
   {
     "title": "Timothy Miller || Timothy Miller",
-    "description": "",
+    "description": "Timothy Miller&#39;s weekly musings on web development, knowledge management, and life in general..",
     "link": "https://timothymiller.dev/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13912,7 +13965,7 @@
   },
   {
     "title": "Home | DevSites",
-    "description": "",
+    "description": "A useful list of resources to use for web development.",
     "link": "https://devsites.netlify.app/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13963,7 +14016,7 @@
   },
   {
     "title": "Arpit Batra",
-    "description": "",
+    "description": "The personal website and blog of Arpit Batra",
     "link": "https://arpit.tk/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
@@ -13973,7 +14026,7 @@
   },
   {
     "title": "11ty Tailwind JIT CSS starter",
-    "description": "",
+    "description": "Play with Tailwind efficiently in Eleventy",
     "link": "https://11tytailwindjit.netlify.app/",
     "date": "2022-03-21",
     "formattedDate": "Mar 21, 2022",
