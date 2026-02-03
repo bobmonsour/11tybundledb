@@ -912,5 +912,130 @@
       "How to...",
       "Nunjucks/Macros"
     ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "ANHVN",
+    "description": "anhvn.com is a personal website.",
+    "Link": "https://anhvn.com/",
+    "Date": "2026-01-30T21:40:29.000",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "/img/favicons/anhvn-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "How a Blog Post Gets Built in My Corner of the Web",
+    "slugifiedTitle": "how-a-blog-post-gets-built-in-my-corner-of-the-web",
+    "Link": "https://www.kylereddoch.me/blog/how-a-blog-post-gets-built-in-my-corner-of-the-web/",
+    "Date": "2026-01-31T11:46:37.000",
+    "formattedDate": "Jan 31, 2026",
+    "description": "My personal draft-to-deploy rhythm: Ulysses for thinking, VS Code for shaping, Eleventy for building, and GitHub Pages for shipping.",
+    "Author": "Kyle Reddoch",
+    "slugifiedAuthor": "kyle-reddoch",
+    "AuthorSite": "https://www.kylereddoch.me",
+    "AuthorSiteDescription": "CybersecKyle is the personal site of Kyle Reddoch, a cybersecurity expert and IT professional sharing practical guides, incident lessons, everyday defense tips, and more.",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/kylereddoch",
+      "linkedin": "https://www.linkedin.com/in/kylereddoch"
+    },
+    "favicon": "/img/favicons/www-kylereddoch-me-favicon.png",
+    "rssLink": "https://www.kylereddoch.me/feed.xml",
+    "Categories": [
+      "Blogging",
+      "Deployment",
+      "Drafts"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Building This Website with Eleventy and Bulma",
+    "slugifiedTitle": "building-this-website-with-eleventy-and-bulma",
+    "Link": "https://www.lasantha.org/blog/building-this-website-with-eleventy-and-bulma/",
+    "Date": "2025-08-12T00:00:00.000",
+    "formattedDate": "Aug 12, 2025",
+    "description": "A look at the tech stack and decisions behind building my personal website using modern, simple tools.",
+    "Author": "Lasantha Kularatne",
+    "slugifiedAuthor": "lasantha-kularatne",
+    "AuthorSite": "https://www.lasantha.org",
+    "AuthorSiteDescription": "Personal website of Lasantha Kularatne - Principal Software Engineer specializing in AI/ML, distributed systems, and site reliability engineering",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/lasanthak",
+      "linkedin": "https://linkedin.com/in/lasanthak"
+    },
+    "favicon": "/img/favicons/www-lasantha-org-favicon.png",
+    "rssLink": "",
+    "Categories": [
+      "Asset Pipelines",
+      "CSS/Sass",
+      "Configuration"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Seeking RSS links, favicons, and descriptions",
+    "slugifiedTitle": "seeking-rss-links-favicons-and-descriptions",
+    "Link": "https://bobmonsour.com/blog/seeking-rss-links-favicons-and-descriptions/",
+    "Date": "2026-02-01T16:03:00.000",
+    "formattedDate": "Feb 1, 2026",
+    "description": "Useful resources to help you add visible RSS links, favicons, and web page descriptions.",
+    "Author": "Bob Monsour",
+    "slugifiedAuthor": "bob-monsour",
+    "AuthorSite": "https://bobmonsour.com",
+    "AuthorSiteDescription": "Retired. Web hobbyist. Creator of 11tybundle.dev.",
+    "socialLinks": {
+      "mastodon": "https://indieweb.social/@bobmonsour",
+      "bluesky": "https://bsky.app/profile/bobmonsour.com",
+      "youtube": "",
+      "github": "https://github.com/bobmonsour",
+      "linkedin": "https://www.linkedin.com/in/bobmonsour/"
+    },
+    "favicon": "/img/favicons/bobmonsour-com-favicon.jpg",
+    "rssLink": "https://www.bobmonsour.com/feed.xml",
+    "Categories": [
+      "Blogging",
+      "Configuration",
+      "How to...",
+      "RSS"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "IOSTUDI",
+    "description": "Het architectenbureau voor historisch architectuur en dichte stedelijke omgeving.",
+    "Link": "https://www.iostudio.nl/",
+    "Date": "2026-02-02T07:58:34.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/www-iostudio-nl-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "PossiblyAxolotl",
+    "description": "PossiblyAxolotl? It&#39;s more likely than you think!",
+    "Link": "https://possiblyaxolotl.com/",
+    "Date": "2026-02-02T08:01:57.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/possiblyaxolotl-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Judd Water and Wastewater Consultants",
+    "description": "Judd Water &amp; Wastewater Consultants offers a full range of services – consultancy, training and books – in potable and wastewater treatment technology.",
+    "Link": "https://www.juddwater.com/",
+    "Date": "2026-02-02T12:46:39.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/www-juddwater-com-favicon.png"
   }
 ]

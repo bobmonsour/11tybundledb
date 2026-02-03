@@ -93,7 +93,7 @@
     "issue": 16,
     "blogPosts": 14,
     "releases": 0,
-    "sites": 10
+    "sites": 9
   },
   {
     "issue": 17,
@@ -297,7 +297,7 @@
     "issue": 50,
     "blogPosts": 9,
     "releases": 2,
-    "sites": 8
+    "sites": 6
   },
   {
     "issue": 51,
@@ -459,7 +459,7 @@
     "issue": 77,
     "blogPosts": 19,
     "releases": 10,
-    "sites": 14
+    "sites": 13
   },
   {
     "issue": 78,
@@ -493,8 +493,8 @@
   },
   {
     "issue": 83,
-    "blogPosts": 21,
+    "blogPosts": 24,
     "releases": 2,
-    "sites": 26
+    "sites": 30
   }
 ]

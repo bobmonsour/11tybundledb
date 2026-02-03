@@ -1,3 +1,7 @@
 /bundledb-backups/*
 /showcase-data-backups/*
 /badlinks
+/insightsdata.json
+/issurecords.json
+/showcase-data-latest.json
+/bundledb-latest.json

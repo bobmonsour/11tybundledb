@@ -1,5 +1,41 @@
 [
   {
+    "title": "Judd Water and Wastewater Consultants",
+    "description": "Judd Water &amp; Wastewater Consultants offers a full range of services – consultancy, training and books – in potable and wastewater treatment technology.",
+    "link": "https://www.juddwater.com/",
+    "date": "2026-02-02T12:46:39.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/www-juddwater-com-favicon.png",
+    "screenshotpath": "/screenshots/www-juddwater-com-large.jpg"
+  },
+  {
+    "title": "PossiblyAxolotl",
+    "description": "PossiblyAxolotl? It&#39;s more likely than you think!",
+    "link": "https://possiblyaxolotl.com/",
+    "date": "2026-02-02T08:01:57.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/possiblyaxolotl-com-favicon.png",
+    "screenshotpath": "/screenshots/possiblyaxolotl-com-large.jpg"
+  },
+  {
+    "title": "IOSTUDI",
+    "description": "Het architectenbureau voor historisch architectuur en dichte stedelijke omgeving.",
+    "link": "https://www.iostudio.nl/",
+    "date": "2026-02-02T07:58:34.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/www-iostudio-nl-favicon.png",
+    "screenshotpath": "/screenshots/www-iostudio-nl-large.jpg"
+  },
+  {
+    "title": "ANHVN",
+    "description": "anhvn.com is a personal website.",
+    "link": "https://anhvn.com/",
+    "date": "2026-01-30T21:40:29.000",
+    "formattedDate": "Jan 30, 2026",
+    "favicon": "/img/favicons/anhvn-com-favicon.png",
+    "screenshotpath": "/screenshots/anhvn-com-large.jpg"
+  },
+  {
     "title": "mikes thoughts",
     "description": "My writing place.",
     "link": "https://mikesthoughts.blog/",
@@ -304,5 +340,701 @@
     "formattedDate": "Jan 6, 2026",
     "favicon": "/img/favicons/jrsofty1-stinkbugonline-com-favicon.jpg",
     "screenshotpath": "/screenshots/jrsofty1-stinkbugonline-com-large.jpg"
+  },
+  {
+    "title": "Angélique Weger",
+    "description": "Angélique Weger is a coder, designer, teacher, learner and overall enthusiast. This is her blog.",
+    "link": "https://angeliqueweger.com/",
+    "date": "2025-12-31T14:49:13.000",
+    "formattedDate": "Dec 31, 2025",
+    "favicon": "/img/favicons/angeliqueweger-com-favicon.png",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/angeliqueweger-com",
+    "screenshotpath": "/screenshots/angeliqueweger-com-large.jpg"
+  },
+  {
+    "title": "Atom",
+    "description": "At GitHub, we’re building the text editor we’ve always wanted: hackable to the core, but approachable on the first day without ever touching a config file. We can’t wait to see what you build with it.",
+    "link": "https://atom-editor.cc/",
+    "date": "2025-12-30",
+    "formattedDate": "Dec 30, 2025",
+    "favicon": "/img/favicons/atom-editor-cc-favicon.png",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/atom-editor-cc",
+    "screenshotpath": "/screenshots/atom-editor-cc-large.jpg"
+  },
+  {
+    "title": "Dmitrijs Golubevs",
+    "description": "Sabiedriski aktīvs IT eksperts, humānists. Domnīcas Profectus dibinātājs, nākotnes politikas pētnieks",
+    "link": "https://lastguru.lv/",
+    "date": "2025-12-24T09:51:31.000",
+    "formattedDate": "Dec 24, 2025",
+    "favicon": "/img/favicons/lastguru-lv-favicon.jpg",
+    "screenshotpath": "/screenshots/lastguru-lv-large.jpg"
+  },
+  {
+    "title": "Vanessa Sickles - Portfolio",
+    "description": "A people-first, multi-discipline software engineer with a keen design sense and a passion for developing responsive, accessible, and scalable user interfaces.",
+    "link": "https://vanessasickles.dev/",
+    "date": "2025-12-24T09:50:23.000",
+    "formattedDate": "Dec 24, 2025",
+    "favicon": "/img/favicons/vanessasickles-dev-favicon.png",
+    "screenshotpath": "/screenshots/vanessasickles-dev-large.jpg"
+  },
+  {
+    "title": "vrugtehagel",
+    "description": "Hello! I&#39;m vrugtehagel, an enthousiastic web developer with a passion for open source, accessibility, privacy and semantics in programming.",
+    "link": "https://vrugtehagel.nl/",
+    "date": "2025-12-22T18:34:56.000",
+    "formattedDate": "Dec 22, 2025",
+    "favicon": "/img/favicons/vrugtehagel-nl-favicon.png",
+    "screenshotpath": "/screenshots/vrugtehagel-nl-large.jpg"
+  },
+  {
+    "title": "melanie kat",
+    "description": "the personal homepage of melanie kat",
+    "link": "https://melaniekat.com/",
+    "date": "2025-12-19T11:21:35.000",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/melaniekat-com-favicon.png",
+    "screenshotpath": "/screenshots/melaniekat-com-large.jpg"
+  },
+  {
+    "title": "ShortLinks",
+    "description": "The official link shortner of the American Indian Law Alliance",
+    "link": "https://aila.li/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/aila-li-favicon.png",
+    "screenshotpath": "/screenshots/aila-li-large.jpg"
+  },
+  {
+    "title": "ShortLinks",
+    "description": "Shorten links Project by Adam DJ Brett",
+    "link": "https://brett.im/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/brett-im-favicon.ico",
+    "screenshotpath": "/screenshots/brett-im-large.jpg"
+  },
+  {
+    "title": "World Tour Operators - Global Tour Operator Directory since 2007",
+    "description": "Discover reliable tour operators across 250+ countries. Search by country, region,activity and destinations. A trusted directory for travelers and experts",
+    "link": "https://worldtouroperators.com/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/worldtouroperators-com-favicon.png",
+    "screenshotpath": "/screenshots/worldtouroperators-com-large.jpg"
+  },
+  {
+    "title": "Türkiye Elektrikli Araç Şarj İstasyonları Haritası Yonga.io",
+    "description": "Türkiye genelindeki elektrikli araç şarj istasyonlarını harita üzerinde keşfedin. Şarj ağı, hız, güç tipi ve konum bilgileri tek platformda!",
+    "link": "https://yonga.io/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/yonga-io-favicon.png",
+    "screenshotpath": "/screenshots/yonga-io-large.jpg"
+  },
+  {
+    "title": "ShortLinks",
+    "description": "Shorten links Project by Adam DJ Brett",
+    "link": "https://purl.im/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/purl-im-favicon.png",
+    "screenshotpath": "/screenshots/purl-im-large.jpg"
+  },
+  {
+    "title": "ShortLinks",
+    "description": "Doctrine of Discovery Project Short Links",
+    "link": "https://dofd.fyi/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/dofd-fyi-favicon.png",
+    "screenshotpath": "/screenshots/dofd-fyi-large.jpg"
+  },
+  {
+    "title": "Welcome | FreshJuice Starter",
+    "description": "A modern 11ty starter theme with CloudCannon CMS integration, TailwindCSS, and Alpine.js",
+    "link": "https://snappy-lemon.cloudvent.net/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/snappy-lemon-cloudvent-net-large.jpg"
+  },
+  {
+    "title": "Printsgram — Explore the World of Print-on-Demand Services",
+    "description": "Discover top print-on-demand platforms, compare global providers, and find local print labs near you. Printsgram connects creators and businesses with the best places to print and sell online.",
+    "link": "https://printsgram.com/",
+    "date": "2025-12-19",
+    "formattedDate": "Dec 19, 2025",
+    "favicon": "/img/favicons/printsgram-com-favicon.png",
+    "screenshotpath": "/screenshots/printsgram-com-large.jpg"
+  },
+  {
+    "title": "ReallySimpleDocs",
+    "description": "A really simple documentation template built with 11ty and Tailwind.",
+    "link": "https://reallysimpledocs.com/",
+    "date": "2025-12-17T12:14:08.000",
+    "formattedDate": "Dec 17, 2025",
+    "favicon": "/img/favicons/reallysimpledocs-com-favicon.svg",
+    "screenshotpath": "/screenshots/reallysimpledocs-com-large.jpg"
+  },
+  {
+    "title": "Regular",
+    "description": "Regular produces events for online communities.",
+    "link": "https://regular.events/",
+    "date": "2025-12-12T09:24:08.000",
+    "formattedDate": "Dec 12, 2025",
+    "favicon": "/img/favicons/regular-events-favicon.png",
+    "screenshotpath": "/screenshots/regular-events-large.jpg"
+  },
+  {
+    "title": "Jason White | Generalist designer based in Charlotte, NC",
+    "description": "Generalist designer based in Charlotte, NC",
+    "link": "https://jasonwhite.us/",
+    "date": "2025-12-10T13:34:03.000",
+    "formattedDate": "Dec 10, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/jasonwhite-us-large.jpg"
+  },
+  {
+    "title": "Página Inicial | Bruno Pulis",
+    "description": "Desenvolvedor e engenheiro de acessibilidade",
+    "link": "https://brunopulis.com/",
+    "date": "2025-12-10T12:36:30.000",
+    "formattedDate": "Dec 10, 2025",
+    "favicon": "/img/favicons/brunopulis-com-favicon.jpg",
+    "screenshotpath": "/screenshots/brunopulis-com-large.jpg"
+  },
+  {
+    "title": "Strangers By Spring",
+    "description": "Strangers, By Spring is a blog about escapism, romance, and rebirth.",
+    "link": "https://strangersbyspring.com/",
+    "date": "2025-12-09T09:59:16.000",
+    "formattedDate": "Dec 9, 2025",
+    "favicon": "/img/favicons/strangersbyspring-com-favicon.png",
+    "screenshotpath": "/screenshots/strangersbyspring-com-large.jpg"
+  },
+  {
+    "title": "Je note donc je suis — Accueil",
+    "description": "Accueil — Un jardin numérique en chantier perpétuel made in Bruxelles",
+    "link": "https://jndjs.dev/",
+    "date": "2025-12-09T07:12:07.000",
+    "formattedDate": "Dec 9, 2025",
+    "favicon": "/img/favicons/jndjs-dev-favicon.png",
+    "screenshotpath": "/screenshots/jndjs-dev-large.jpg"
+  },
+  {
+    "title": "Pedro Netto - Welcome",
+    "description": "Pedro Netto&#39;s website - Welcome",
+    "link": "https://pnetto.com/",
+    "date": "2025-12-08T17:48:30.000",
+    "formattedDate": "Dec 8, 2025",
+    "favicon": "/img/favicons/pnetto-com-favicon.png",
+    "screenshotpath": "/screenshots/pnetto-com-large.jpg"
+  },
+  {
+    "title": "lprry&#39;s IndieWeb home | lprry",
+    "description": "Burnley based, I talk about learning code and the indieWeb, staying fit by running, cycling, swimming and bouldering, retrogaming, our allotment, and life with our dogs and chickens.",
+    "link": "https://l.prry.uk/",
+    "date": "2025-12-07T17:08:02.000",
+    "formattedDate": "Dec 7, 2025",
+    "favicon": "/img/favicons/l-prry-uk-favicon.png",
+    "screenshotpath": "/screenshots/l-prry-uk-large.jpg"
+  },
+  {
+    "title": "SwordFight API - Static Game Outcome API",
+    "description": "",
+    "link": "https://api.swordfight.me/",
+    "date": "2025-12-05T14:17:56.000",
+    "formattedDate": "Dec 5, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/api-swordfight-me-large.jpg"
+  },
+  {
+    "title": "Swordfight.me - Start a sword fight with your friends!",
+    "description": "Challenge yourself in intense sword fighting duels. Master high, mid, and low attacks, defensive moves, and special techniques in this strategic combat game.",
+    "link": "https://swordfight.me/",
+    "date": "2025-12-05T14:17:21.000",
+    "formattedDate": "Dec 5, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/swordfight-me-large.jpg"
+  },
+  {
+    "title": "Jon Plummer – Today I Learned",
+    "description": "UX design leader sharing insights on design, leadership, and product development. Experience at Invoca, Cayuse, Belkin, and Medtronic.",
+    "link": "https://jonplummer.com/",
+    "date": "2025-12-05T10:24:22.000",
+    "formattedDate": "Dec 5, 2025",
+    "favicon": "/img/favicons/jonplummer-com-favicon.png",
+    "screenshotpath": "/screenshots/jonplummer-com-large.jpg"
+  },
+  {
+    "title": "Home | samhuth.com",
+    "description": "Web development, SEO, UX Design and Accessability. The personal website of Samuel Huth, Web Developer from Brisbane, Australia.",
+    "link": "https://samhuth.com/",
+    "date": "2025-12-02T10:03:59.000",
+    "formattedDate": "Dec 2, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/samhuth-com-large.jpg"
+  },
+  {
+    "title": "Home",
+    "description": "A portfolio and blog site for Luna.",
+    "link": "https://lunabee.dev/",
+    "date": "2025-12-01T21:57:23.000",
+    "formattedDate": "Dec 1, 2025",
+    "favicon": "/img/favicons/lunabee-dev-favicon.png",
+    "screenshotpath": "/screenshots/lunabee-dev-large.jpg"
+  },
+  {
+    "title": "Domination Chronicles Podcast",
+    "description": "Because domination isn’t a metaphor—it’s a system",
+    "link": "https://dominationchronicles.com/",
+    "date": "2025-11-24T16:29:01.000",
+    "formattedDate": "Nov 24, 2025",
+    "favicon": "/img/favicons/dominationchronicles-com-favicon.png",
+    "screenshotpath": "/screenshots/dominationchronicles-com-large.jpg"
+  },
+  {
+    "title": "C-Results | Print, Design &amp; Digital Marketing in Thornbury",
+    "description": "C-Results offers professional print services, design, digital marketing, and local advertising in Thornbury. From flyers to websites, we help your business thrive.",
+    "link": "https://www.c-results.uk/",
+    "date": "2025-11-24T08:50:10.000",
+    "formattedDate": "Nov 24, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/www-c-results-uk-large.jpg"
+  },
+  {
+    "title": "the flying squirrel",
+    "description": "",
+    "link": "https://flyingsquirrel.ca/",
+    "date": "2025-11-24T08:48:11.000",
+    "formattedDate": "Nov 24, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/flyingsquirrel-ca-large.jpg"
+  },
+  {
+    "title": "Jessie Heald - Home",
+    "description": "I&#39;m a full stack React and Node developer, based in Birmingham, UK. I&#39;m a results and impact driven developer with over 15 years of experience and a love for FOSS. I write scalable, maintainable web apps, with a focus on clean and agile code to support product growth and stability.",
+    "link": "http://jessieheald.com/",
+    "date": "2025-11-20T10:01:01.000",
+    "formattedDate": "Nov 20, 2025",
+    "favicon": "/img/favicons/jessieheald-com-favicon.svg",
+    "screenshotpath": "/screenshots/jessieheald-com-large.jpg"
+  },
+  {
+    "title": "Indigenous Law Institute",
+    "description": "A Movement Toward Restoration and Healing",
+    "link": "https://indigenouslawinstitute.com/",
+    "date": "2025-11-19T16:52:53.000",
+    "formattedDate": "Nov 19, 2025",
+    "favicon": "/img/favicons/indigenouslawinstitute-com-favicon.png",
+    "screenshotpath": "/screenshots/indigenouslawinstitute-com-large.jpg"
+  },
+  {
+    "title": "CATRAXX",
+    "description": "Personal Website of catraxx, frontend developer.",
+    "link": "https://catraxx.de/",
+    "date": "2025-11-19T08:38:13.000",
+    "formattedDate": "Nov 19, 2025",
+    "favicon": "/img/favicons/catraxx-de-favicon.png",
+    "screenshotpath": "/screenshots/catraxx-de-large.jpg"
+  },
+  {
+    "title": "Original Free Nations Advocate - Steven T. Newcomb",
+    "description": "A Shawnee-Lenape scholar and author exploring Indigenous histories and legacies of resistance.",
+    "link": "https://stevennewcomb.com/",
+    "date": "2025-11-13T10:36:40.000",
+    "formattedDate": "Nov 13, 2025",
+    "favicon": "/img/favicons/stevennewcomb-com-favicon.svg",
+    "screenshotpath": "/screenshots/stevennewcomb-com-large.jpg"
+  },
+  {
+    "title": "Capital Brief — Business news and politics for the new economy",
+    "description": "Capital Brief covers business and politics news for those shaping the new Australian economy: founders and executives who need capital to grow their businesses, the people who help them get it, investors who allocate it, and decision makers in the federal capital, Canberra.",
+    "link": "https://www.capitalbrief.com/",
+    "date": "2025-11-09T17:57:08.000",
+    "formattedDate": "Nov 9, 2025",
+    "favicon": "/img/favicons/www-capitalbrief-com-favicon.png",
+    "screenshotpath": "/screenshots/www-capitalbrief-com-large.jpg"
+  },
+  {
+    "title": "SKYLINE ✦ Big Band Freiburg ✦",
+    "description": "Spielfreude nach dem Vorbild der Großen wie Count Basie oder Duke Ellington. Ein Groove, der Musiker und Zuhörer gleichermaßen in seinen Bann schlägt.",
+    "link": "https://www.skylinebigband.de/",
+    "date": "2025-11-09T09:19:38.000",
+    "formattedDate": "Nov 9, 2025",
+    "favicon": "/img/favicons/www-skylinebigband-de-favicon.png",
+    "screenshotpath": "/screenshots/www-skylinebigband-de-large.jpg"
+  },
+  {
+    "title": "Parham&#39;s Digital Corner",
+    "description": "Here is my website. You can explore the blog, and other parts which will be added soon.",
+    "link": "https://parham.dev/",
+    "date": "2025-11-09T09:17:00.000",
+    "formattedDate": "Nov 9, 2025",
+    "favicon": "/img/favicons/parham-dev-favicon.jpg",
+    "screenshotpath": "/screenshots/parham-dev-large.jpg"
+  },
+  {
+    "title": "Tyler Gaw is a Designer &amp; Engineer in New York City, USA",
+    "description": "A personal website. Since 2006",
+    "link": "https://tylergaw.com/",
+    "date": "2025-11-05T16:05:20.000",
+    "formattedDate": "Nov 5, 2025",
+    "favicon": "/img/favicons/tylergaw-com-favicon.png",
+    "screenshotpath": "/screenshots/tylergaw-com-large.jpg"
+  },
+  {
+    "title": "Domnīca Profectus",
+    "description": "Stiprinām demokrātiju un pilsonisko sabiedrību Latvijā un veicinām tās ilgtspēju",
+    "link": "https://profectus.lv/",
+    "date": "2025-11-04T14:13:34.000",
+    "formattedDate": "Nov 4, 2025",
+    "favicon": "/img/favicons/profectus-lv-favicon.png",
+    "screenshotpath": "/screenshots/profectus-lv-large.jpg"
+  },
+  {
+    "title": "Berry House — Web &amp; Writing — 🍓 Berry House",
+    "description": "Hi. We&#39;re here to help you create and share meaningful work and art with the world. Whether you&#39;re looking to amplify your writing or build an independent website, we&#39;re here to help.",
+    "link": "https://berryhouse.ca/",
+    "date": "2025-11-02T08:16:21.000",
+    "formattedDate": "Nov 2, 2025",
+    "favicon": "/img/favicons/berryhouse-ca-favicon.png",
+    "screenshotpath": "/screenshots/berryhouse-ca-large.jpg"
+  },
+  {
+    "title": "DevPro",
+    "description": "Bits of technology, practices, and everything that can make IT simple and accessible.",
+    "link": "https://devpro.fr/",
+    "date": "2025-10-29T15:08:10.000",
+    "formattedDate": "Oct 29, 2025",
+    "favicon": "/img/favicons/devpro-fr-favicon.png",
+    "screenshotpath": "/screenshots/devpro-fr-large.jpg"
+  },
+  {
+    "title": "Yaisiel (Yai) Torres - Engineering Manager in Springfield, VA",
+    "description": "Online Resume of Yaisiel (Yai) Torres",
+    "link": "https://www.yaitorr.me/",
+    "date": "2025-10-26T12:23:49.000",
+    "formattedDate": "Oct 26, 2025",
+    "favicon": "/img/favicons/www-yaitorr-me-favicon.png",
+    "screenshotpath": "/screenshots/www-yaitorr-me-large.jpg"
+  },
+  {
+    "title": "Burglar Alarm And CCTV Bexley Orpington Bromley Dartford Eltham",
+    "description": "For all of your home and business security. Burglar Alarm Servicing, Burglar Alarm Installation, Alarm Battery and CCTV.. Call 020 8302 4065 or send an email",
+    "link": "https://www.myalarmsecurity.co.uk/",
+    "date": "2025-10-26T12:23:08.000",
+    "formattedDate": "Oct 26, 2025",
+    "favicon": "/img/favicons/www-myalarmsecurity-co-uk-favicon.png",
+    "screenshotpath": "/screenshots/www-myalarmsecurity-co-uk-large.jpg"
+  },
+  {
+    "title": "ホステル日記",
+    "description": "",
+    "link": "https://www.readhostel.com/",
+    "date": "2025-10-26",
+    "formattedDate": "Oct 26, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/www-readhostel-com-large.jpg"
+  },
+  {
+    "title": "Germán Freixinós López, front-end web developer",
+    "description": "Home page of Germán Freixinós López, front-end web developer.",
+    "link": "https://germanfrelo.dev/",
+    "date": "2025-10-25T14:42:58.000",
+    "formattedDate": "Oct 25, 2025",
+    "favicon": "#icon-globe",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/germanfrelo-dev",
+    "screenshotpath": "/screenshots/germanfrelo-dev-large.jpg"
+  },
+  {
+    "title": "Desecrating the Sacred",
+    "description": "Desecrating the Sacred is the result of a decades-long meditation that raises a profound question with planetary implications: What happens when the Sacred Free Existence of the Original Native Nations and Peoples of Turtle Island (&ldquo;North America&rdquo;) which honors All of Creation is invaded",
+    "link": "https://desecratingthesacred.com/",
+    "date": "2025-10-24T19:44:10.000",
+    "formattedDate": "Oct 24, 2025",
+    "favicon": "/img/favicons/desecratingthesacred-com-favicon.png",
+    "screenshotpath": "/screenshots/desecratingthesacred-com-large.jpg"
+  },
+  {
+    "title": "Dan Clarke",
+    "description": "Software developer, consultant, podcast host, speaker, Dometrain author, community organiser, and Microsoft MVP.",
+    "link": "https://www.danclarke.com/",
+    "date": "2025-10-24T14:29:43.000",
+    "formattedDate": "Oct 24, 2025",
+    "favicon": "/img/favicons/www-danclarke-com-favicon.png",
+    "screenshotpath": "/screenshots/www-danclarke-com-large.jpg"
+  },
+  {
+    "title": "Karthik Kadambi | Full Stack Web Developer",
+    "description": "Full Stack Web Developer, Aspiring AI Engineer, UX Travel and Finance Enthusiast.",
+    "link": "https://karthikkadambi.com/",
+    "date": "2025-10-20T12:56:52.000",
+    "formattedDate": "Oct 20, 2025",
+    "favicon": "/img/favicons/karthikkadambi-com-favicon.png",
+    "screenshotpath": "/screenshots/karthikkadambi-com-large.jpg"
+  },
+  {
+    "title": "Patented Sliding Door Handles &amp; Lock Upgrades | Handle-Man",
+    "description": "Upgrade your sliding glass doors with Handle-Man&#39;s patented handle systems and security locks. Expert installation in Southwest Florida. 300+ 5-star reviews. Shop now!",
+    "link": "https://handleman.net/",
+    "date": "2025-10-18T17:23:07.000",
+    "formattedDate": "Oct 18, 2025",
+    "favicon": "/img/favicons/handleman-net-favicon.png",
+    "screenshotpath": "/screenshots/handleman-net-large.jpg"
+  },
+  {
+    "title": "Uke Group North",
+    "description": "Join our inclusive ukulele workshops across Greater Manchester and Lancashire. Weekly sessions for all ages and abilities. No experience necessary!",
+    "link": "https://www.ukegroupnorth.com/",
+    "date": "2025-10-16T12:18:15.000",
+    "formattedDate": "Oct 16, 2025",
+    "favicon": "/img/favicons/www-ukegroupnorth-com-favicon.png",
+    "screenshotpath": "/screenshots/www-ukegroupnorth-com-large.jpg"
+  },
+  {
+    "title": "Annika Backstrom - sixohthree.com",
+    "description": "Annika Backstrom&#39;s personal website and blog",
+    "link": "https://sixohthree.com/",
+    "date": "2025-10-12T18:58:55.000",
+    "formattedDate": "Oct 12, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/sixohthree-com-large.jpg"
+  },
+  {
+    "title": "Home · Nicholas Clooney",
+    "description": "November 3, 2025 I wanted first-party analytics on my blog without handing traffic data to a SaaS vendor. Umami checked every box: open source, self-hostable, and friendly to privacy. I already keep a small VPS online 24/7, so dedicating a slice of that machine to Umami felt like a perfect fit.",
+    "link": "https://blog.nicholas.clooney.io/",
+    "date": "2025-10-10T13:20:11.000",
+    "formattedDate": "Oct 10, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/blog-nicholas-clooney-io-large.jpg"
+  },
+  {
+    "title": "Hire Shiv Jha-Mathur (full-stack software developer)",
+    "description": "I’ve been working as a full-stack developer since 2007.",
+    "link": "https://hire.shivjm.in/",
+    "date": "2025-10-07T11:13:49.000",
+    "formattedDate": "Oct 7, 2025",
+    "favicon": "/img/favicons/hire-shivjm-in-favicon.png",
+    "screenshotpath": "/screenshots/hire-shivjm-in-large.jpg"
+  },
+  {
+    "title": "alansuspect.dev",
+    "description": "I&#39;m a web developer trying to write about it.",
+    "link": "https://alansuspect.dev/",
+    "date": "2025-10-07T08:32:48.000",
+    "formattedDate": "Oct 7, 2025",
+    "favicon": "/img/favicons/alansuspect-dev-favicon.png",
+    "screenshotpath": "/screenshots/alansuspect-dev-large.jpg"
+  },
+  {
+    "title": "Evans Theatre",
+    "description": "Brandon&#39;s Indiest Indie Cinema",
+    "link": "https://evanstheatre.ca/",
+    "date": "2025-10-03T20:14:21.000",
+    "formattedDate": "Oct 3, 2025",
+    "favicon": "/img/favicons/evanstheatre-ca-favicon.png",
+    "screenshotpath": "/screenshots/evanstheatre-ca-large.jpg"
+  },
+  {
+    "title": "Christian Miles",
+    "description": "Technology Sales Leader specializing in developer tooling and data visualization. Based in Victoria, BC. Currently available for consulting.",
+    "link": "https://christianmiles.ca/",
+    "date": "2025-10-03T15:56:20.000",
+    "formattedDate": "Oct 3, 2025",
+    "favicon": "/img/favicons/christianmiles-ca-favicon.png",
+    "screenshotpath": "/screenshots/christianmiles-ca-large.jpg"
+  },
+  {
+    "title": "Lyons Psychological Services",
+    "description": "Psychological services for adult and adolescents.",
+    "link": "https://www.lyonspsychologicalservices.com/",
+    "date": "2025-09-29T06:39:53.000",
+    "formattedDate": "Sep 29, 2025",
+    "favicon": "/img/favicons/www-lyonspsychologicalservices-com-favicon.png",
+    "screenshotpath": "/screenshots/www-lyonspsychologicalservices-com-large.jpg"
+  },
+  {
+    "title": "music | ege.celikci.me",
+    "description": "my personal website, blog and portfolio.",
+    "link": "https://ege.celikci.me/music/",
+    "date": "2025-09-27T16:25:52.000",
+    "formattedDate": "Sep 27, 2025",
+    "favicon": "/img/favicons/ege-celikci-me-favicon.png",
+    "screenshotpath": "/screenshots/ege-celikci-me-large.jpg"
+  },
+  {
+    "title": "Rose Harbour | Home of Natalie Rose",
+    "description": "Blog and digital garden of a queer computer woman who occasionally does music.",
+    "link": "https://nataliethistime.com/",
+    "date": "2025-09-22T09:13:14.000",
+    "formattedDate": "Sep 22, 2025",
+    "favicon": "/img/favicons/nataliethistime-com-favicon.jpg",
+    "screenshotpath": "/screenshots/nataliethistime-com-large.jpg"
+  },
+  {
+    "title": "FIfF e.V. – FIfF e.V.",
+    "description": "Das Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung ist ein Zusammenschluss von engagiert-kritischen Fachleuten aus Wissenschaft und Praxis der Informati(onstechni)k.",
+    "link": "https://www.fiff.de/",
+    "date": "2025-09-20T08:32:38.000",
+    "formattedDate": "Sep 20, 2025",
+    "favicon": "/img/favicons/www-fiff-de-favicon.png",
+    "screenshotpath": "/screenshots/www-fiff-de-large.jpg"
+  },
+  {
+    "title": "Home",
+    "description": "",
+    "link": "https://adamwilbert.com/",
+    "date": "2025-09-18T10:32:23.000",
+    "formattedDate": "Sep 18, 2025",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/adamwilbert-com-large.jpg"
+  },
+  {
+    "title": "Pedro Rocha",
+    "description": "Software developer writing about code, politics, sports, and whatever else is on my mind.",
+    "link": "https://pedromelorocha.pt/",
+    "date": "2025-09-10T15:55:41.000",
+    "formattedDate": "Sep 10, 2025",
+    "favicon": "/img/favicons/pedromelorocha-pt-favicon.png",
+    "screenshotpath": "/screenshots/pedromelorocha-pt-large.jpg"
+  },
+  {
+    "title": "Keveney.com, Recent Posts",
+    "description": "",
+    "link": "https://keveney.com/",
+    "date": "2025-09-09T21:36:42.000",
+    "formattedDate": "Sep 9, 2025",
+    "favicon": "/img/favicons/keveney-com-favicon.png",
+    "screenshotpath": "/screenshots/keveney-com-large.jpg"
+  },
+  {
+    "title": "Cooking timers : how long to cook any kind of food",
+    "description": "Cooking timers : how long to cook any kind of food for best flavor along with additional instructions &amp; tips",
+    "link": "https://www.cookingtimers.org/",
+    "date": "2025-09-09T10:01:04.000",
+    "formattedDate": "Sep 9, 2025",
+    "favicon": "/img/favicons/www-cookingtimers-org-favicon.png",
+    "screenshotpath": "/screenshots/www-cookingtimers-org-large.jpg"
+  },
+  {
+    "title": "Patrick Grey",
+    "description": "A web developer living, working and playing in Scotland.",
+    "link": "https://www.patrickgrey.co.uk/",
+    "date": "2025-09-05T14:21:20.000",
+    "formattedDate": "Sep 5, 2025",
+    "favicon": "/img/favicons/www-patrickgrey-co-uk-favicon.jpg",
+    "screenshotpath": "/screenshots/www-patrickgrey-co-uk-large.jpg"
+  },
+  {
+    "title": "Jesus - Network Engineer",
+    "description": "A website showcasing my skills and experience as a network engineer",
+    "link": "https://jesus.twk95.com/",
+    "date": "2025-09-05T08:47:53.000",
+    "formattedDate": "Sep 5, 2025",
+    "favicon": "/img/favicons/jesus-twk95-com-favicon.png",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/jesus-twk95-com",
+    "screenshotpath": "/screenshots/jesus-twk95-com-large.jpg"
+  },
+  {
+    "title": "Сватбен фотограф във Варна | moods by andisha",
+    "description": "Търсите сватбен фотограф във Варна и региона? 📸 Улавям истинските емоции и разказвам Вашата сватбена история. Разгледайте портфолио и цени. Свържете се за оферта!",
+    "link": "https://astoichkov.com/",
+    "date": "2025-09-04T14:07:01.000",
+    "formattedDate": "Sep 4, 2025",
+    "favicon": "/img/favicons/astoichkov-com-favicon.png",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/astoichkov-com",
+    "screenshotpath": "/screenshots/astoichkov-com-large.jpg"
+  },
+  {
+    "title": "Chris Hannah",
+    "description": "",
+    "link": "https://chrishannah.me/",
+    "date": "2025-08-30T17:46:56.000",
+    "formattedDate": "Aug 30, 2025",
+    "favicon": "#icon-globe",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/chrishannah-me",
+    "screenshotpath": "/screenshots/chrishannah-me-large.jpg"
+  },
+  {
+    "title": "Delyo Dobrev",
+    "description": "Graphic, web, and editorial designer working with open tools and open approaches.",
+    "link": "https://www.delyo.be/",
+    "date": "2025-08-29T09:17:08.000",
+    "formattedDate": "Aug 29, 2025",
+    "favicon": "",
+    "screenshotpath": "/screenshots/www-delyo-be-large.jpg"
+  },
+  {
+    "title": "CybersecKyle",
+    "description": "CybersecKyle is the personal site of Kyle Reddoch, a cybersecurity expert and IT professional sharing practical guides, incident lessons, everyday defense tips, and more.",
+    "link": "https://www.kylereddoch.me/",
+    "date": "2025-08-28T22:12:51.000",
+    "formattedDate": "Aug 28, 2025",
+    "favicon": "/img/favicons/www-kylereddoch-me-favicon.png",
+    "screenshotpath": "/screenshots/www-kylereddoch-me-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/kylereddoch-me"
+  },
+  {
+    "title": "Bill Vinson",
+    "description": "",
+    "link": "https://www.billvinson.com/",
+    "date": "2025-08-26T21:48:20.000",
+    "formattedDate": "Aug 26, 2025",
+    "favicon": "/img/favicons/www-billvinson-com-favicon.png",
+    "screenshotpath": "/screenshots/www-billvinson-com-large.jpg"
+  },
+  {
+    "title": "Aninus Partikler",
+    "description": "My name is Aninus Partikler, but you might also know me as aninusmuffin or aninuscsalas. I self describe as a &quot;hobbyist developer and designer&quot; and &quot;Worst Developer alive&quot;",
+    "link": "https://aninus.com/",
+    "date": "2025-08-26T09:40:35.000",
+    "formattedDate": "Aug 26, 2025",
+    "favicon": "/img/favicons/aninus-com-favicon.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/aninus-com",
+    "screenshotpath": "/screenshots/aninus-com-large.jpg"
+  },
+  {
+    "title": "Professionellt brandskydd i Örebro med omnejd | Alfa F/S",
+    "description": "Alfa F/S erbjuder brandskydd i Örebro med omnejd – installation, underhåll och serviceavtal",
+    "link": "https://alfafire.se/",
+    "date": "2025-08-24",
+    "formattedDate": "Aug 24, 2025",
+    "favicon": "/img/favicons/alfafire-se-favicon.png",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/alfafire-se",
+    "screenshotpath": "/screenshots/alfafire-se-large.jpg"
+  },
+  {
+    "title": "Srva | Build, Share &amp; Monetize AI Apps in Minutes",
+    "description": "Srva makes AI creation simple. Instantly build custom AI-powered apps, share them with others, and turn your ideas into income — all in one platform.",
+    "link": "https://www.srva.ai/",
+    "date": "2025-08-20T17:33:53.000",
+    "formattedDate": "Aug 20, 2025",
+    "favicon": "/img/favicons/www-srva-ai-favicon.png",
+    "screenshotpath": "/screenshots/www-srva-ai-large.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/srva-ai"
+  },
+  {
+    "title": "John Skiles Skinner",
+    "description": "Software engineer, technical generalist, and writer",
+    "link": "https://johnskinnerportfolio.com/",
+    "date": "2025-08-21",
+    "formattedDate": "Aug 21, 2025",
+    "favicon": "/img/favicons/johnskinnerportfolio-com-favicon.png",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/johnskinnerportfolio-com",
+    "screenshotpath": "/screenshots/johnskinnerportfolio-com-large.jpg"
+  },
+  {
+    "title": "carsten - mein blog",
+    "description": "",
+    "link": "https://csenf.de/",
+    "date": "2025-08-19T15:42:35.000",
+    "formattedDate": "Aug 19, 2025",
+    "favicon": "/img/favicons/csenf-de-favicon.jpg",
+    "leaderboardLink": "https://www.11ty.dev/speedlify/csenf-de",
+    "screenshotpath": "/screenshots/csenf-de-large.jpg"
   }
 ]
