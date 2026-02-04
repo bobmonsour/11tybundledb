@@ -54311,5 +54311,79 @@
     "Date": "2026-02-02T12:46:39.000",
     "formattedDate": "Feb 2, 2026",
     "favicon": "/img/favicons/www-juddwater-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Global Variables",
+    "description": "",
+    "Link": "https://seanlunsford.com/",
+    "Date": "2026-02-02T20:15:29.000",
+    "formattedDate": "Feb 2, 2026",
+    "favicon": "/img/favicons/seanlunsford-com-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "How Eleventy Survived: Funding, Growth, and Open Source Reality",
+    "slugifiedTitle": "how-eleventy-survived-funding-growth-and-open-source-reality",
+    "Link": "https://www.zachleat.com/web/podcast-awesome-eleventy-open-source/",
+    "Date": "2026-02-03T16:11:55.000",
+    "formattedDate": "Feb 3, 2026",
+    "description": "A post by Zach Leatherman (zachleat)",
+    "Author": "Zach Leatherman",
+    "slugifiedAuthor": "zach-leatherman",
+    "AuthorSite": "https://www.zachleat.com/",
+    "AuthorSiteDescription": "Zach Leatherman is a builder for the web at Font Awesome and the creator/maintainer of Eleventy (11ty), an award-winning open source site generator.",
+    "socialLinks": {
+      "mastodon": "https://zachleat.com/@zachleat",
+      "bluesky": "https://bsky.app/profile/zachleat.com",
+      "youtube": "https://www.youtube.com/channel/UCMlSs0Ltg57qpYdFwUVLR2A",
+      "github": "https://github.com/zachleat",
+      "linkedin": "https://www.linkedin.com/in/zachleat/"
+    },
+    "favicon": "/img/favicons/www-zachleat-com-favicon.jpg",
+    "rssLink": "https://www.zachleat.com/follow/",
+    "Categories": [
+      "From the Source"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Adding Webmentions to My 11ty Blog",
+    "slugifiedTitle": "adding-webmentions-to-my-11ty-blog",
+    "Link": "https://deepakness.com/blog/adding-webmentions/",
+    "Date": "2026-02-03T16:13:51.000",
+    "formattedDate": "Feb 3, 2026",
+    "description": "DeepakNess is an internet generalist who likes learning and working on a mix of things across AI, tech, programmatic SEO, marketing, and more.",
+    "Author": "DeepakNess",
+    "slugifiedAuthor": "deepak-ness",
+    "AuthorSite": "https://deepakness.com",
+    "AuthorSiteDescription": "DeepakNess is an internet generalist exploring the edges of AI, tech, programmatic SEO, and marketing.",
+    "socialLinks": {
+      "mastodon": "https://www.threads.com/@deepakness",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/deepakness",
+      "linkedin": "https://linkedin.com/in/deepakness"
+    },
+    "favicon": "/img/favicons/deepakness-com-favicon.jpg",
+    "rssLink": "https://deepakness.com/feed/feed.xml",
+    "Categories": [
+      "Blogging",
+      "How to...",
+      "Webmentions"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Buckley & Sitzman, LLP",
+    "description": "Buckley &amp; Sitzman",
+    "Link": "https://www.buckleysitzman.com/",
+    "Date": "2026-02-03T17:08:36.000",
+    "formattedDate": "Feb 3, 2026",
+    "favicon": "/img/favicons/www-buckleysitzman-com-favicon.png"
   }
 ]
