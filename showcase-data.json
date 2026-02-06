@@ -1,5 +1,50 @@
 [
   {
+    "title": "2024 Conference presentations | Accessible Canada",
+    "description": "Welcome to Accessible Canada — Accessible World, a conference that aims to advance accessibility and inclusive design in various domains.",
+    "link": "https://acaw-cama.idrc.ocadu.ca/en/",
+    "date": "2026-02-06T07:58:51.000",
+    "formattedDate": "Feb 6, 2026",
+    "favicon": "/img/favicons/acaw-cama-idrc-ocadu-ca-favicon.jpg",
+    "screenshotpath": "/screenshots/acaw-cama-idrc-ocadu-ca-large.jpg"
+  },
+  {
+    "title": "Supporting diverse learners and educators",
+    "description": "An open community to support diverse learners and educators",
+    "link": "https://floeproject.org/",
+    "date": "2026-02-05T08:41:03.000",
+    "formattedDate": "Feb 5, 2026",
+    "favicon": "/img/favicons/floeproject-org-favicon.png",
+    "screenshotpath": "/screenshots/floeproject-org-large.jpg"
+  },
+  {
+    "title": "Ricardo Mendes",
+    "description": "Ricardo Mendes Middleware Engineer &amp; DevOps Specialist Building infrastructure, automating workflows, and connecting ethical technology with real-world impact. Passionate about the IndieWeb, open sour...",
+    "link": "https://rmendes.net/",
+    "date": "2026-02-05T08:34:32.000",
+    "formattedDate": "Feb 5, 2026",
+    "favicon": "/img/favicons/rmendes-net-favicon.svg",
+    "screenshotpath": "/screenshots/rmendes-net-large.jpg"
+  },
+  {
+    "title": "House of Desserts",
+    "description": "Fun filled treats suitable for all ages on Lutterworth High Street",
+    "link": "https://www.house-of-desserts.co.uk/",
+    "date": "2026-02-04T15:42:17.000",
+    "formattedDate": "Feb 4, 2026",
+    "favicon": "/img/favicons/www-house-of-desserts-co-uk-favicon.png",
+    "screenshotpath": "/screenshots/www-house-of-desserts-co-uk-large.jpg"
+  },
+  {
+    "title": "ReduxFlakes",
+    "description": "Software developer and designer from Portugal",
+    "link": "https://reduxflakes.nekoweb.org/",
+    "date": "2026-02-04T15:36:25.000",
+    "formattedDate": "Feb 4, 2026",
+    "favicon": "/img/favicons/reduxflakes-nekoweb-org-favicon.png",
+    "screenshotpath": "/screenshots/reduxflakes-nekoweb-org-large.jpg"
+  },
+  {
     "title": "Inclusive Design Research Centre",
     "description": "An international community of open source developers, designers, researchers, educators and co-designers who work together to proactively ensure that emerging technology and practices are designed inclusively.",
     "link": "https://idrc.ocadu.ca/",

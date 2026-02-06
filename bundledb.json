@@ -54433,5 +54433,141 @@
     "Demo": "https://brewventy.vercel.app/",
     "description": "A coffee-themed, fully customizable Eleventy starter project combining elegant design with powerful functionality. Perfect for personal blogs, documentation sites, and landing pages.",
     "screenshotpath": "/screenshots/brewventy-vercel-app-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Syndicating posts to mastodon via the gitlab pipeline",
+    "slugifiedTitle": "syndicating-posts-to-mastodon-via-the-gitlab-pipeline",
+    "Link": "https://grgml.xyz/blog/syndicating-posts-to-mastodon-via-the-gitlab-pipeline/",
+    "Date": "2026-01-16T00:00:00.000",
+    "formattedDate": "Jan 16, 2026",
+    "description": "POSSE worflow got an upgrade #posse #indieweb",
+    "Author": "Grigor Malo",
+    "slugifiedAuthor": "grigor-malo",
+    "AuthorSite": "https://grgml.xyz",
+    "AuthorSiteDescription": "Web developer, FLOSS agitator, far left ☭",
+    "socialLinks": {
+      "mastodon": "https://indieweb.social/@grgml",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/grgml-xyz-favicon.png",
+    "rssLink": "https://grgml.xyz/feeds/",
+    "Categories": [
+      "Asset Pipelines",
+      "Blogging",
+      "Collections",
+      "How to...",
+      "Social Media"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "ReduxFlakes",
+    "description": "Software developer and designer from Portugal",
+    "Link": "https://reduxflakes.nekoweb.org/",
+    "Date": "2026-02-04T15:36:25.000",
+    "formattedDate": "Feb 4, 2026",
+    "favicon": "/img/favicons/reduxflakes-nekoweb-org-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "House of Desserts",
+    "description": "Fun filled treats suitable for all ages on Lutterworth High Street",
+    "Link": "https://www.house-of-desserts.co.uk/",
+    "Date": "2026-02-04T15:42:17.000",
+    "formattedDate": "Feb 4, 2026",
+    "favicon": "/img/favicons/www-house-of-desserts-co-uk-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Ricardo Mendes",
+    "description": "Ricardo Mendes Middleware Engineer &amp; DevOps Specialist Building infrastructure, automating workflows, and connecting ethical technology with real-world impact. Passionate about the IndieWeb, open sour...",
+    "Link": "https://rmendes.net/",
+    "Date": "2026-02-05T08:34:32.000",
+    "formattedDate": "Feb 5, 2026",
+    "favicon": "/img/favicons/rmendes-net-favicon.svg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Supporting diverse learners and educators",
+    "description": "An open community to support diverse learners and educators",
+    "Link": "https://floeproject.org/",
+    "Date": "2026-02-05T08:41:03.000",
+    "formattedDate": "Feb 5, 2026",
+    "favicon": "/img/favicons/floeproject-org-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Adding Pagefind Search to a Static Eleventy Site",
+    "slugifiedTitle": "adding-pagefind-search-to-a-static-eleventy-site",
+    "Link": "https://slecache.com/posts/adding-pagefind-search-to-a-static-eleventy-site/",
+    "Date": "2025-03-01T00:00:00.000",
+    "formattedDate": "Mar 1, 2025",
+    "description": "Search is an essential feature on a website. But how to implement it on a static site?",
+    "Author": "slecache",
+    "slugifiedAuthor": "slecache",
+    "AuthorSite": "https://slecache.com",
+    "AuthorSiteDescription": "Hello World # Hello, I’m slecache. I’m a software architect and I love to share my learnings and projects! Twitter Bluesky Recent Posts 01...",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "https://bsky.app/profile/slecache.com",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/slecache-com-favicon.jpg",
+    "rssLink": "https://slecache.com/feed.xml",
+    "Categories": [
+      "Configuration",
+      "How to...",
+      "Search"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Dynamic Open Graph Images for My 11ty Blog",
+    "slugifiedTitle": "dynamic-open-graph-images-for-my-11ty-blog",
+    "Link": "https://deepakness.com/blog/custom-og-images/",
+    "Date": "2026-02-06T06:50:27.000",
+    "formattedDate": "Feb 6, 2026",
+    "description": "A quick guide to how I dynamically generate custom Open Graph images for each post on my 11ty blog, using satori.",
+    "Author": "DeepakNess",
+    "slugifiedAuthor": "deepak-ness",
+    "AuthorSite": "https://deepakness.com",
+    "AuthorSiteDescription": "DeepakNess is an internet generalist exploring the edges of AI, tech, programmatic SEO, and marketing.",
+    "socialLinks": {
+      "mastodon": "https://www.threads.com/@deepakness",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/deepakness",
+      "linkedin": "https://linkedin.com/in/deepakness"
+    },
+    "favicon": "/img/favicons/deepakness-com-favicon.jpg",
+    "rssLink": "https://deepakness.com/feed/feed.xml",
+    "Categories": [
+      "Blogging",
+      "How to...",
+      "Images"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "2024 Conference presentations | Accessible Canada",
+    "description": "Welcome to Accessible Canada — Accessible World, a conference that aims to advance accessibility and inclusive design in various domains.",
+    "Link": "https://acaw-cama.idrc.ocadu.ca/en/",
+    "Date": "2026-02-06T07:58:51.000",
+    "formattedDate": "Feb 6, 2026",
+    "favicon": "/img/favicons/acaw-cama-idrc-ocadu-ca-favicon.jpg"
   }
 ]
