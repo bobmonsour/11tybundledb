@@ -1,5 +1,86 @@
 [
   {
+    "title": "Project Etho",
+    "description": "Etho&#39;s appearances across the web.",
+    "link": "https://etho.clooney.io/",
+    "date": "2026-02-11T15:17:39.000",
+    "formattedDate": "Feb 11, 2026",
+    "favicon": "#icon-globe",
+    "screenshotpath": "/screenshots/etho-clooney-io-large.jpg"
+  },
+  {
+    "title": "Andrew Houle",
+    "description": "I&#39;m Andrew Houle, a web developer/designer who nerds out on design systems &amp; clean code. I run my biz under the moniker Craft and Function.",
+    "link": "https://andrewhoule.me/",
+    "date": "2026-02-11T13:59:00.000",
+    "formattedDate": "Feb 11, 2026",
+    "favicon": "/img/favicons/andrewhoule-me-favicon.png",
+    "screenshotpath": "/screenshots/andrewhoule-me-large.jpg"
+  },
+  {
+    "title": "Ripley Community Television",
+    "description": "Your source for local news, events, and community coverage in Ripley and Tippah County. Watch RCTV19 live streaming.",
+    "link": "https://rctv19.com/",
+    "date": "2026-02-11T12:01:22.000",
+    "formattedDate": "Feb 11, 2026",
+    "favicon": "/img/favicons/rctv19-com-favicon.png",
+    "screenshotpath": "/screenshots/rctv19-com-large.jpg"
+  },
+  {
+    "title": "Co-designing with children with disabilities",
+    "description": "Recommendations to enable designers, children, teachers, and caregivers to meet their respective needs and achieve their goals in a collaborative process.",
+    "link": "https://co-design.weavly.org/",
+    "date": "2026-02-10T20:33:36.000",
+    "formattedDate": "Feb 10, 2026",
+    "favicon": "/img/favicons/co-design-weavly-org-favicon.png",
+    "screenshotpath": "/screenshots/co-design-weavly-org-large.jpg"
+  },
+  {
+    "title": "Centre for Networked Intelligence",
+    "description": "Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.",
+    "link": "https://cni.iisc.ac.in/",
+    "date": "2026-02-10T10:48:38.000",
+    "formattedDate": "Feb 10, 2026",
+    "favicon": "/img/favicons/cni-iisc-ac-in-favicon.png",
+    "screenshotpath": "/screenshots/cni-iisc-ac-in-large.jpg"
+  },
+  {
+    "title": "Guidebook for Financial Inclusion",
+    "description": "Frameworks and activities that can be used by financial institutions to understand barriers and create more inclusive financial offerings.",
+    "link": "https://guidebook.financial-inclusion.ca/",
+    "date": "2026-02-09T15:25:15.000",
+    "formattedDate": "Feb 9, 2026",
+    "favicon": "/img/favicons/guidebook-financial-inclusion-ca-favicon.png",
+    "screenshotpath": "/screenshots/guidebook-financial-inclusion-ca-large.jpg"
+  },
+  {
+    "title": "energieswitch",
+    "description": "Vergelijk energieleveranciers en switch naadloos over naar de beste deal. 100% onafhankelijk én eenvoudig. Bespaar tot €600 per jaar.",
+    "link": "https://energieswitch.nl/",
+    "date": "2026-02-09T10:45:22.000",
+    "formattedDate": "Feb 9, 2026",
+    "favicon": "/img/favicons/energieswitch-nl-favicon.png",
+    "screenshotpath": "/screenshots/energieswitch-nl-large.jpg"
+  },
+  {
+    "title": "Inclusive Standards",
+    "description": "Here, we gather all our efforts related to inclusive standards development.",
+    "link": "https://standards.inclusivedesign.ca/",
+    "date": "2026-02-07T08:52:05.000",
+    "formattedDate": "Feb 7, 2026",
+    "favicon": "/img/favicons/standards-inclusivedesign-ca-favicon.jpg",
+    "screenshotpath": "/screenshots/standards-inclusivedesign-ca-large.jpg"
+  },
+  {
+    "title": "Cyncrovee",
+    "description": "UK based software developer specialising in UI dev- whether it be GUI, TUI, CLI, or Web!",
+    "link": "https://cyncrovee.nekoweb.org/",
+    "date": "2026-02-06T15:23:27.000",
+    "formattedDate": "Feb 6, 2026",
+    "favicon": "/img/favicons/cyncrovee-nekoweb-org-favicon.png",
+    "screenshotpath": "/screenshots/cyncrovee-nekoweb-org-large.jpg"
+  },
+  {
     "title": "2024 Conference presentations | Accessible Canada",
     "description": "Welcome to Accessible Canada — Accessible World, a conference that aims to advance accessibility and inclusive design in various domains.",
     "link": "https://acaw-cama.idrc.ocadu.ca/en/",
@@ -4168,8 +4249,8 @@
     "leaderboardLink": "https://www.11ty.dev/speedlify/caseyocampo-com"
   },
   {
-    "title": "jmhobbs @ GitHub",
-    "description": "",
+    "title": "jmhobbs",
+    "description": "jmhobbs is John Hobbs",
     "link": "https://jmhobbs.github.io/",
     "date": "2024-07-16",
     "formattedDate": "Jul 15, 2024",

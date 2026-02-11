@@ -886,7 +886,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://samdking.co.uk/feed.xml",
     "Categories": [
       "Remote Data",
       "Notion"
@@ -1704,7 +1704,7 @@
       "linkedin": "https://linkedin.com/in/tanner-dolby"
     },
     "favicon": "/img/favicons/tannerdolby-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tannerdolby.com/feed.xml",
     "Categories": [
       "Collections"
     ]
@@ -1861,7 +1861,7 @@
       "linkedin": "https://www.linkedin.com/in/ambrwlsn90/"
     },
     "favicon": "/img/favicons/amberwilson-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://amberwilson.co.uk/rss.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -1913,7 +1913,7 @@
       "linkedin": "https://www.linkedin.com/in/chipcullen/"
     },
     "favicon": "/img/favicons/chipcullen-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://chipcullen.com/index.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -1939,7 +1939,7 @@
       "linkedin": "https://www.linkedin.com/company/chromatic"
     },
     "favicon": "/img/favicons/chromatichq-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://chromatichq.com/blog/feed.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -2043,7 +2043,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/heydonworks-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://heydonworks.com/feed.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -2123,7 +2123,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/jondueck-ca-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://jondueck.ca/feed.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -2280,7 +2280,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lukeb-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://lukeb.co.uk/rss.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -2410,7 +2410,7 @@
       "linkedin": "http://www.linkedin.com/in/nicolashery"
     },
     "favicon": "/img/favicons/nicolashery-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://nicolashery.com/feed.xml",
     "Categories": [
       "Migrating to Eleventy",
       "Blogging"
@@ -2541,7 +2541,7 @@
       "linkedin": "https://www.linkedin.com/in/tjaddison/"
     },
     "favicon": "/img/favicons/tjaddison-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://tjaddison.com/rss.xml",
     "Categories": [
       "Migrating to Eleventy",
       "Why Eleventy?"
@@ -2595,7 +2595,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Getting Started"
     ]
@@ -2647,7 +2647,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/fullstackdigital-io-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://fullstackdigital.io/feed/",
     "Categories": [
       "Getting Started"
     ]
@@ -3263,8 +3263,8 @@
       "github": "https://github.com/sjhuskey",
       "linkedin": "https://www.linkedin.com/in/sjhuskey/"
     },
-    "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "favicon": "/img/favicons/sjhuskey-info-favicon.png",
+    "rssLink": "https://sjhuskey.info/feed/feed.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -3319,7 +3319,7 @@
       "linkedin": "https://www.linkedin.com/in/chris22smith/"
     },
     "favicon": "/img/favicons/chrissmith-xyz-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://chrissmith.xyz/feed.xml",
     "Categories": [
       "Migrating to Eleventy",
       "Why Eleventy?"
@@ -3346,7 +3346,7 @@
       "linkedin": "https://www.linkedin.com/in/chris22smith/"
     },
     "favicon": "/img/favicons/chrissmith-xyz-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://chrissmith.xyz/feed.xml",
     "Categories": [
       "Migrating to Eleventy",
       "How to..."
@@ -3508,7 +3508,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/moosedog-io-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://moosedog.io/feed/feed.xml",
     "Categories": [
       "Configuration",
       "How to..."
@@ -3535,7 +3535,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/moosedog-io-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://moosedog.io/feed/feed.xml",
     "Categories": [
       "Dates",
       "How to..."
@@ -3562,7 +3562,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/moosedog-io-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://moosedog.io/feed/feed.xml",
     "Categories": [
       "CSS/Sass",
       "How to..."
@@ -3778,7 +3778,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/web-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://web.dev/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -4073,7 +4073,7 @@
       "linkedin": "https://linkedin.com/in/mortendk"
     },
     "favicon": "/img/favicons/morten-dk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://morten.dk/feed.xml",
     "Categories": [
       "Nunjucks/Macros"
     ]
@@ -4152,7 +4152,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "WebC",
       "How to..."
@@ -4179,7 +4179,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "Dates",
       "How to..."
@@ -5533,7 +5533,7 @@
       "linkedin": "https://www.linkedin.com/in/jeffsheets/"
     },
     "favicon": "/img/favicons/sheetsj-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sheetsj.com/feed.xml",
     "Categories": [
       "Migrating to Eleventy",
       "How to...",
@@ -5843,7 +5843,7 @@
       "linkedin": "https://www.linkedin.com/in/adrien-fabre-7a30994b/"
     },
     "favicon": "/img/favicons/www-statox-fr-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.statox.fr/feed",
     "Categories": [
       "How to...",
       "Search"
@@ -5870,7 +5870,7 @@
       "linkedin": "https://www.linkedin.com/in/adrien-fabre-7a30994b/"
     },
     "favicon": "/img/favicons/www-statox-fr-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.statox.fr/feed",
     "Categories": [
       "Configuration",
       "How to..."
@@ -6371,7 +6371,7 @@
       "linkedin": "https://www.linkedin.com/in/ambrwlsn90/"
     },
     "favicon": "/img/favicons/amberwilson-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://amberwilson.co.uk/rss.xml",
     "Categories": [
       "Webmentions"
     ]
@@ -6396,7 +6396,7 @@
       "github": "https://github.com/andberry",
       "linkedin": "https://www.linkedin.com/in/andrea-berardi/"
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/www-andberry-me-favicon.svg",
     "rssLink": "",
     "Categories": [
       "Internationalization",
@@ -6584,7 +6584,7 @@
       "linkedin": "https://www.linkedin.com/company/digitalocean/"
     },
     "favicon": "/img/favicons/www-digitalocean-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.digitalocean.com/community/tutorials/feed",
     "Categories": [
       "How to...",
       "Deployment"
@@ -6745,7 +6745,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -6771,7 +6771,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -6797,7 +6797,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "WebC"
     ]
@@ -6823,7 +6823,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -6849,7 +6849,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "How to...",
       "Collections"
@@ -6876,7 +6876,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -6902,7 +6902,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "Dates"
     ]
@@ -6928,7 +6928,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "Webmentions"
     ]
@@ -7034,7 +7034,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-brianperry-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.brianperry.dev/feed.xml",
     "Categories": [
       "Pagination",
       "How to...",
@@ -7062,7 +7062,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/remotesynthesis-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://remotesynthesis.com/rss.xml",
     "Categories": [
       "Why Eleventy?"
     ]
@@ -7088,7 +7088,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Pagination",
       "How to..."
@@ -7115,7 +7115,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "How to...",
       "YouTube"
@@ -7142,7 +7142,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Plugins",
       "YouTube"
@@ -7169,7 +7169,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Plugins",
       "How to..."
@@ -7196,7 +7196,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Plugins",
       "YouTube"
@@ -7223,7 +7223,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "CMS",
       "Collections"
@@ -7250,7 +7250,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "How to...",
       "CSS/Sass"
@@ -7277,7 +7277,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -7303,7 +7303,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "How to...",
       "Blogging"
@@ -7330,7 +7330,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Global Data",
       "How to..."
@@ -7357,7 +7357,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "How to...",
       "Filters"
@@ -7384,7 +7384,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "Serverless"
     ]
@@ -7438,7 +7438,7 @@
       "linkedin": "https://linkedin.com/in/bryanlrobinson"
     },
     "favicon": "/img/favicons/bryanlrobinson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryanlrobinson.com/feed.xml",
     "Categories": [
       "YouTube"
     ]
@@ -8402,8 +8402,8 @@
       "github": "https://github.com/freshyill",
       "linkedin": "https://www.linkedin.com/in/chris-r-coleman/"
     },
-    "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "favicon": "/img/favicons/illtron-net-favicon.png",
+    "rssLink": "https://illtron.net/feed.xml",
     "Categories": [
       "Configuration",
       "Data Cascade",
@@ -8751,7 +8751,7 @@
       "linkedin": "https://www.linkedin.com/company/contentful/"
     },
     "favicon": "/img/favicons/www-contentful-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.contentful.com/blog/feed.xml",
     "Categories": [
       "CMS"
     ]
@@ -8855,7 +8855,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.crossingtheruby.com/feed.xml",
     "Categories": [
       "CMS",
       "How to..."
@@ -8882,7 +8882,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.crossingtheruby.com/feed.xml",
     "Categories": [
       "Why Eleventy?"
     ]
@@ -8908,7 +8908,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.crossingtheruby.com/feed.xml",
     "Categories": [
       "Why Eleventy?"
     ]
@@ -8934,7 +8934,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.crossingtheruby.com/feed.xml",
     "Categories": [
       "Pagination"
     ]
@@ -8960,7 +8960,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-dandenney-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.dandenney.com/rss.xml",
     "Categories": [
       "Collections",
       "How to..."
@@ -9384,7 +9384,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/blog-logrocket-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://blog.logrocket.com/feed",
     "Categories": [
       "Serverless"
     ]
@@ -9782,7 +9782,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/tiiny-host-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tiiny.host/blog/feed.xml",
     "Categories": [
       "Getting Started",
       "Why Eleventy?"
@@ -9940,7 +9940,7 @@
       "linkedin": "https://www.linkedin.com/in/eevajonna/"
     },
     "favicon": "/img/favicons/eevis-codes-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://eevis.codes/feed",
     "Categories": [
       "How to...",
       "Dates"
@@ -10127,7 +10127,7 @@
       "linkedin": "https://www.linkedin.com/in/fershad/"
     },
     "favicon": "/img/favicons/fershad-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://fershad.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -10153,7 +10153,7 @@
       "linkedin": "https://www.linkedin.com/in/fershad/"
     },
     "favicon": "/img/favicons/fershad-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://fershad.com/feed.xml",
     "Categories": [
       "Plugins"
     ]
@@ -10498,7 +10498,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-freecodecamp-org-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.freecodecamp.org/news/rss",
     "Categories": [
       "Getting Started"
     ]
@@ -10524,7 +10524,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/ghost-org-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://ghost.org/blog/feed",
     "Categories": [
       "CMS"
     ]
@@ -10791,7 +10791,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/heydonworks-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://heydonworks.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -10817,7 +10817,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/heydonworks-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://heydonworks.com/feed.xml",
     "Categories": [
       "Global Data"
     ]
@@ -11667,7 +11667,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -11693,7 +11693,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -11719,7 +11719,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "Collections",
       "How to..."
@@ -11746,7 +11746,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "Dates"
     ]
@@ -11772,7 +11772,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "How to...",
       "Configuration",
@@ -11800,7 +11800,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "Filters",
       "Collections",
@@ -12533,7 +12533,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/sombriks-com-br-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sombriks.com.br/feed.xml",
     "Categories": [
       "Getting Started"
     ]
@@ -12719,7 +12719,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lukeb-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://lukeb.co.uk/rss.xml",
     "Categories": [
       "Webmentions"
     ]
@@ -12745,7 +12745,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lukeb-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://lukeb.co.uk/rss.xml",
     "Categories": [
       "Deployment",
       "Scheduling"
@@ -13299,19 +13299,19 @@
     "Date": "2023-04-13T00:00:00.000",
     "formattedDate": "Apr 13, 2023",
     "description": "The Stanford Literary Lab is a research collective that applies computational criticism, in all its forms, to the study of literature.",
-    "Author": "Matt Warner & Quinn Dombrowski",
-    "slugifiedAuthor": "matt-warner-quinn-dombrowski",
-    "AuthorSite": "https://litlab.stanford.edu",
-    "AuthorSiteDescription": "The Stanford Literary Lab is a research collective that applies computational criticism, in all its forms, to the study of literature.",
+    "Author": "Quinn Dombrowski",
+    "slugifiedAuthor": "quinn-dombrowski",
+    "AuthorSite": "https://quinndombrowski.com/",
+    "AuthorSiteDescription": "I do multilingual digital humanities and data visualization with textiles.",
     "socialLinks": {
       "mastodon": "",
-      "bluesky": "",
+      "bluesky": "https://bsky.app/profile/quinnanya.me",
       "youtube": "",
       "github": "",
       "linkedin": ""
     },
     "favicon": "/img/favicons/litlab-stanford-edu-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://quinndombrowski.com/feed.xml",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -13577,7 +13577,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-maxkohler-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.maxkohler.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -13603,7 +13603,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-maxkohler-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.maxkohler.com/feed.xml",
     "Categories": [
       "How to...",
       "Data Cascade"
@@ -14205,7 +14205,7 @@
       "linkedin": "https://www.linkedin.com/in/michelenasti/"
     },
     "favicon": "/img/favicons/michelenasti-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://michelenasti.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -14286,7 +14286,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-mikeaparicio-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.mikeaparicio.com/feed.xml",
     "Categories": [
       "How to...",
       "Search"
@@ -14313,7 +14313,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-mikeaparicio-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.mikeaparicio.com/feed.xml",
     "Categories": [
       "How to..."
     ]
@@ -14339,7 +14339,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-mikeaparicio-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.mikeaparicio.com/feed.xml",
     "Categories": [
       "Navigation"
     ]
@@ -15251,7 +15251,7 @@
       "github": "https://github.com/quinnanya",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/quinndombrowski-com-favicon.ico",
     "rssLink": "https://quinndombrowski.com/feed.xml",
     "Categories": [
       "Deployment"
@@ -17887,7 +17887,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-boone-320bbb30/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.falldowngoboone.com/feed/feed.xml",
     "Categories": [
       "How to...",
       "Remote Data"
@@ -17914,7 +17914,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-boone-320bbb30/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.falldowngoboone.com/feed/feed.xml",
     "Categories": [
       "How to...",
       "Remote Data"
@@ -17941,7 +17941,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-boone-320bbb30/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://www.falldowngoboone.com/feed/feed.xml",
     "Categories": [
       "Front Matter",
       "Data Cascade",
@@ -18705,7 +18705,7 @@
       "linkedin": "https://www.linkedin.com/in/simonmmcmanus/"
     },
     "favicon": "/img/favicons/simonmcmanus-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simonmcmanus.com/feed.xml",
     "Categories": [
       "Layouts"
     ]
@@ -19158,7 +19158,7 @@
       "linkedin": "https://www.linkedin.com/in/stevenjhicks"
     },
     "favicon": "/img/favicons/www-stevenhicks-me-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.stevenhicks.me/feed.xml",
     "Categories": [
       "Social Media",
       "Images",
@@ -19212,7 +19212,7 @@
       "linkedin": "https://linkedin.com/in/tanner-dolby"
     },
     "favicon": "/img/favicons/tannerdolby-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tannerdolby.com/feed.xml",
     "Categories": [
       "Global Data"
     ]
@@ -19264,7 +19264,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-tim-kleyersburg-de-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.tim-kleyersburg.de/feed.xml",
     "Categories": [
       "Nunjucks/Macros",
       "Markdown"
@@ -19291,7 +19291,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-tim-kleyersburg-de-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.tim-kleyersburg.de/feed.xml",
     "Categories": [
       "Getting Started"
     ]
@@ -19345,7 +19345,7 @@
       "linkedin": "https://www.linkedin.com/in/tjaddison/"
     },
     "favicon": "/img/favicons/tjaddison-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://tjaddison.com/rss.xml",
     "Categories": [
       "Front Matter",
       "Images",
@@ -19398,7 +19398,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Migrating to Eleventy"
@@ -19479,7 +19479,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/tomichen-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tomichen.com/blog/feed.xml",
     "Categories": [
       "Markdown",
       "Images",
@@ -21131,7 +21131,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/moosedog-io-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://moosedog.io/feed/feed.xml",
     "Categories": [
       "Configuration",
       "How to..."
@@ -21301,7 +21301,7 @@
       "github": "",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/whiona-weblog-lol-favicon.ico",
     "rssLink": "https://whiona.weblog.lol/rss.xml",
     "Categories": [
       "Blogging",
@@ -21330,8 +21330,8 @@
       "github": "https://github.com/freshyill",
       "linkedin": "https://www.linkedin.com/in/chris-r-coleman/"
     },
-    "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "favicon": "/img/favicons/illtron-net-favicon.png",
+    "rssLink": "https://illtron.net/feed.xml",
     "Categories": [
       "How to...",
       "Images"
@@ -21532,7 +21532,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/lostinbrittany-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://lostinbrittany.dev/en/feed.xml",
     "Categories": [
       "WebC",
       "Why Eleventy?"
@@ -21735,7 +21735,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-mikeaparicio-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.mikeaparicio.com/feed.xml",
     "Categories": [
       "CMS",
       "Global Data",
@@ -21832,7 +21832,7 @@
       "linkedin": "https://www.linkedin.com/in/eystein/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://eystein.no/feed/feed.xml",
     "Categories": [
       "How to...",
       "Navigation"
@@ -22254,7 +22254,7 @@
       "linkedin": "https://www.linkedin.com/in/chadschulz/"
     },
     "favicon": "/img/favicons/squalr-us-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://squalr.us/index.xml",
     "Categories": [
       "Deployment",
       "How to..."
@@ -22611,7 +22611,7 @@
       "linkedin": "https://www.linkedin.com/in/jeffsheets/"
     },
     "favicon": "/img/favicons/sheetsj-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sheetsj.com/feed.xml",
     "Categories": [
       "How to...",
       "Images",
@@ -22640,7 +22640,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/grgml-xyz-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://grgml.xyz/feed.xml",
     "Categories": [
       "Deployment",
       "How to..."
@@ -24498,8 +24498,8 @@
       "github": "https://github.com/joshghent",
       "linkedin": "https://www.linkedin.com/in/joshghent"
     },
-    "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "favicon": "/img/favicons/joshghent-com-favicon.ico",
+    "rssLink": "https://joshghent.com/rss.xml",
     "Categories": [
       "Blogging",
       "Migrating to Eleventy",
@@ -24686,7 +24686,7 @@
       "github": "https://github.com/drhayes",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/drhayes-io-favicon.ico",
     "rssLink": "https://drhayes.io/feed.xml",
     "Categories": [
       "How to...",
@@ -25011,7 +25011,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-codeflood-net-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.codeflood.net/blog/rss.xml",
     "Categories": [
       "Migrating to Eleventy",
       "Why Eleventy?"
@@ -25038,7 +25038,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/khalidabuhakmeh-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://khalidabuhakmeh.com/feed.xml",
     "Categories": [
       "Configuration",
       "Data Cascade",
@@ -25067,7 +25067,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/khalidabuhakmeh-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://khalidabuhakmeh.com/feed.xml",
     "Categories": [
       "Debugging",
       "How to..."
@@ -25094,7 +25094,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/khalidabuhakmeh-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://khalidabuhakmeh.com/feed.xml",
     "Categories": [
       "Asset Pipelines",
       "Configuration"
@@ -25261,7 +25261,7 @@
       "linkedin": "https://www.linkedin.com/in/jeffsheets/"
     },
     "favicon": "/img/favicons/sheetsj-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sheetsj.com/feed.xml",
     "Categories": [
       "Configuration",
       "Deployment",
@@ -25289,7 +25289,7 @@
       "linkedin": "https://www.linkedin.com/in/jeffsheets/"
     },
     "favicon": "/img/favicons/sheetsj-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sheetsj.com/feed.xml",
     "Categories": [
       "Blogging",
       "Deployment",
@@ -25345,7 +25345,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Blogging",
@@ -25457,7 +25457,7 @@
       "linkedin": "https://www.linkedin.com/in/eystein/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://eystein.no/feed/feed.xml",
     "Categories": [
       "How to...",
       "Images",
@@ -26058,7 +26058,7 @@
       "linkedin": "https://www.linkedin.com/in/jeffsheets/"
     },
     "favicon": "/img/favicons/sheetsj-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sheetsj.com/feed.xml",
     "Categories": [
       "How to...",
       "Webmentions"
@@ -27381,7 +27381,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Collections",
@@ -27409,7 +27409,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/khalidabuhakmeh-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://khalidabuhakmeh.com/feed.xml",
     "Categories": [
       "How to...",
       "YouTube"
@@ -27730,7 +27730,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Collections",
@@ -27969,7 +27969,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/grgml-xyz-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://grgml.xyz/feed.xml",
     "Categories": [
       "Blogging",
       "Collections",
@@ -28064,7 +28064,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/piperhaywood-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://piperhaywood.com/feed/",
     "Categories": [
       "Performance"
     ]
@@ -28182,7 +28182,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-gittings/"
     },
     "favicon": "/img/favicons/www-ryangittings-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.ryangittings.co.uk/feed.xml",
     "Categories": [
       "How to...",
       "Performance",
@@ -28329,7 +28329,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "How to...",
       "Images",
@@ -28384,7 +28384,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "How to...",
@@ -28766,7 +28766,7 @@
       "linkedin": "https://www.linkedin.com/in/jordankohl/"
     },
     "favicon": "/img/favicons/simpixelated-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://simpixelated.com/feed.xml",
     "Categories": [
       "Blogging",
       "Collections",
@@ -29198,7 +29198,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Deployment",
@@ -29717,7 +29717,7 @@
       "linkedin": "https://www.linkedin.com/in/anitaycheng"
     },
     "favicon": "/img/favicons/anitacheng-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://anitacheng.com/feed",
     "Categories": [
       "How to...",
       "Navigation",
@@ -29845,7 +29845,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-codeflood-net-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.codeflood.net/blog/rss.xml",
     "Categories": [
       "Collections",
       "How to...",
@@ -29873,7 +29873,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "Filters",
       "How to...",
@@ -30222,7 +30222,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-gittings/"
     },
     "favicon": "/img/favicons/www-ryangittings-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.ryangittings.co.uk/feed.xml",
     "Categories": [
       "CMS",
       "How to...",
@@ -30280,7 +30280,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/blog-logrocket-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://blog.logrocket.com/feed",
     "Categories": [
       "Deployment",
       "Getting Started",
@@ -30308,7 +30308,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/blog-logrocket-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://blog.logrocket.com/feed",
     "Categories": [
       "Blogging",
       "Configuration",
@@ -30461,7 +30461,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/blakewatson-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://blakewatson.com/feed",
     "Categories": [
       "Blogging",
       "Migrating to Eleventy",
@@ -30597,7 +30597,7 @@
       "linkedin": "https://www.linkedin.com/in/samimaat/"
     },
     "favicon": "/img/favicons/samimaatta-fi-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://samimaatta.fi/feed.xml",
     "Categories": [
       "Collections",
       "Dates",
@@ -30627,7 +30627,7 @@
       "linkedin": "https://www.linkedin.com/in/samimaat/"
     },
     "favicon": "/img/favicons/samimaatta-fi-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://samimaatta.fi/feed.xml",
     "Categories": [
       "Debugging",
       "Images",
@@ -30655,7 +30655,7 @@
       "linkedin": "https://www.linkedin.com/in/samimaat/"
     },
     "favicon": "/img/favicons/samimaatta-fi-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://samimaatta.fi/feed.xml",
     "Categories": [
       "Filters",
       "How to..."
@@ -30682,7 +30682,7 @@
       "linkedin": "https://www.linkedin.com/in/samimaat/"
     },
     "favicon": "/img/favicons/samimaatta-fi-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://samimaatta.fi/feed.xml",
     "Categories": [
       "CSS/Sass",
       "Debugging",
@@ -30710,7 +30710,7 @@
       "linkedin": "https://www.linkedin.com/in/samimaat/"
     },
     "favicon": "/img/favicons/samimaatta-fi-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://samimaatta.fi/feed.xml",
     "Categories": [
       "CSS/Sass",
       "Dates",
@@ -31087,7 +31087,7 @@
       "linkedin": "http://www.linkedin.com/in/lkhrs"
     },
     "favicon": "/img/favicons/www-lkhrs-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.lkhrs.com/blog/rss/",
     "Categories": [
       "Collections",
       "Drafts"
@@ -31359,7 +31359,7 @@
       "linkedin": "https://www.linkedin.com/in/stefanzweifel/"
     },
     "favicon": "/img/favicons/stefanzweifel-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://stefanzweifel.dev/feed",
     "Categories": [
       "Migrating to Eleventy"
     ]
@@ -31441,7 +31441,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/keith-is-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://keith.is/feed.xml",
     "Categories": [
       "Blogging",
       "WebC",
@@ -31468,7 +31468,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Configuration",
@@ -32395,7 +32395,7 @@
       "linkedin": "https://www.linkedin.com/in/stefanzweifel/"
     },
     "favicon": "/img/favicons/stefanzweifel-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://stefanzweifel.dev/feed",
     "Categories": [
       "How to..."
     ]
@@ -33174,7 +33174,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://ptsefton.com/feed/atom",
     "Categories": [
       "Collections",
       "How to...",
@@ -33527,7 +33527,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "Collections",
@@ -34374,7 +34374,7 @@
       "linkedin": "https://www.linkedin.com/in/therobwood/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://robwood.uk/feed.xml",
     "Categories": [
       "Deployment",
       "How to...",
@@ -34403,7 +34403,7 @@
       "linkedin": "https://www.linkedin.com/in/therobwood/"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://robwood.uk/feed.xml",
     "Categories": [
       "WebC"
     ]
@@ -34495,7 +34495,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "Deployment",
       "How to...",
@@ -34523,7 +34523,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "Plugins",
       "WebC"
@@ -35590,7 +35590,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/arnaught-neocities-org-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://arnaught.neocities.org/feed.xml",
     "Categories": [
       "Blogging",
       "Dates",
@@ -35879,7 +35879,7 @@
       "linkedin": "https://il.linkedin.com/in/bennypowers"
     },
     "favicon": "/img/favicons/bennypowers-dev-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bennypowers.dev/feed.xml",
     "Categories": [
       "Configuration",
       "How to..."
@@ -36088,7 +36088,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "Upgrading"
     ]
@@ -38083,7 +38083,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/baty-net-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://baty.net/index.xml",
     "Categories": [
       "How to...",
       "Search"
@@ -38582,7 +38582,7 @@
       "linkedin": "https://www.linkedin.com/in/nicolas-erramuspe/"
     },
     "favicon": "/img/favicons/minimo-io-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://minimo.io/feed.xml",
     "Categories": [
       "Internationalization",
       "Migrating to Eleventy"
@@ -39204,7 +39204,7 @@
       "linkedin": "https://www.linkedin.com/company/fastmail"
     },
     "favicon": "/img/favicons/www-fastmail-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.fastmail.com/feed/",
     "Categories": [
       "Blogging",
       "CMS",
@@ -40216,7 +40216,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/sainthood-xyz-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://sainthood.xyz/rss.xml",
     "Categories": [
       "Accessibility",
       "Global Data",
@@ -40516,7 +40516,7 @@
       "linkedin": "https://www.linkedin.com/in/samimaat/"
     },
     "favicon": "/img/favicons/samimaatta-fi-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://samimaatta.fi/feed.xml",
     "Categories": [
       "Filters",
       "How to..."
@@ -40869,7 +40869,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "How to..."
@@ -41729,7 +41729,7 @@
       "linkedin": "https://www.linkedin.com/in/bernardnijenhuis/"
     },
     "favicon": "/img/favicons/bnijenhuis-nl-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bnijenhuis.nl/feed.xml",
     "Categories": [
       "Configuration",
       "How to..."
@@ -42246,7 +42246,7 @@
       "github": "https://github.com/ttntm",
       "linkedin": ""
     },
-    "favicon": "#icon-person-circle",
+    "favicon": "/img/favicons/ttntm-me-favicon.ico",
     "rssLink": "https://ttntm.me/blog/feed.xml",
     "Categories": [
       "How to...",
@@ -43282,7 +43282,7 @@
       "linkedin": "https://www.linkedin.com/in/schalkneethling/"
     },
     "favicon": "/img/favicons/schalkneethling-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://schalkneethling.com/rss.xml",
     "Categories": [
       "Getting Started",
       "YouTube"
@@ -43516,7 +43516,7 @@
       "linkedin": "https://www.linkedin.com/in/brian-kardell-08a4264"
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://bkardell.com/blog/feed.rss",
     "Categories": [
       "Configuration",
       "How to...",
@@ -43630,7 +43630,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/ryan-himmelwright-net-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://ryan.himmelwright.net/post/index.xml",
     "Categories": [
       "Collections",
       "Configuration",
@@ -44027,7 +44027,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/www-simplethread-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.simplethread.com/feed/",
     "Categories": [
       "Blogging",
       "Collections",
@@ -44281,7 +44281,7 @@
       "linkedin": "https://www.linkedin.com/company/tailscale"
     },
     "favicon": "/img/favicons/tailscale-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tailscale.com/blog/index.xml",
     "Categories": [
       "Configuration",
       "Deployment",
@@ -44819,7 +44819,7 @@
       "linkedin": "https://www.linkedin.com/in/bryn-newell/"
     },
     "favicon": "/img/favicons/bryn-codes-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://bryn.codes/feed.xml",
     "Categories": [
       "Blogging",
       "CSS/Sass",
@@ -44896,7 +44896,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/jjoohhnn-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://jjoohhnn.com/feed.xml",
     "Categories": [
       "Blogging",
       "CSS/Sass",
@@ -45004,7 +45004,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/tlohde-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tlohde.com/feed.xml",
     "Categories": [
       "How to...",
       "Layouts",
@@ -45441,7 +45441,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/keith-is-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://keith.is/feed.xml",
     "Categories": [
       "CSS/Sass",
       "Global Data",
@@ -45510,7 +45510,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/keith-is-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://keith.is/feed.xml",
     "Categories": [
       "How to...",
       "Markdown",
@@ -46278,7 +46278,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/rosenqvist-design-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://rosenqvist.design/feed",
     "Categories": [
       "Blogging",
       "Migrating to Eleventy",
@@ -46487,7 +46487,7 @@
       "linkedin": "https://www.linkedin.com/in/chipcullen/"
     },
     "favicon": "/img/favicons/chipcullen-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://chipcullen.com/index.xml",
     "Categories": [
       "Images",
       "Nunjucks/Macros",
@@ -47110,7 +47110,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/rosenqvist-design-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://rosenqvist.design/feed",
     "Categories": [
       "How to...",
       "Plugins",
@@ -47614,7 +47614,7 @@
       "linkedin": "https://www.linkedin.com/in/ryan-gittings/"
     },
     "favicon": "/img/favicons/www-ryangittings-co-uk-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.ryangittings.co.uk/feed.xml",
     "Categories": [
       "Blogging",
       "CMS",
@@ -48496,7 +48496,7 @@
       "linkedin": "https://www.linkedin.com/in/fershad/"
     },
     "favicon": "/img/favicons/fershad-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://fershad.com/feed.xml",
     "Categories": [
       "How to...",
       "Webmentions"
@@ -49236,7 +49236,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/skiles-blue-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://skiles.blue/feed.xml",
     "Categories": [
       "Debugging",
       "Deployment"
@@ -49803,7 +49803,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/aninus-com-favicon.jpg",
-    "rssLink": "",
+    "rssLink": "https://aninus.com/feed",
     "Categories": [
       "Blogging",
       "Configuration",
@@ -50871,7 +50871,7 @@
       "linkedin": ""
     },
     "favicon": "/img/favicons/tlohde-com-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://tlohde.com/feed.xml",
     "Categories": [
       "CSS/Sass",
       "Data Cascade",
@@ -50990,7 +50990,7 @@
     "Author": "Nicholas Clooney",
     "slugifiedAuthor": "nicholas-clooney",
     "AuthorSite": "https://blog.nicholas.clooney.io",
-    "AuthorSiteDescription": "November 3, 2025 I wanted first-party analytics on my blog without handing traffic data to a SaaS vendor. Umami checked every box: open source, self-hostable, and friendly to privacy. I already keep a small VPS online 24/7, so dedicating a slice of that machine to Umami felt like a perfect fit.",
+    "AuthorSiteDescription": "A seasoned engineer who loves building thoughtful, well-crafted software.",
     "socialLinks": {
       "mastodon": "https://mastodon.social/@NicholasClooney",
       "bluesky": "",
@@ -51017,7 +51017,7 @@
     "Author": "Nicholas Clooney",
     "slugifiedAuthor": "nicholas-clooney",
     "AuthorSite": "https://blog.nicholas.clooney.io",
-    "AuthorSiteDescription": "November 3, 2025 I wanted first-party analytics on my blog without handing traffic data to a SaaS vendor. Umami checked every box: open source, self-hostable, and friendly to privacy. I already keep a small VPS online 24/7, so dedicating a slice of that machine to Umami felt like a perfect fit.",
+    "AuthorSiteDescription": "A seasoned engineer who loves building thoughtful, well-crafted software.",
     "socialLinks": {
       "mastodon": "https://mastodon.social/@NicholasClooney",
       "bluesky": "",
@@ -51044,7 +51044,7 @@
     "Author": "Nicholas Clooney",
     "slugifiedAuthor": "nicholas-clooney",
     "AuthorSite": "https://blog.nicholas.clooney.io",
-    "AuthorSiteDescription": "November 3, 2025 I wanted first-party analytics on my blog without handing traffic data to a SaaS vendor. Umami checked every box: open source, self-hostable, and friendly to privacy. I already keep a small VPS online 24/7, so dedicating a slice of that machine to Umami felt like a perfect fit.",
+    "AuthorSiteDescription": "A seasoned engineer who loves building thoughtful, well-crafted software.",
     "socialLinks": {
       "mastodon": "https://mastodon.social/@NicholasClooney",
       "bluesky": "",
@@ -51072,7 +51072,7 @@
     "Author": "Nicholas Clooney",
     "slugifiedAuthor": "nicholas-clooney",
     "AuthorSite": "https://blog.nicholas.clooney.io",
-    "AuthorSiteDescription": "November 3, 2025 I wanted first-party analytics on my blog without handing traffic data to a SaaS vendor. Umami checked every box: open source, self-hostable, and friendly to privacy. I already keep a small VPS online 24/7, so dedicating a slice of that machine to Umami felt like a perfect fit.",
+    "AuthorSiteDescription": "A seasoned engineer who loves building thoughtful, well-crafted software.",
     "socialLinks": {
       "mastodon": "https://mastodon.social/@NicholasClooney",
       "bluesky": "",
@@ -51229,7 +51229,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://dsriseah.com/feed",
     "Categories": [
       "Blogging",
       "Configuration",
@@ -51295,7 +51295,7 @@
       "linkedin": ""
     },
     "favicon": "#icon-person-circle",
-    "rssLink": "",
+    "rssLink": "https://dsriseah.com/feed",
     "Categories": [
       "Filters",
       "How to...",
@@ -51660,7 +51660,7 @@
     "Author": "Nicholas Clooney",
     "slugifiedAuthor": "nicholas-clooney",
     "AuthorSite": "https://blog.nicholas.clooney.io",
-    "AuthorSiteDescription": "November 3, 2025 I wanted first-party analytics on my blog without handing traffic data to a SaaS vendor. Umami checked every box: open source, self-hostable, and friendly to privacy. I already keep a small VPS online 24/7, so dedicating a slice of that machine to Umami felt like a perfect fit.",
+    "AuthorSiteDescription": "A seasoned engineer who loves building thoughtful, well-crafted software.",
     "socialLinks": {
       "mastodon": "https://mastodon.social/@NicholasClooney",
       "bluesky": "",
@@ -54168,11 +54168,11 @@
     "Link": "https://any.digital/tricks/njk/",
     "Date": "2026-01-29T00:00:00.000",
     "formattedDate": "Jan 29, 2026",
-    "description": "",
+    "description": "A collection of useful Nunjucks and Liquid templating tips & tricks -- primarily for Eleventy, but also useful for Shopify and Jekyll.",
     "Author": "Anton Staroverov",
     "slugifiedAuthor": "anton-staroverov",
     "AuthorSite": "https://any.digital",
-    "AuthorSiteDescription": "",
+    "AuthorSiteDescription": "Home of `Tricks for Geeks` open-source wiki. Creative coding tricks & emerging tech trends for modern development workflows.",
     "socialLinks": {
       "mastodon": "",
       "bluesky": "",
@@ -54246,7 +54246,7 @@
       "linkedin": "https://linkedin.com/in/lasanthak"
     },
     "favicon": "/img/favicons/www-lasantha-org-favicon.png",
-    "rssLink": "",
+    "rssLink": "https://www.lasantha.org/feed.xml",
     "Categories": [
       "Asset Pipelines",
       "CSS/Sass",
@@ -54569,5 +54569,266 @@
     "Date": "2026-02-06T07:58:51.000",
     "formattedDate": "Feb 6, 2026",
     "favicon": "/img/favicons/acaw-cama-idrc-ocadu-ca-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "How I Sync Mastodon Posts with My 11ty Blog",
+    "slugifiedTitle": "how-i-sync-mastodon-posts-with-my-11ty-blog",
+    "Link": "https://deepakness.com/blog/mastodon-sync/",
+    "Date": "2026-02-06T12:01:31.000",
+    "formattedDate": "Feb 6, 2026",
+    "description": "A walkthrough of a Node.js script that maps Mastodon statuses to blog slugs and updates frontmatter.",
+    "Author": "DeepakNess",
+    "slugifiedAuthor": "deepak-ness",
+    "AuthorSite": "https://deepakness.com",
+    "AuthorSiteDescription": "DeepakNess is an internet generalist exploring the edges of AI, tech, programmatic SEO, and marketing.",
+    "socialLinks": {
+      "mastodon": "https://www.threads.com/@deepakness",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/deepakness",
+      "linkedin": "https://linkedin.com/in/deepakness"
+    },
+    "favicon": "/img/favicons/deepakness-com-favicon.jpg",
+    "rssLink": "https://deepakness.com/feed/feed.xml",
+    "Categories": [
+      "Blogging",
+      "How to...",
+      "Social Media"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Some Updates (and Fixes) to my Site",
+    "slugifiedTitle": "some-updates-and-fixes-to-my-site",
+    "Link": "https://my.stuffandthings.lol/blog/2026-02-05/some-updates-and-fixes-to-my-site.html",
+    "Date": "2026-02-05T00:00:00.000",
+    "formattedDate": "Feb 5, 2026",
+    "description": "I fixed some stuff, added others, and broke some more",
+    "Author": "Jason Moser",
+    "slugifiedAuthor": "jason-moser",
+    "AuthorSite": "https://my.stuffandthings.lol",
+    "AuthorSiteDescription": "Just some stuff about things.",
+    "socialLinks": {
+      "mastodon": "https://social.lol/@jasonm",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/my-stuffandthings-lol-favicon.png",
+    "rssLink": "https://my.stuffandthings.lol/feed/feed.xml",
+    "Categories": [
+      "Deployment"
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Cyncrovee",
+    "description": "UK based software developer specialising in UI dev- whether it be GUI, TUI, CLI, or Web!",
+    "Link": "https://cyncrovee.nekoweb.org/",
+    "Date": "2026-02-06T15:23:27.000",
+    "formattedDate": "Feb 6, 2026",
+    "favicon": "/img/favicons/cyncrovee-nekoweb-org-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "blog post",
+    "Title": "Running Eleventy + Puppeteer in Docker on macOS (Colima): The Full Journey",
+    "slugifiedTitle": "running-eleventy-puppeteer-in-docker-on-mac-os-colima-the-full-journey",
+    "Link": "https://blog.nicholas.clooney.io/posts/running-eleventy-puppeteer-docker-colima/",
+    "Date": "2026-02-06T15:35:31.000",
+    "formattedDate": "Feb 6, 2026",
+    "description": "February 6, 2026 I wanted a Docker setup for my Eleventy resume project that also generates a PDF using Puppeteer. I assumed this would be straightforward. It wasn’t.",
+    "Author": "Nicholas Clooney",
+    "slugifiedAuthor": "nicholas-clooney",
+    "AuthorSite": "https://blog.nicholas.clooney.io",
+    "AuthorSiteDescription": "A seasoned engineer who loves building thoughtful, well-crafted software.",
+    "socialLinks": {
+      "mastodon": "https://mastodon.social/@NicholasClooney",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/NicholasClooney",
+      "linkedin": "https://www.linkedin.com/in/NicholasClooney"
+    },
+    "favicon": "#icon-person-circle",
+    "rssLink": "https://blog.nicholas.clooney.io/feed.xml",
+    "Categories": [
+      "Configuration",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Inclusive Standards",
+    "description": "Here, we gather all our efforts related to inclusive standards development.",
+    "Link": "https://standards.inclusivedesign.ca/",
+    "Date": "2026-02-07T08:52:05.000",
+    "formattedDate": "Feb 7, 2026",
+    "favicon": "/img/favicons/standards-inclusivedesign-ca-favicon.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "starter",
+    "Title": "The Newsprint Theme",
+    "Link": "https://github.com/brennanbrown/newsprint",
+    "Demo": "https://newsprint.netlify.app/",
+    "description": "🗞️ 11ty blog theme with a newspaper aesthetic, functioning as a newsletter-first publication. Prioritizing readability, traditional typography, and excellent RSS feed implementation.",
+    "screenshotpath": "/screenshots/newsprint-netlify-app-large.jpg"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "energieswitch",
+    "description": "Vergelijk energieleveranciers en switch naadloos over naar de beste deal. 100% onafhankelijk én eenvoudig. Bespaar tot €600 per jaar.",
+    "Link": "https://energieswitch.nl/",
+    "Date": "2026-02-09T10:45:22.000",
+    "formattedDate": "Feb 9, 2026",
+    "favicon": "/img/favicons/energieswitch-nl-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Guidebook for Financial Inclusion",
+    "description": "Frameworks and activities that can be used by financial institutions to understand barriers and create more inclusive financial offerings.",
+    "Link": "https://guidebook.financial-inclusion.ca/",
+    "Date": "2026-02-09T15:25:15.000",
+    "formattedDate": "Feb 9, 2026",
+    "favicon": "/img/favicons/guidebook-financial-inclusion-ca-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Centre for Networked Intelligence",
+    "description": "Centre for Networked Intelligence, under the division of EECS and RBCCPS, IISc, aims to develop next generation networking methodologies and concept solutions that can derive knowledge from evolved networks of the future.",
+    "Link": "https://cni.iisc.ac.in/",
+    "Date": "2026-02-10T10:48:38.000",
+    "formattedDate": "Feb 10, 2026",
+    "favicon": "/img/favicons/cni-iisc-ac-in-favicon.png"
+  },
+  {
+    "Issue": "83",
+    "Type": "site",
+    "Title": "Co-designing with children with disabilities",
+    "description": "Recommendations to enable designers, children, teachers, and caregivers to meet their respective needs and achieve their goals in a collaborative process.",
+    "Link": "https://co-design.weavly.org/",
+    "Date": "2026-02-10T20:33:36.000",
+    "formattedDate": "Feb 10, 2026",
+    "favicon": "/img/favicons/co-design-weavly-org-favicon.png"
+  },
+  {
+    "Issue": "84",
+    "Type": "site",
+    "Title": "Ripley Community Television",
+    "description": "Your source for local news, events, and community coverage in Ripley and Tippah County. Watch RCTV19 live streaming.",
+    "Link": "https://rctv19.com/",
+    "Date": "2026-02-11T12:01:22.000",
+    "formattedDate": "Feb 11, 2026",
+    "favicon": "/img/favicons/rctv19-com-favicon.png"
+  },
+  {
+    "Issue": "84",
+    "Type": "blog post",
+    "Title": "Why I inlined my CSS in 11ty",
+    "slugifiedTitle": "why-i-inlined-my-css-in-11ty",
+    "Link": "https://ldstephens.net/posts/why-i-inlined-my-css-in-11ty/",
+    "Date": "2026-02-11T12:50:44.000",
+    "formattedDate": "Feb 11, 2026",
+    "description": "A weblog by ldstephens",
+    "Author": "LD Stephens",
+    "slugifiedAuthor": "ld-stephens",
+    "AuthorSite": "https://ldstephens.net",
+    "AuthorSiteDescription": "A blog by ldstephens",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "",
+      "linkedin": ""
+    },
+    "favicon": "/img/favicons/ldstephens-net-favicon.png",
+    "rssLink": "https://ldstephens.net/feed/feed.xml",
+    "Categories": [
+      "CSS/Sass",
+      "How to..."
+    ]
+  },
+  {
+    "Issue": "84",
+    "Type": "site",
+    "Title": "Andrew Houle",
+    "description": "I&#39;m Andrew Houle, a web developer/designer who nerds out on design systems &amp; clean code. I run my biz under the moniker Craft and Function.",
+    "Link": "https://andrewhoule.me/",
+    "Date": "2026-02-11T13:59:00.000",
+    "formattedDate": "Feb 11, 2026",
+    "favicon": "/img/favicons/andrewhoule-me-favicon.png"
+  },
+  {
+    "Issue": "84",
+    "Type": "blog post",
+    "Title": "Eleventy is Noice!!",
+    "slugifiedTitle": "eleventy-is-noice",
+    "Link": "https://andrewhoule.me/musings/eleventy-is-noice/",
+    "Date": "2026-02-09T00:00:00.000",
+    "formattedDate": "Feb 9, 2026",
+    "description": "I keep using Eleventy for more and more projects—and man, it&#39;s such a joy to work with! Nothing to get in the way. Nothing to slow me down.",
+    "Author": "Andrew Houle",
+    "slugifiedAuthor": "andrew-houle",
+    "AuthorSite": "https://andrewhoule.me",
+    "AuthorSiteDescription": "I&#39;m Andrew Houle, a web developer/designer who nerds out on design systems &amp; clean code. I run my biz under the moniker Craft and Function.",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/andrewhoule",
+      "linkedin": "https://linkedin.com/in/andrewhoule/"
+    },
+    "favicon": "/img/favicons/andrewhoule-me-favicon.png",
+    "rssLink": "https://andrewhoule.me/feed.xml",
+    "Categories": [
+      "Why Eleventy?"
+    ]
+  },
+  {
+    "Issue": "84",
+    "Type": "blog post",
+    "Title": "Eleventy Tricks",
+    "slugifiedTitle": "eleventy-tricks",
+    "Link": "https://any.digital/tricks/11ty/",
+    "Date": "2026-02-11T15:06:15.000",
+    "formattedDate": "Feb 11, 2026",
+    "description": "A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.",
+    "Author": "Anton Staroverov",
+    "slugifiedAuthor": "anton-staroverov",
+    "AuthorSite": "https://any.digital",
+    "AuthorSiteDescription": "Home of `Tricks for Geeks` open-source wiki. Creative coding tricks & emerging tech trends for modern development workflows.",
+    "socialLinks": {
+      "mastodon": "",
+      "bluesky": "",
+      "youtube": "",
+      "github": "https://github.com/anydigital",
+      "linkedin": "https://www.linkedin.com/in/anton-staroverov/"
+    },
+    "favicon": "/img/favicons/any-digital-favicon.png",
+    "rssLink": "",
+    "Categories": [
+      "Getting Started",
+      "How to...",
+      "Nunjucks/Macros"
+    ]
+  },
+  {
+    "Issue": "84",
+    "Type": "site",
+    "Title": "Project Etho",
+    "description": "Etho&#39;s appearances across the web.",
+    "Link": "https://etho.clooney.io/",
+    "Date": "2026-02-11T15:17:39.000",
+    "formattedDate": "Feb 11, 2026",
+    "favicon": "#icon-globe"
   }
 ]
